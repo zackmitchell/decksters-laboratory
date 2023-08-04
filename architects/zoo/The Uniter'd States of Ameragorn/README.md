@@ -1,5 +1,4 @@
 # The Uniter'd States of Ameragorn
----
 ## Overview
 ### Details
 ```

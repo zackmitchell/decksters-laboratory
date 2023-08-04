@@ -1,5 +1,4 @@
 # The Fast and the Furriest
----
 ## Overview
 ### Details
 ```

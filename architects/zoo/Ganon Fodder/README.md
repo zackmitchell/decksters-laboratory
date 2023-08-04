@@ -1,5 +1,4 @@
 # Ganon Fodder
----
 ## Overview
 ### Details
 ```

@@ -1,5 +1,4 @@
 # The Copy-Cast Killer
----
 ## Overview
 ### Details
 ```
