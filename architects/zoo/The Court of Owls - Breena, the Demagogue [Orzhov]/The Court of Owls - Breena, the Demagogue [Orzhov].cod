@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>The Court of Owls</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Breena, the Demagogue"/>
+        <card number="16" name="Plains"/>
+        <card number="13" name="Swamp"/>
+        <card number="1" name="Orcish Bowmasters"/>
+        <card number="1" name="Windborn Muse"/>
+        <card number="1" name="Dusk Legion Duelist"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Orzhov Advokist"/>
+        <card number="1" name="Firemane Commando"/>
+        <card number="1" name="Drana and Linvala"/>
+        <card number="1" name="Despark"/>
+        <card number="1" name="Dark Ritual"/>
+        <card number="1" name="Cut a Deal"/>
+        <card number="1" name="Sign in Blood"/>
+        <card number="1" name="Vindicate"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Martial Impetus"/>
+        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Vow of Torment"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Maze of Ith"/>
+        <card number="1" name="Isolated Chapel"/>
+        <card number="1" name="Shattered Sanctum"/>
+        <card number="1" name="Shineshadow Snarl"/>
+        <card number="1" name="Marsh Flats"/>
+        <card number="1" name="Luminous Broodmoth"/>
+        <card number="1" name="Fateful Absence"/>
+        <card number="1" name="Blossoming Calm"/>
+        <card number="1" name="Disenchant"/>
+        <card number="1" name="Guardian of Faith"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Defiler of Faith"/>
+        <card number="1" name="Mirror Entity"/>
+        <card number="1" name="Kunoros, Hound of Athreos"/>
+        <card number="1" name="Legions to Ashes"/>
+        <card number="1" name="Breach the Multiverse"/>
+        <card number="1" name="Sculpted Sunburst"/>
+        <card number="1" name="Brightclimb Pathway"/>
+        <card number="1" name="Archivist of Oghma"/>
+        <card number="1" name="Nightshade Harvester"/>
+        <card number="1" name="Dauthi Voidwalker"/>
+        <card number="1" name="Royal Assassin"/>
+        <card number="1" name="Dread Presence"/>
+        <card number="1" name="Reprieve"/>
+        <card number="1" name="Lobelia Sackville-Baggins"/>
+        <card number="1" name="Minas Tirith"/>
+        <card number="1" name="Soul Snare"/>
+        <card number="1" name="Monologue Tax"/>
+        <card number="1" name="Tenuous Truce"/>
+        <card number="1" name="Cunning Rhetoric"/>
+        <card number="1" name="Bloodthirsty Blade"/>
+        <card number="1" name="Tempting Contract"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Debt to the Deathless"/>
+        <card number="1" name="Council's Judgment"/>
+        <card number="1" name="Fain, the Broker"/>
+        <card number="1" name="Felisa, Fang of Silverquill"/>
+        <card number="1" name="Master of Ceremonies"/>
+        <card number="1" name="Deathbringer Liege"/>
+        <card number="1" name="Sunscorch Regent"/>
+        <card number="1" name="Ghostly Prison"/>
+        <card number="1" name="Mangara, the Diplomat"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Shaile, Dean of Radiance"/>
+        <card number="1" name="Lotho, Corrupt Shirriff"/>
+        <card number="1" name="Wedding Ring"/>
+        <card number="1" name="Black Market"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Archaeomancer's Map"/>
+        <card number="1" name="Demonic Tutor"/>
+        <card number="1" name="Revival // Revenge"/>
+    </zone>
+    <zone name="side"/>
+</cockatrice_deck>
