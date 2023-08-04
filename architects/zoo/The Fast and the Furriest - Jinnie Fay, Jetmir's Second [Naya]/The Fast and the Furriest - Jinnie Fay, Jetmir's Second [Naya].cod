@@ -1,1 +1,85 @@
-<cockatrice_deck version="1"><deckname>The Fast and the Furriest</deckname><zone name="main"><card number="1" name="Jinnie Fay, Jetmir's Second"/><card number="1" name="Peregrin Took"/><card number="1" name="Rosie Cotton of South Lane"/><card number="1" name="Artifact Mutation"/><card number="1" name="The Shire"/><card number="1" name="March of the Multitudes"/><card number="1" name="Queen Allenal of Ruadach"/><card number="1" name="Rabble Rousing"/><card number="1" name="Cadira, Caller of the Small"/><card number="1" name="Jetmir, Nexus of Revels"/><card number="1" name="Intangible Virtue"/><card number="1" name="Felidar Retreat"/><card number="1" name="Cultivate"/><card number="1" name="Shamanic Revelation"/><card number="1" name="Gala Greeters"/><card number="1" name="Regal Caracal"/><card number="1" name="Scute Swarm"/><card number="1" name="Mondrak, Glory Dominus"/><card number="1" name="Black Market Tycoon"/><card number="1" name="Adeline, Resplendent Cathar"/><card number="1" name="Tireless Provisioner"/><card number="1" name="Prava of the Steel Legion"/><card number="1" name="Academy Manufactor"/><card number="1" name="Kitt Kanto, Mayhem Diva"/><card number="1" name="Raise the Alarm"/><card number="1" name="Rith's Charm"/><card number="1" name="Nature's Lore"/><card number="1" name="White Sun's Twilight"/><card number="1" name="Harmonize"/><card number="1" name="Release the Dogs"/><card number="1" name="Many Partings"/><card number="1" name="Swiftfoot Boots"/><card number="1" name="Ashnod's Altar"/><card number="1" name="Sol Ring"/><card number="1" name="Arcane Signet"/><card number="1" name="Command Tower"/><card number="1" name="Cabaretti Courtyard"/><card number="1" name="Myriad Landscape"/><card number="1" name="Evolving Wilds"/><card number="1" name="Temple of Triumph"/><card number="1" name="Overgrown Farmland"/><card number="1" name="Clifftop Retreat"/><card number="11" name="Forest"/><card number="1" name="Mountain"/><card number="1" name="Bountiful Promenade"/><card number="1" name="Wayfarer's Bauble"/><card number="1" name="Fae Offering"/><card number="1" name="Elvish Mystic"/><card number="12" name="Plains"/><card number="1" name="Neyali, Suns' Vanguard"/><card number="1" name="Citanul Hierophants"/><card number="1" name="Glorious Anthem"/><card number="1" name="Wedding Announcement"/><card number="1" name="Karplusan Forest"/><card number="1" name="Brushland"/><card number="1" name="Finale of Glory"/><card number="1" name="Exotic Orchard"/><card number="1" name="Emeria Angel"/><card number="1" name="Call the Coppercoats"/><card number="1" name="Staff of the Storyteller"/><card number="1" name="Furycalm Snarl"/><card number="1" name="Loyal Apprentice"/><card number="1" name="Flawless Maneuver"/><card number="1" name="Hordeling Outburst"/><card number="1" name="Roar of Resistance"/><card number="1" name="Torens, Fist of the Angels"/><card number="1" name="Join the Dance"/><card number="1" name="Elemental Bond"/><card number="1" name="Beastmaster Ascension"/><card number="1" name="Secure the Wastes"/><card number="1" name="Skullclamp"/><card number="1" name="Farmer Cotton"/><card number="1" name="Tribute to the World Tree"/><card number="1" name="Impact Tremors"/><card number="1" name="Tocasia's Welcome"/><card number="1" name="Generous Gift"/><card number="1" name="Commander's Sphere"/><card number="1" name="Path to Exile"/><card number="1" name="Gift of Estates"/></zone><zone name="side"/></cockatrice_deck>
+<cockatrice_deck version="1">
+    <deckname>The Fast and the Furriest</deckname>
+    <zone name="main">
+        <card number="1" name="Jinnie Fay, Jetmir's Second"/>
+        <card number="1" name="Peregrin Took"/>
+        <card number="1" name="Rosie Cotton of South Lane"/>
+        <card number="1" name="Artifact Mutation"/>
+        <card number="1" name="The Shire"/>
+        <card number="1" name="March of the Multitudes"/>
+        <card number="1" name="Queen Allenal of Ruadach"/>
+        <card number="1" name="Rabble Rousing"/>
+        <card number="1" name="Cadira, Caller of the Small"/>
+        <card number="1" name="Jetmir, Nexus of Revels"/>
+        <card number="1" name="Intangible Virtue"/>
+        <card number="1" name="Felidar Retreat"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Shamanic Revelation"/>
+        <card number="1" name="Gala Greeters"/>
+        <card number="1" name="Regal Caracal"/>
+        <card number="1" name="Scute Swarm"/>
+        <card number="1" name="Mondrak, Glory Dominus"/>
+        <card number="1" name="Black Market Tycoon"/>
+        <card number="1" name="Adeline, Resplendent Cathar"/>
+        <card number="1" name="Tireless Provisioner"/>
+        <card number="1" name="Prava of the Steel Legion"/>
+        <card number="1" name="Academy Manufactor"/>
+        <card number="1" name="Kitt Kanto, Mayhem Diva"/>
+        <card number="1" name="Raise the Alarm"/>
+        <card number="1" name="Rith's Charm"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="White Sun's Twilight"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Release the Dogs"/>
+        <card number="1" name="Many Partings"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Ashnod's Altar"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Cabaretti Courtyard"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Temple of Triumph"/>
+        <card number="1" name="Overgrown Farmland"/>
+        <card number="1" name="Clifftop Retreat"/>
+        <card number="11" name="Forest"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Bountiful Promenade"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Fae Offering"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="12" name="Plains"/>
+        <card number="1" name="Neyali, Suns' Vanguard"/>
+        <card number="1" name="Citanul Hierophants"/>
+        <card number="1" name="Glorious Anthem"/>
+        <card number="1" name="Wedding Announcement"/>
+        <card number="1" name="Karplusan Forest"/>
+        <card number="1" name="Brushland"/>
+        <card number="1" name="Finale of Glory"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Emeria Angel"/>
+        <card number="1" name="Call the Coppercoats"/>
+        <card number="1" name="Staff of the Storyteller"/>
+        <card number="1" name="Furycalm Snarl"/>
+        <card number="1" name="Loyal Apprentice"/>
+        <card number="1" name="Flawless Maneuver"/>
+        <card number="1" name="Hordeling Outburst"/>
+        <card number="1" name="Roar of Resistance"/>
+        <card number="1" name="Torens, Fist of the Angels"/>
+        <card number="1" name="Join the Dance"/>
+        <card number="1" name="Elemental Bond"/>
+        <card number="1" name="Beastmaster Ascension"/>
+        <card number="1" name="Secure the Wastes"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Farmer Cotton"/>
+        <card number="1" name="Tribute to the World Tree"/>
+        <card number="1" name="Impact Tremors"/>
+        <card number="1" name="Tocasia's Welcome"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Gift of Estates"/>
+    </zone>
+    <zone name="side"/>
+</cockatrice_deck>
