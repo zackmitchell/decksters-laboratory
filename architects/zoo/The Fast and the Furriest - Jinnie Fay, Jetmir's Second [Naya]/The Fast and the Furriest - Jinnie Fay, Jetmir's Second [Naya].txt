@@ -1,80 +1,80 @@
-Main (100)  
-1 Elvish Mystic  
-1 Black Market Tycoon  
-1 Farmer Cotton  
-1 Gala Greeters  
-1 Loyal Apprentice  
-1 Academy Manufactor  
-1 Adeline, Resplendent Cathar  
-1 Cadira, Caller of the Small  
-1 Jinnie Fay, Jetmir's Second  
-1 Peregrin Took  
-1 Prava of the Steel Legion  
-1 Queen Allenal of Ruadach  
-1 Rosie Cotton of South Lane  
-1 Scute Swarm  
-1 Tireless Provisioner  
-1 Torens, Fist of the Angels  
-1 Citanul Hierophants  
-1 Emeria Angel  
-1 Jetmir, Nexus of Revels  
-1 Kitt Kanto, Mayhem Diva  
-1 Mondrak, Glory Dominus  
-1 Neyali, Suns' Vanguard  
-1 Regal Caracal  
-1 Path to Exile  
-1 Secure the Wastes  
-1 Artifact Mutation  
-1 Raise the Alarm  
-1 Call the Coppercoats  
-1 Flawless Maneuver  
-1 Generous Gift  
-1 March of the Multitudes  
-1 Rith's Charm  
-1 Many Partings  
-1 Finale of Glory  
-1 Gift of Estates  
-1 Join the Dance  
-1 Nature's Lore  
-1 White Sun's Twilight  
-1 Cultivate  
-1 Hordeling Outburst  
-1 Harmonize  
-1 Release the Dogs  
-1 Shamanic Revelation  
-1 Skullclamp  
-1 Sol Ring  
-1 Wayfarer's Bauble  
-1 Arcane Signet  
-1 Staff of the Storyteller  
-1 Swiftfoot Boots  
-1 Ashnod's Altar  
-1 Commander's Sphere  
-1 Impact Tremors  
-1 Intangible Virtue  
-1 Roar of Resistance  
-1 Beastmaster Ascension  
-1 Elemental Bond  
-1 Fae Offering  
-1 Glorious Anthem  
-1 Tocasia's Welcome  
-1 Tribute to the World Tree  
-1 Wedding Announcement  
-1 Felidar Retreat  
-1 Rabble Rousing  
-1 Bountiful Promenade  
-1 Brushland  
-1 Cabaretti Courtyard  
-1 Clifftop Retreat  
-1 Command Tower  
-1 Evolving Wilds  
-1 Exotic Orchard  
-11 Forest  
-1 Furycalm Snarl  
-1 Karplusan Forest  
-1 Mountain  
-1 Myriad Landscape  
-1 Overgrown Farmland  
-12 Plains  
-1 Temple of Triumph  
-1 The Shire  
+Main (100)
+1 Elvish Mystic
+1 Black Market Tycoon
+1 Farmer Cotton
+1 Gala Greeters
+1 Loyal Apprentice
+1 Academy Manufactor
+1 Adeline, Resplendent Cathar
+1 Cadira, Caller of the Small
+1 Jinnie Fay, Jetmir's Second
+1 Peregrin Took
+1 Prava of the Steel Legion
+1 Queen Allenal of Ruadach
+1 Rosie Cotton of South Lane
+1 Scute Swarm
+1 Tireless Provisioner
+1 Torens, Fist of the Angels
+1 Citanul Hierophants
+1 Emeria Angel
+1 Jetmir, Nexus of Revels
+1 Kitt Kanto, Mayhem Diva
+1 Mondrak, Glory Dominus
+1 Neyali, Suns' Vanguard
+1 Regal Caracal
+1 Path to Exile
+1 Secure the Wastes
+1 Artifact Mutation
+1 Raise the Alarm
+1 Call the Coppercoats
+1 Flawless Maneuver
+1 Generous Gift
+1 March of the Multitudes
+1 Rith's Charm
+1 Many Partings
+1 Finale of Glory
+1 Gift of Estates
+1 Join the Dance
+1 Nature's Lore
+1 White Sun's Twilight
+1 Cultivate
+1 Hordeling Outburst
+1 Harmonize
+1 Release the Dogs
+1 Shamanic Revelation
+1 Skullclamp
+1 Sol Ring
+1 Wayfarer's Bauble
+1 Arcane Signet
+1 Staff of the Storyteller
+1 Swiftfoot Boots
+1 Ashnod's Altar
+1 Commander's Sphere
+1 Impact Tremors
+1 Intangible Virtue
+1 Roar of Resistance
+1 Beastmaster Ascension
+1 Elemental Bond
+1 Fae Offering
+1 Glorious Anthem
+1 Tocasia's Welcome
+1 Tribute to the World Tree
+1 Wedding Announcement
+1 Felidar Retreat
+1 Rabble Rousing
+1 Bountiful Promenade
+1 Brushland
+1 Cabaretti Courtyard
+1 Clifftop Retreat
+1 Command Tower
+1 Evolving Wilds
+1 Exotic Orchard
+11 Forest
+1 Furycalm Snarl
+1 Karplusan Forest
+1 Mountain
+1 Myriad Landscape
+1 Overgrown Farmland
+12 Plains
+1 Temple of Triumph
+1 The Shire

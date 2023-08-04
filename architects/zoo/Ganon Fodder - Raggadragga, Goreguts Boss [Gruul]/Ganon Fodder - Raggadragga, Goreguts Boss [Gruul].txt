@@ -1,75 +1,75 @@
-Main (100)  
-1 Birds of Paradise  
-1 Delighted Halfling  
-1 Elvish Mystic  
-1 Fyndhorn Elves  
-1 Goldhound  
-1 Llanowar Elves  
-1 Ulvenwald Tracker  
-1 Armored Scrapgorger  
-1 Biophagus  
-1 Gala Greeters  
-1 Goblin Anarchomancer  
-1 Humble Naturalist  
-1 Ilysian Caryatid  
-1 Leaf-Crowned Visionary  
-1 Leafkin Druid  
-1 Llanowar Loamspeaker  
-1 Paradise Druid  
-1 Prosperous Innkeeper  
-1 Radha, Heir to Keld  
-1 Zhur-Taa Druid  
-1 Circle of Dreams Druid  
-1 Elvish Archdruid  
-1 Gwenna, Eyes of Gaea  
-1 Heronblade Elite  
-1 Marwyn, the Nurturer  
-1 Tuktuk Rubblefort  
-1 Viridian Joiner  
-1 Beast Whisperer  
-1 Grand Warlord Radha  
-1 Leafkin Avenger  
-1 Raggadragga, Goreguts Boss  
-1 Ashaya, Soul of the Wild  
-1 Defiler of Vigor  
-1 Cultivator Colossus  
-1 Old Gnawbone  
-1 Titan of Industry  
-1 Zopandrel, Hunger Dominus  
-1 Craterhoof Behemoth  
-1 Infuriate  
-1 Lunar Frenzy  
-1 Luxurious Libation  
-1 Outmaneuver  
-1 Electrodominance  
-1 Wrap in Vigor  
-1 Hunter's Insight  
-1 Green Sun's Zenith  
-1 Awaken the Woods  
-1 Crackle with Power  
-1 Hull Breach  
-1 Jaya's Immolating Inferno  
-1 Nature's Lore  
-1 Red Sun's Twilight  
-1 Three Visits  
-1 Natural Order  
-1 Sol Ring  
-1 Swiftfoot Boots  
-1 Lifecrafter's Bestiary  
-1 Concordant Crossroads  
-1 Exploration  
-1 Sylvan Anthem  
-1 Elemental Bond  
-1 Rhythm of the Wild  
-1 Elven Chorus  
-1 Guardian Project  
-1 Glorious Sunrise  
-1 Unnatural Growth  
-1 Cinder Glade  
-1 Command Tower  
-19 Forest  
-9 Mountain  
-1 Rockfall Vale  
-1 Rogue's Passage  
-1 Rugged Highlands  
-1 Spire Garden  
+Main (100)
+1 Birds of Paradise
+1 Delighted Halfling
+1 Elvish Mystic
+1 Fyndhorn Elves
+1 Goldhound
+1 Llanowar Elves
+1 Ulvenwald Tracker
+1 Armored Scrapgorger
+1 Biophagus
+1 Gala Greeters
+1 Goblin Anarchomancer
+1 Humble Naturalist
+1 Ilysian Caryatid
+1 Leaf-Crowned Visionary
+1 Leafkin Druid
+1 Llanowar Loamspeaker
+1 Paradise Druid
+1 Prosperous Innkeeper
+1 Radha, Heir to Keld
+1 Zhur-Taa Druid
+1 Circle of Dreams Druid
+1 Elvish Archdruid
+1 Gwenna, Eyes of Gaea
+1 Heronblade Elite
+1 Marwyn, the Nurturer
+1 Tuktuk Rubblefort
+1 Viridian Joiner
+1 Beast Whisperer
+1 Grand Warlord Radha
+1 Leafkin Avenger
+1 Raggadragga, Goreguts Boss
+1 Ashaya, Soul of the Wild
+1 Defiler of Vigor
+1 Cultivator Colossus
+1 Old Gnawbone
+1 Titan of Industry
+1 Zopandrel, Hunger Dominus
+1 Craterhoof Behemoth
+1 Infuriate
+1 Lunar Frenzy
+1 Luxurious Libation
+1 Outmaneuver
+1 Electrodominance
+1 Wrap in Vigor
+1 Hunter's Insight
+1 Green Sun's Zenith
+1 Awaken the Woods
+1 Crackle with Power
+1 Hull Breach
+1 Jaya's Immolating Inferno
+1 Nature's Lore
+1 Red Sun's Twilight
+1 Three Visits
+1 Natural Order
+1 Sol Ring
+1 Swiftfoot Boots
+1 Lifecrafter's Bestiary
+1 Concordant Crossroads
+1 Exploration
+1 Sylvan Anthem
+1 Elemental Bond
+1 Rhythm of the Wild
+1 Elven Chorus
+1 Guardian Project
+1 Glorious Sunrise
+1 Unnatural Growth
+1 Cinder Glade
+1 Command Tower
+19 Forest
+9 Mountain
+1 Rockfall Vale
+1 Rogue's Passage
+1 Rugged Highlands
+1 Spire Garden

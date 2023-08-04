@@ -1,77 +1,77 @@
-Main (100)  
-1 Monastery Swiftspear  
-1 Omen Hawker  
-1 Baral, Chief of Compliance  
-1 Electrostatic Infantry  
-1 Kessig Flamebreather  
-1 Nightscape Familiar  
-1 Prismari Apprentice  
-1 Sprite Dragon  
-1 Thieving Skydiver  
-1 Third Path Iconoclast  
-1 Young Pyromancer  
-1 Guttersnipe  
-1 Kelpie Guide  
-1 Sedgemoor Witch  
-1 Archmage Emeritus  
-1 Cormela, Glamour Thief  
-1 Mizzix of the Izmagnus  
-1 Serum-Core Chimera  
-1 Storm-Kiln Artist  
-1 Wizards of Thay  
-1 Zevlor, Elturel Exile  
-1 Willbreaker  
-1 Lightning Bolt  
-1 Opt  
-1 Thought Scour  
-1 You Are Already Dead  
-1 Abrade  
-1 Bladebrand  
-1 Counterspell  
-1 Defabricate  
-1 Doom Blade  
-1 Galvanic Iteration  
-1 Hurkyl's Recall  
-1 Increasing Vengeance  
-1 Negate  
-1 Snap  
-1 Twincast  
-1 Electrolyze  
-1 Maestros Charm  
-1 Recoil  
-1 Undercity's Embrace  
-1 Astarion's Thirst  
-1 Press the Enemy  
-1 Misdirection  
-1 By Force  
-1 Angrath's Rampage  
-1 Chainer's Edict  
-1 Press for Answers  
-1 Borrowing 100,000 Arrows  
-1 Jeska's Will  
-1 Kari Zev's Expertise  
-1 Tendrils of Agony  
-1 Traitorous Greed  
-1 Sol Ring  
-1 Wayfarer's Bauble  
-1 Arcane Signet  
-1 Swiftfoot Boots  
-1 Thought Vessel  
-1 Mindsplice Apparatus  
-1 Primal Amulet  
-1 Training Grounds  
-1 Wizard Class  
-1 Quicksilver Dagger  
-1 Cabal Coffers  
-1 Command Tower  
-1 Frostboil Snarl  
-1 Haunted Ridge  
-12 Island  
-1 Luxury Suite  
-1 Morphic Pool  
-8 Mountain  
-1 Prismatic Vista  
-1 Sulfur Falls  
-7 Swamp  
-1 Training Center  
-1 Urborg, Tomb of Yawgmoth  
+Main (100)
+1 Monastery Swiftspear
+1 Omen Hawker
+1 Baral, Chief of Compliance
+1 Electrostatic Infantry
+1 Kessig Flamebreather
+1 Nightscape Familiar
+1 Prismari Apprentice
+1 Sprite Dragon
+1 Thieving Skydiver
+1 Third Path Iconoclast
+1 Young Pyromancer
+1 Guttersnipe
+1 Kelpie Guide
+1 Sedgemoor Witch
+1 Archmage Emeritus
+1 Cormela, Glamour Thief
+1 Mizzix of the Izmagnus
+1 Serum-Core Chimera
+1 Storm-Kiln Artist
+1 Wizards of Thay
+1 Zevlor, Elturel Exile
+1 Willbreaker
+1 Lightning Bolt
+1 Opt
+1 Thought Scour
+1 You Are Already Dead
+1 Abrade
+1 Bladebrand
+1 Counterspell
+1 Defabricate
+1 Doom Blade
+1 Galvanic Iteration
+1 Hurkyl's Recall
+1 Increasing Vengeance
+1 Negate
+1 Snap
+1 Twincast
+1 Electrolyze
+1 Maestros Charm
+1 Recoil
+1 Undercity's Embrace
+1 Astarion's Thirst
+1 Press the Enemy
+1 Misdirection
+1 By Force
+1 Angrath's Rampage
+1 Chainer's Edict
+1 Press for Answers
+1 Borrowing 100,000 Arrows
+1 Jeska's Will
+1 Kari Zev's Expertise
+1 Tendrils of Agony
+1 Traitorous Greed
+1 Sol Ring
+1 Wayfarer's Bauble
+1 Arcane Signet
+1 Swiftfoot Boots
+1 Thought Vessel
+1 Mindsplice Apparatus
+1 Primal Amulet
+1 Training Grounds
+1 Wizard Class
+1 Quicksilver Dagger
+1 Cabal Coffers
+1 Command Tower
+1 Frostboil Snarl
+1 Haunted Ridge
+12 Island
+1 Luxury Suite
+1 Morphic Pool
+8 Mountain
+1 Prismatic Vista
+1 Sulfur Falls
+7 Swamp
+1 Training Center
+1 Urborg, Tomb of Yawgmoth

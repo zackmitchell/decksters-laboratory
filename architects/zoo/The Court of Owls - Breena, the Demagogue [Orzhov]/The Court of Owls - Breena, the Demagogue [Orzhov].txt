@@ -1,74 +1,74 @@
-Main (100)  
-1 Archivist of Oghma  
-1 Dauthi Voidwalker  
-1 Dusk Legion Duelist  
-1 Lotho, Corrupt Shirriff  
-1 Orcish Bowmasters  
-1 Shaile, Dean of Radiance  
-1 Breena, the Demagogue  
-1 Fain, the Broker  
-1 Guardian of Faith  
-1 Kunoros, Hound of Athreos  
-1 Lobelia Sackville-Baggins  
-1 Mirror Entity  
-1 Orzhov Advokist  
-1 Royal Assassin  
-1 Drana and Linvala  
-1 Dread Presence  
-1 Felisa, Fang of Silverquill  
-1 Firemane Commando  
-1 Luminous Broodmoth  
-1 Mangara, the Diplomat  
-1 Master of Ceremonies  
-1 Nightshade Harvester  
-1 Windborn Muse  
-1 Deathbringer Liege  
-1 Defiler of Faith  
-1 Sunscorch Regent  
-1 Blossoming Calm  
-1 Dark Ritual  
-1 Swords to Plowshares  
-1 Despark  
-1 Disenchant  
-1 Fateful Absence  
-1 Reprieve  
-1 Demonic Tutor  
-1 Sign in Blood  
-1 Council's Judgment  
-1 Cut a Deal  
-1 Legions to Ashes  
-1 Vindicate  
-1 Debt to the Deathless  
-1 Sculpted Sunburst  
-1 Austere Command  
-1 Breach the Multiverse  
-1 Revival  
-1 Sol Ring  
-1 Wayfarer's Bauble  
-1 Arcane Signet  
-1 Bloodthirsty Blade  
-1 Swiftfoot Boots  
-1 Archaeomancer's Map  
-1 Commander's Sphere  
-1 Tempting Contract  
-1 Wedding Ring  
-1 Soul Snare  
-1 Tenuous Truce  
-1 Cunning Rhetoric  
-1 Ghostly Prison  
-1 Martial Impetus  
-1 Monologue Tax  
-1 Phyrexian Arena  
-1 Vow of Torment  
-1 Black Market  
-1 Brightclimb Pathway  
-1 Command Tower  
-1 Isolated Chapel  
-1 Marsh Flats  
-1 Maze of Ith  
-1 Minas Tirith  
-1 Myriad Landscape  
-16 Plains  
-1 Shattered Sanctum  
-1 Shineshadow Snarl  
-13 Swamp  
+Main (100)
+1 Archivist of Oghma
+1 Dauthi Voidwalker
+1 Dusk Legion Duelist
+1 Lotho, Corrupt Shirriff
+1 Orcish Bowmasters
+1 Shaile, Dean of Radiance
+1 Breena, the Demagogue
+1 Fain, the Broker
+1 Guardian of Faith
+1 Kunoros, Hound of Athreos
+1 Lobelia Sackville-Baggins
+1 Mirror Entity
+1 Orzhov Advokist
+1 Royal Assassin
+1 Drana and Linvala
+1 Dread Presence
+1 Felisa, Fang of Silverquill
+1 Firemane Commando
+1 Luminous Broodmoth
+1 Mangara, the Diplomat
+1 Master of Ceremonies
+1 Nightshade Harvester
+1 Windborn Muse
+1 Deathbringer Liege
+1 Defiler of Faith
+1 Sunscorch Regent
+1 Blossoming Calm
+1 Dark Ritual
+1 Swords to Plowshares
+1 Despark
+1 Disenchant
+1 Fateful Absence
+1 Reprieve
+1 Demonic Tutor
+1 Sign in Blood
+1 Council's Judgment
+1 Cut a Deal
+1 Legions to Ashes
+1 Vindicate
+1 Debt to the Deathless
+1 Sculpted Sunburst
+1 Austere Command
+1 Breach the Multiverse
+1 Revival
+1 Sol Ring
+1 Wayfarer's Bauble
+1 Arcane Signet
+1 Bloodthirsty Blade
+1 Swiftfoot Boots
+1 Archaeomancer's Map
+1 Commander's Sphere
+1 Tempting Contract
+1 Wedding Ring
+1 Soul Snare
+1 Tenuous Truce
+1 Cunning Rhetoric
+1 Ghostly Prison
+1 Martial Impetus
+1 Monologue Tax
+1 Phyrexian Arena
+1 Vow of Torment
+1 Black Market
+1 Brightclimb Pathway
+1 Command Tower
+1 Isolated Chapel
+1 Marsh Flats
+1 Maze of Ith
+1 Minas Tirith
+1 Myriad Landscape
+16 Plains
+1 Shattered Sanctum
+1 Shineshadow Snarl
+13 Swamp
