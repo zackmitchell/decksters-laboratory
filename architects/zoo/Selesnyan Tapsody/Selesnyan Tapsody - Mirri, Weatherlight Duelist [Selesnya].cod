@@ -1,4 +1,4 @@
-<cockatrice_deck version="1">
+<cockatrice_deck version="1.0.0">
     <deckname>Selesnyan Tapsody</deckname>
     <zone name="main">
         <card number="1" name="Akroma's Will"/>
