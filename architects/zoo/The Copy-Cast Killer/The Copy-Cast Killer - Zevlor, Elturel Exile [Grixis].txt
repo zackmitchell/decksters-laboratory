@@ -1,4 +1,4 @@
-Main (100)
+1 Zevlor, Elturel Exile
 1 Monastery Swiftspear
 1 Omen Hawker
 1 Baral, Chief of Compliance
@@ -19,7 +19,6 @@ Main (100)
 1 Serum-Core Chimera
 1 Storm-Kiln Artist
 1 Wizards of Thay
-1 Zevlor, Elturel Exile
 1 Willbreaker
 1 Lightning Bolt
 1 Opt

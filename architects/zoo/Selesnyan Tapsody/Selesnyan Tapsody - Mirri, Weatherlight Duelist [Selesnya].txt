@@ -1,4 +1,4 @@
-Main (100)
+1 Mirri, Weatherlight Duelist
 1 Avacyn's Pilgrim
 1 Elvish Mystic
 1 Giver of Runes
@@ -17,7 +17,6 @@ Main (100)
 1 Good-Fortune Unicorn
 1 Kami of Whispered Hopes
 1 Kodama of the West Tree
-1 Mirri, Weatherlight Duelist
 1 Pridemalkin
 1 Siege Veteran
 1 Armorcraft Judge

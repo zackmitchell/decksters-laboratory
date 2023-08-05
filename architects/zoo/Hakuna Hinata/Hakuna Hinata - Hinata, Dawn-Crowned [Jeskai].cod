@@ -1,11 +1,10 @@
-<cockatrice_deck version="1">
+<cockatrice_deck version="1.0.1">
     <deckname>Hakuna Hinata</deckname>
     <zone name="main">
         <card number="1" name="Hinata, Dawn-Crowned"/>
         <card number="6" name="Mountain"/>
         <card number="12" name="Island"/>
         <card number="1" name="Disallow"/>
-        <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Clifftop Retreat"/>
         <card number="1" name="Aurelia's Fury"/>
@@ -39,7 +38,6 @@
         <card number="1" name="Mana Drain"/>
         <card number="1" name="Selfless Squire"/>
         <card number="1" name="Electrostatic Infantry"/>
-        <card number="1" name="Bolt Bend"/>
         <card number="1" name="Thermo-Alchemist"/>
         <card number="1" name="Quicksilver Dagger"/>
         <card number="1" name="March of Swirling Mist"/>
@@ -61,14 +59,12 @@
         <card number="1" name="Tranquil Cove"/>
         <card number="1" name="Kykar, Wind's Fury"/>
         <card number="1" name="Captivating Gyre"/>
-        <card number="1" name="Shivan Reef"/>
         <card number="1" name="Fireball"/>
         <card number="1" name="Galvanic Iteration"/>
         <card number="1" name="Chrome Host Seedshark"/>
         <card number="1" name="Simon, Wild Magic Sorcerer"/>
         <card number="1" name="Propaganda"/>
         <card number="1" name="Pongify"/>
-        <card number="1" name="Negate"/>
         <card number="1" name="Monologue Tax"/>
         <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Jeska's Will"/>
@@ -82,6 +78,10 @@
         <card number="1" name="Commander's Sphere"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Deep Analysis"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Training Center"/>
+        <card number="1" name="Deflecting Swat"/>
+        <card number="1" name="Disrupt Decorum"/>
     </zone>
     <zone name="side"/>
 </cockatrice_deck>

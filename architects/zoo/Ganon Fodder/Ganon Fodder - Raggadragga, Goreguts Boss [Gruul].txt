@@ -1,4 +1,4 @@
-Main (100)
+1 Raggadragga, Goreguts Boss
 1 Birds of Paradise
 1 Delighted Halfling
 1 Elvish Mystic
@@ -29,7 +29,6 @@ Main (100)
 1 Beast Whisperer
 1 Grand Warlord Radha
 1 Leafkin Avenger
-1 Raggadragga, Goreguts Boss
 1 Ashaya, Soul of the Wild
 1 Defiler of Vigor
 1 Cultivator Colossus

@@ -1,4 +1,4 @@
-Main (100)
+1 Aragorn, the Uniter
 1 Esper Sentinel
 1 Bloom Tender
 1 Katilda, Dawnhart Prime
@@ -12,7 +12,6 @@ Main (100)
 1 General Ferrous Rokiric
 1 Mirror Entity
 1 Théoden, King of Rohan
-1 Aragorn, the Uniter
 1 Elrond, Master of Healing
 1 Fallaji Vanguard
 1 Faramir, Prince of Ithilien

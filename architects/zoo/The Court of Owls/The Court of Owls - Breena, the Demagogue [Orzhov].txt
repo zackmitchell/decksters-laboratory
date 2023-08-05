@@ -1,11 +1,10 @@
-Main (100)
+1 Breena, the Demagogue
 1 Archivist of Oghma
 1 Dauthi Voidwalker
 1 Dusk Legion Duelist
 1 Lotho, Corrupt Shirriff
 1 Orcish Bowmasters
 1 Shaile, Dean of Radiance
-1 Breena, the Demagogue
 1 Fain, the Broker
 1 Guardian of Faith
 1 Kunoros, Hound of Athreos
