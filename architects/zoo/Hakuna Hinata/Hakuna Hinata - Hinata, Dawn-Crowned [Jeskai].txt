@@ -12,7 +12,7 @@
 1 Third Path Iconoclast
 1 Young Pyromancer
 1 Chrome Host Seedshark
-1 Dualcaster Mage
+1 Whirlwind of Thought
 1 Guttersnipe
 1 Haughty Djinn
 1 Jori En, Ruin Diver
@@ -25,7 +25,7 @@
 1 Zaffai, Thunder Conductor
 1 Icy Blast
 1 March of Swirling Mist
-1 Pongify
+1 Generous Gift
 1 Aurelia's Fury
 1 Change of Plans
 1 Comet Storm
