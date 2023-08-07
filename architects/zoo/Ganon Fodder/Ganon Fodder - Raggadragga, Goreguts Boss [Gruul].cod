@@ -1,4 +1,4 @@
-<cockatrice_deck version="1.0.0">
+<cockatrice_deck version="1.0.1">
     <deckname>Ganon Fodder</deckname>
     <zone name="main">
         <card number="1" name="Raggadragga, Goreguts Boss"/>
@@ -53,7 +53,7 @@
         <card number="1" name="Leafkin Druid"/>
         <card number="1" name="Crackle with Power"/>
         <card number="1" name="Three Visits"/>
-        <card number="1" name="Elvish Archdruid"/>
+        <card number="1" name="Doors of Durin"/>
         <card number="1" name="Elven Chorus"/>
         <card number="1" name="Ashaya, Soul of the Wild"/>
         <card number="1" name="Leaf-Crowned Visionary"/>
