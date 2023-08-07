@@ -1,4 +1,4 @@
-<cockatrice_deck version="1.0.0">
+<cockatrice_deck version="1.0.1">
     <deckname>The Copy-Cast Killer</deckname>
     <zone name="main">
         <card number="1" name="Zevlor, Elturel Exile"/>
@@ -42,7 +42,7 @@
         <card number="1" name="Electrostatic Infantry"/>
         <card number="1" name="Thieving Skydiver"/>
         <card number="1" name="Third Path Iconoclast"/>
-        <card number="1" name="Opt"/>
+        <card number="1" name="Sting, the Glinting Dagger"/>
         <card number="1" name="Increasing Vengeance"/>
         <card number="1" name="Electrolyze"/>
         <card number="1" name="Hurkyl's Recall"/>

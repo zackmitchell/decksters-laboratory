@@ -21,7 +21,7 @@
 1 Wizards of Thay
 1 Willbreaker
 1 Lightning Bolt
-1 Opt
+1 Sting, the Glinting Dagger
 1 Thought Scour
 1 You Are Already Dead
 1 Abrade
