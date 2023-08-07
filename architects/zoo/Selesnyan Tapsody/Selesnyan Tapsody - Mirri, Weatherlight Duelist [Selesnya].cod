@@ -1,4 +1,4 @@
-<cockatrice_deck version="1.0.0">
+<cockatrice_deck version="1.0.1">
     <deckname>Selesnyan Tapsody</deckname>
     <zone name="main">
         <card number="1" name="Akroma's Will"/>
@@ -37,14 +37,14 @@
         <card number="1" name="Good-Fortune Unicorn"/>
         <card number="1" name="Ozolith, the Shattered Spire"/>
         <card number="1" name="Nature's Chant"/>
-        <card number="1" name="Weather the Storm"/>
+        <card number="1" name="Kodama's Reach"/>
         <card number="1" name="Basri's Solidarity"/>
         <card number="1" name="Invigorating Surge"/>
         <card number="1" name="Brought Back"/>
         <card number="1" name="Keleth, Sunmane Familiar"/>
         <card number="1" name="Kami of Whispered Hopes"/>
         <card number="1" name="Siege Veteran"/>
-        <card number="1" name="Inscription of Abundance"/>
+        <card number="1" name="Flawless Maneuver"/>
         <card number="1" name="Evolution Sage"/>
         <card number="1" name="Pledge of Unity"/>
         <card number="1" name="Grand Abolisher"/>
