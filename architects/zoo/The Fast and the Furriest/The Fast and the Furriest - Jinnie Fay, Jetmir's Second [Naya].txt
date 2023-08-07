@@ -49,18 +49,18 @@
 1 Swiftfoot Boots
 1 Ashnod's Altar
 1 Commander's Sphere
+1 Flowering of the White Tree
 1 Impact Tremors
 1 Intangible Virtue
 1 Roar of Resistance
 1 Beastmaster Ascension
 1 Elemental Bond
 1 Fae Offering
-1 Glorious Anthem
 1 Tocasia's Welcome
 1 Tribute to the World Tree
 1 Wedding Announcement
 1 Felidar Retreat
-1 Rabble Rousing
+1 There and Back Again
 1 Bountiful Promenade
 1 Brushland
 1 Cabaretti Courtyard
@@ -68,12 +68,13 @@
 1 Command Tower
 1 Evolving Wilds
 1 Exotic Orchard
-11 Forest
+10 Forest
 1 Furycalm Snarl
 1 Karplusan Forest
-1 Mountain
+1 Minas Tirith
+2 Mountain
 1 Myriad Landscape
 1 Overgrown Farmland
-12 Plains
+11 Plains
 1 Temple of Triumph
 1 The Shire

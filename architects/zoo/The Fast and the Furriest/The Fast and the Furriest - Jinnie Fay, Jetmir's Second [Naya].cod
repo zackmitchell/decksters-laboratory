@@ -1,4 +1,4 @@
-<cockatrice_deck version="1.0.0">
+<cockatrice_deck version="1.0.1">
     <deckname>The Fast and the Furriest</deckname>
     <zone name="main">
         <card number="1" name="Jinnie Fay, Jetmir's Second"/>
@@ -8,7 +8,6 @@
         <card number="1" name="The Shire"/>
         <card number="1" name="March of the Multitudes"/>
         <card number="1" name="Queen Allenal of Ruadach"/>
-        <card number="1" name="Rabble Rousing"/>
         <card number="1" name="Cadira, Caller of the Small"/>
         <card number="1" name="Jetmir, Nexus of Revels"/>
         <card number="1" name="Intangible Virtue"/>
@@ -43,16 +42,15 @@
         <card number="1" name="Temple of Triumph"/>
         <card number="1" name="Overgrown Farmland"/>
         <card number="1" name="Clifftop Retreat"/>
-        <card number="11" name="Forest"/>
-        <card number="1" name="Mountain"/>
+        <card number="10" name="Forest"/>
+        <card number="2" name="Mountain"/>
         <card number="1" name="Bountiful Promenade"/>
         <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Fae Offering"/>
         <card number="1" name="Elvish Mystic"/>
-        <card number="12" name="Plains"/>
+        <card number="11" name="Plains"/>
         <card number="1" name="Neyali, Suns' Vanguard"/>
         <card number="1" name="Citanul Hierophants"/>
-        <card number="1" name="Glorious Anthem"/>
         <card number="1" name="Wedding Announcement"/>
         <card number="1" name="Karplusan Forest"/>
         <card number="1" name="Brushland"/>
@@ -80,6 +78,9 @@
         <card number="1" name="Commander's Sphere"/>
         <card number="1" name="Path to Exile"/>
         <card number="1" name="Gift of Estates"/>
+        <card number="1" name="There and Back Again"/>
+        <card number="1" name="Flowering of the White Tree"/>
+        <card number="1" name="Minas Tirith"/>
     </zone>
     <zone name="side"/>
 </cockatrice_deck>
