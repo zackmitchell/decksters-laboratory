@@ -1,4 +1,4 @@
-<cockatrice_deck version="1.0.0">
+<cockatrice_deck version="1.0.1">
     <deckname>The Unitered States of Ameragorn</deckname>
     <zone name="main">
         <card number="1" name="Aragorn, the Uniter"/>
@@ -67,7 +67,6 @@
         <card number="1" name="Teferi's Protection"/>
         <card number="1" name="Nature's Lore"/>
         <card number="1" name="Three Visits"/>
-        <card number="1" name="Whirlwind of Thought"/>
         <card number="1" name="Faramir, Prince of Ithilien"/>
         <card number="1" name="Brazen Upstart"/>
         <card number="1" name="Esper Sentinel"/>
@@ -89,6 +88,7 @@
         <card number="1" name="Katilda, Dawnhart Prime"/>
         <card number="1" name="Mirror Entity"/>
         <card number="1" name="Skullclamp"/>
+        <card number="1" name="Leyline Immersion"/>
     </zone>
     <zone name="side"/>
 </cockatrice_deck>
