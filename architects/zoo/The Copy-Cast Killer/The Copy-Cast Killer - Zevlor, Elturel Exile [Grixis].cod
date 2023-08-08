@@ -1,4 +1,4 @@
-<cockatrice_deck version="1.0.1">
+<cockatrice_deck version="1.0.2">
     <deckname>The Copy-Cast Killer</deckname>
     <zone name="main">
         <card number="1" name="Zevlor, Elturel Exile"/>
@@ -54,26 +54,26 @@
         <card number="1" name="Borrowing 100,000 Arrows"/>
         <card number="1" name="Tendrils of Agony"/>
         <card number="1" name="Traitorous Greed"/>
-        <card number="1" name="Negate"/>
+        <card number="1" name="Keep Safe"/>
         <card number="1" name="Mindsplice Apparatus"/>
         <card number="1" name="Press for Answers"/>
-        <card number="1" name="Quicksilver Dagger"/>
+        <card number="1" name="Phyrexian Arena"/>
         <card number="1" name="Frostboil Snarl"/>
         <card number="1" name="Serum-Core Chimera"/>
         <card number="1" name="Haunted Ridge"/>
         <card number="1" name="Kari Zev's Expertise"/>
-        <card number="1" name="Maestros Charm"/>
+        <card number="1" name="Faerie Mastermind"/>
         <card number="1" name="Prismatic Vista"/>
         <card number="1" name="Primal Amulet"/>
         <card number="1" name="Undercity's Embrace"/>
         <card number="1" name="Baral, Chief of Compliance"/>
-        <card number="1" name="Monastery Swiftspear"/>
+        <card number="1" name="Night's Whisper"/>
         <card number="1" name="Cabal Coffers"/>
         <card number="1" name="Urborg, Tomb of Yawgmoth"/>
-        <card number="1" name="Twincast"/>
+        <card number="1" name="Read the Bones"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Press the Enemy"/>
-        <card number="1" name="By Force"/>
+        <card number="1" name="Vizier of Tumbling Sands"/>
         <card number="1" name="Archmage Emeritus"/>
         <card number="1" name="Training Grounds"/>
         <card number="1" name="Wayfarer's Bauble"/>
