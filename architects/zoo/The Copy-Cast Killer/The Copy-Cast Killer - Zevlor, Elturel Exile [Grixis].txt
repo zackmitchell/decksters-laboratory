@@ -1,5 +1,5 @@
 1 Zevlor, Elturel Exile
-1 Night's Whisper
+1 Notion Rain
 1 Omen Hawker
 1 Baral, Chief of Compliance
 1 Electrostatic Infantry
@@ -49,7 +49,7 @@
 1 Borrowing 100,000 Arrows
 1 Jeska's Will
 1 Kari Zev's Expertise
-1 Tendrils of Agony
+1 Teferi's Ageless Insight
 1 Traitorous Greed
 1 Sol Ring
 1 Wayfarer's Bauble
@@ -60,7 +60,7 @@
 1 Primal Amulet
 1 Training Grounds
 1 Wizard Class
-1 Phyrexian Arena
+1 Quicksilver Dagger
 1 Cabal Coffers
 1 Command Tower
 1 Frostboil Snarl
