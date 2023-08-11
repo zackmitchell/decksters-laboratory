@@ -1,5 +1,6 @@
 <cockatrice_deck version="1.0.1">
     <deckname>The Unitered States of Ameragorn</deckname>
+    <comments>Aragorn, the Uniter</comments>
     <zone name="main">
         <card number="1" name="Aragorn, the Uniter"/>
         <card number="1" name="General Ferrous Rokiric"/>
@@ -90,5 +91,4 @@
         <card number="1" name="Skullclamp"/>
         <card number="1" name="Leyline Immersion"/>
     </zone>
-    <zone name="side"/>
 </cockatrice_deck>

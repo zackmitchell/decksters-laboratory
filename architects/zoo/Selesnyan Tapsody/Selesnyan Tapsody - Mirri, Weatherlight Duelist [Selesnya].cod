@@ -1,5 +1,6 @@
 <cockatrice_deck version="1.0.1">
     <deckname>Selesnyan Tapsody</deckname>
+    <comments>Mirri, Weatherlight Duelist</comments>
     <zone name="main">
         <card number="1" name="Akroma's Will"/>
         <card number="16" name="Forest"/>
@@ -75,5 +76,4 @@
         <card number="1" name="Cosmic Rebirth"/>
         <card number="1" name="Safewright Quest"/>
     </zone>
-    <zone name="side"/>
 </cockatrice_deck>

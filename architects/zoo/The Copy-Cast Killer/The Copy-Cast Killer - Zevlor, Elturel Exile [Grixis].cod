@@ -1,5 +1,6 @@
 <cockatrice_deck version="1.0.3">
     <deckname>The Copy-Cast Killer</deckname>
+    <comments>Zevlor, Elturel Exile</comments>
     <zone name="main">
         <card number="1" name="Zevlor, Elturel Exile"/>
         <card number="1" name="Snap"/>
@@ -78,5 +79,4 @@
         <card number="1" name="Cut Down"/>
         <card number="1" name="Cryptic Command"/>
     </zone>
-    <zone name="side"/>
 </cockatrice_deck>

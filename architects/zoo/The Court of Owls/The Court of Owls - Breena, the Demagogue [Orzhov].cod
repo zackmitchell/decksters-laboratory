@@ -1,6 +1,6 @@
 <cockatrice_deck version="1.0.0">
     <deckname>The Court of Owls</deckname>
-    <comments></comments>
+    <comments>Breena, the Demagogue</comments>
     <zone name="main">
         <card number="1" name="Breena, the Demagogue"/>
         <card number="16" name="Plains"/>
@@ -76,5 +76,4 @@
         <card number="1" name="Demonic Tutor"/>
         <card number="1" name="Revival // Revenge"/>
     </zone>
-    <zone name="side"/>
 </cockatrice_deck>

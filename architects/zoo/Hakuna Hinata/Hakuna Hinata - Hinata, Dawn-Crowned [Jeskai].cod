@@ -1,5 +1,6 @@
 <cockatrice_deck version="1.0.2">
     <deckname>Hakuna Hinata</deckname>
+    <comments>Hinata, Dawn-Crowned</comments>
     <zone name="main">
         <card number="1" name="Hinata, Dawn-Crowned"/>
         <card number="6" name="Mountain"/>
@@ -83,5 +84,4 @@
         <card number="1" name="Whirlwind of Thought"/>
         <card number="1" name="Wayfarer's Bauble"/>
     </zone>
-    <zone name="side"/>
 </cockatrice_deck>

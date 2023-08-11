@@ -1,5 +1,6 @@
 <cockatrice_deck version="1.0.1">
     <deckname>The Fast and the Furriest</deckname>
+    <comments>Jinnie Fay, Jetmir's Second</comments>
     <zone name="main">
         <card number="1" name="Jinnie Fay, Jetmir's Second"/>
         <card number="1" name="Peregrin Took"/>
@@ -82,5 +83,4 @@
         <card number="1" name="Flowering of the White Tree"/>
         <card number="1" name="Minas Tirith"/>
     </zone>
-    <zone name="side"/>
 </cockatrice_deck>

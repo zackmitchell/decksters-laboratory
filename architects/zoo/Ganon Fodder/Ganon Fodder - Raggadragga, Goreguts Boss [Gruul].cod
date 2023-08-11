@@ -1,5 +1,6 @@
 <cockatrice_deck version="1.0.1">
     <deckname>Ganon Fodder</deckname>
+    <comments>Raggadragga, Goreguts Boss</comments>
     <zone name="main">
         <card number="1" name="Raggadragga, Goreguts Boss"/>
         <card number="1" name="Fyndhorn Elves"/>
@@ -76,5 +77,4 @@
         <card number="1" name="Sylvan Anthem"/>
         <card number="1" name="Zopandrel, Hunger Dominus"/>
     </zone>
-    <zone name="side"/>
 </cockatrice_deck>
