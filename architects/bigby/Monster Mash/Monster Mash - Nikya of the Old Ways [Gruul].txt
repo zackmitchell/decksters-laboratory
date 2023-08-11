@@ -1,3 +1,4 @@
+1 Nikya of the Old Ways
 1 Angrath's Marauders
 1 Arbor Elf
 1 Archetype of Endurance
@@ -42,7 +43,6 @@
 2 Mountain
 2 Mountain
 1 Mountain Valley
-1 Nikya of the Old Ways
 1 Nullstone Gargoyle
 1 Nylea, Keen-Eyed
 1 Ogre Battledriver

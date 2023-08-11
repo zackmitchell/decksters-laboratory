@@ -1,3 +1,4 @@
+1 Gishath, Sun's Avatar
 1 Arcane Signet
 1 Atzocan Seer
 1 Aura Shards
@@ -22,7 +23,6 @@
 1 Forerunner of the Empire
 10 Forest
 1 Frilled Deathspitter
-1 Gishath, Sun's Avatar
 1 Goring Ceratops
 1 Gruul Guildgate
 1 Herald's Horn

@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<cockatrice_deck version="1">
-    <deckname>RUN THE JEWELS v0.2</deckname>
-    <comments>[Jolene, the Plunder Queen][v0.2]
-- remove Quicksmith Genius
-- add Dockside Extortionist</comments>
+<cockatrice_deck version="0.2">
+    <deckname>Run the Jewels</deckname>
+    <comments>Jolene, the Plunder Queen</comments>
     <zone name="main">
         <card number="1" name="Academy Manufactor"/>
         <card number="1" name="Atsushi, the Blazing Sky"/>

@@ -1,11 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<cockatrice_deck version="1">
-    <deckname>PRIMAL FURY v0.3</deckname>
-    <comments>[Gishath, Sun's Avatar][v0.3]
-- Tuning round one
-- Artifact overhaul
-- Number of lands/sorc/inst changed out
-- Enchantments added!</comments>
+<cockatrice_deck version="0.3">
+    <deckname>Primal Fury</deckname>
+    <comments>Gishath, Sun's Avatar</comments>
     <zone name="main">
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Atzocan Seer"/>

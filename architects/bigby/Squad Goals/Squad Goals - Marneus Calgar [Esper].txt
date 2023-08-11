@@ -1,3 +1,4 @@
+1 Marneus Calgar
 1 And They Shall Know No Fear
 1 Arcane Sanctum
 1 Arcane Signet
@@ -40,7 +41,6 @@
 1 Launch the Fleet
 1 Legion Loyalty
 1 Legion's Landing // Adanto, the First Fort
-1 Marneus Calgar
 1 Martial Coup
 1 Memorial to Glory
 1 Mind Stone

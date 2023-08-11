@@ -4,7 +4,7 @@
 ```
 Architect: Bigby
 Commander: Shattergang Brothers
-Color Identity: Jund (BRG)
+Color Identity: Jund (BGR)
 ```
 
 ### Guide

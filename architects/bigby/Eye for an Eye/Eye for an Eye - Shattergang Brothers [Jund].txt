@@ -1,3 +1,4 @@
+1 Shattergang Brothers
 1 Akoum Refuge
 1 Arcane Signet
 1 Battle Hymn
@@ -61,7 +62,6 @@
 1 Riveteers Overlook
 1 Rugged Highlands
 1 Rulik Mons, Warren Chief
-1 Shattergang Brothers
 1 Shatterskull Smashing // Shatterskull, the Hammer Pass
 1 Siege-Gang Commander
 1 Skirk Prospector

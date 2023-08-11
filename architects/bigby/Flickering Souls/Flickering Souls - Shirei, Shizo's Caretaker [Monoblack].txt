@@ -1,3 +1,4 @@
+1 Shirei, Shizo's Caretaker
 1 Abyssal Gatekeeper
 1 Agent of the Iron Throne
 1 Ashnod's Altar
@@ -49,7 +50,6 @@
 1 Reliquary Tower
 1 Serrated Scorpion
 1 Shambling Ghast
-1 Shirei, Shizo's Caretaker
 1 Skullclamp
 1 Skullport Merchant
 1 Skyscanner

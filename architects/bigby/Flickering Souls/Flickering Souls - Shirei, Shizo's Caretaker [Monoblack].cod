@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<cockatrice_deck version="1">
-    <deckname>FLICKERING SOULS v0.3</deckname>
-    <comments>[Shirei, Shizo's Caretaker] [v0.3]</comments>
+<cockatrice_deck version="0.3">
+    <deckname>Flickering Souls</deckname>
+    <comments>Shirei, Shizo's Caretaker</comments>
     <zone name="main">
         <card number="1" name="Abyssal Gatekeeper"/>
         <card number="1" name="Agent of the Iron Throne"/>

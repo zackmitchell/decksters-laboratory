@@ -8,3 +8,8 @@ Color Identity: Gruul (GR)
 ```
 
 ### Guide
+
+### Changelog
+v0.2
+- remove Quicksmith Genius
+- add Dockside Extortionist

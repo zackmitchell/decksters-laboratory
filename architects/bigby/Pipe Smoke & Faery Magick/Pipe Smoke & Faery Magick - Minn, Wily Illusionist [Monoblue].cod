@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<cockatrice_deck version="1">
-    <deckname>PIPE SMOKE &amp; FAERY MAGICK v0.3</deckname>
-    <comments>[Minn, Wily Illusionist][v0.3]
-- took out mystic remora and wavebreak hippocamp
-- added phantom ninja and cyclonic rift</comments>
+<cockatrice_deck version="0.3">
+    <deckname>Pipe Smoke &amp; Faery Magick</deckname>
+    <comments>Minn, Wily Illusionist</comments>
     <zone name="main">
         <card number="1" name="Abjure"/>
         <card number="1" name="Arcane Denial"/>

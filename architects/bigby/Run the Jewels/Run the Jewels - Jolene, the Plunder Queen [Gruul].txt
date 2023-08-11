@@ -1,3 +1,4 @@
+1 Jolene, the Plunder Queen
 1 Academy Manufactor
 1 Atsushi, the Blazing Sky
 1 Beast Within
@@ -31,7 +32,6 @@
 1 Improvised Weaponry
 1 Impulsive Pilferer
 1 Ingenious Artillerist
-1 Jolene, the Plunder Queen
 1 Klauth's Will
 1 Krosan Grip
 1 Most Wanted

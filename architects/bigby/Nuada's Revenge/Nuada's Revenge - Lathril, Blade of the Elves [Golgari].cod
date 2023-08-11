@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<cockatrice_deck version="1">
-    <deckname>NUADA'S REVENGE v0.1</deckname>
-    <comments>[Lathril, Blade of the Elves][v0.1]</comments>
+<cockatrice_deck version="0.1">
+    <deckname>Nuada's Revenge</deckname>
+    <comments>Lathril, Blade of the Elves</comments>
     <zone name="main">
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Arms of Hadar"/>

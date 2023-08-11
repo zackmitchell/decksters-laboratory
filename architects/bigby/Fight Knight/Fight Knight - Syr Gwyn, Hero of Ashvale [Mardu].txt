@@ -1,3 +1,4 @@
+1 Syr Gwyn, Hero of Ashvale
 1 Acclaimed Contender
 1 Adriana, Captain of the Guard
 1 Akiri, Fearless Voyager
@@ -70,7 +71,6 @@
 1 Sword of Vengeance
 1 Sword of the Animist
 1 Swords to Plowshares
-1 Syr Gwyn, Hero of Ashvale
 1 Teferi's Protection
 1 Temple of Silence
 1 Temple of Triumph

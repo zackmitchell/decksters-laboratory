@@ -1,4 +1,4 @@
-# Raucus Relics
+# Raucous Relics
 ## Overview
 ### Details
 ```

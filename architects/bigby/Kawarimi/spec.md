@@ -4,7 +4,7 @@
 ```
 Architect: Bigby
 Commander: Yuriko, the Tiger's Shadow
-Color Identity: Dimir (UB)
+Color Identity: Dimir (BU)
 ```
 
 ### Guide

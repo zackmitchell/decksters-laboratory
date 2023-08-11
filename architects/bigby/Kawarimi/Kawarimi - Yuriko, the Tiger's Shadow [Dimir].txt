@@ -1,3 +1,4 @@
+1 Yuriko, the Tiger's Shadow
 1 Arcane Denial
 1 Arcane Signet
 1 Azra Smokeshaper
@@ -76,4 +77,3 @@
 1 Toxic Deluge
 1 Walker of Secret Ways
 1 Whispersilk Cloak
-1 Yuriko, the Tiger's Shadow

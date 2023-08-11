@@ -1,8 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<cockatrice_deck version="1">
-    <deckname>SQUAD GOALS v0.1</deckname>
-    <comments>[Marneus Calgar] [v0.1]
-- Upgrade of Might of the Imperium precon deck</comments>
+<cockatrice_deck version="0.1">
+    <deckname>Squad Goals</deckname>
+    <comments>Marneus Calgar</comments>
     <zone name="main">
         <card number="1" name="And They Shall Know No Fear"/>
         <card number="1" name="Arcane Sanctum"/>
