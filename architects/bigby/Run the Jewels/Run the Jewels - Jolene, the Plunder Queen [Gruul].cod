@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>RUN THE JEWELS v0.2</deckname>
+    <comments>[Jolene, the Plunder Queen][v0.2]
+- remove Quicksmith Genius
+- add Dockside Extortionist</comments>
+    <zone name="main">
+        <card number="1" name="Academy Manufactor"/>
+        <card number="1" name="Atsushi, the Blazing Sky"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Big Score"/>
+        <card number="1" name="Boar Umbra"/>
+        <card number="1" name="Bootleggers' Stash"/>
+        <card number="1" name="Brass's Bounty"/>
+        <card number="1" name="Captain Lannery Storm"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Crack Open"/>
+        <card number="1" name="Descent into Avernus"/>
+        <card number="1" name="Dockside Extortionist"/>
+        <card number="1" name="Dragonspark Reactor"/>
+        <card number="1" name="Evolution Sage"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Fathom Fleet Swordjack"/>
+        <card number="1" name="Fling"/>
+        <card number="16" name="Forest"/>
+        <card number="1" name="Gadrak, the Crown-Scourge"/>
+        <card number="1" name="Gala Greeters"/>
+        <card number="1" name="Ganax, Astral Hunter"/>
+        <card number="1" name="Gilded Pinions"/>
+        <card number="1" name="Glittermonger"/>
+        <card number="1" name="Goblin Anarchomancer"/>
+        <card number="1" name="Goldvein Pick"/>
+        <card number="1" name="Gruul Guildgate"/>
+        <card number="1" name="Gruul Keyrune"/>
+        <card number="1" name="Gruul Locket"/>
+        <card number="1" name="Hellkite Charger"/>
+        <card number="1" name="Hoarding Ogre"/>
+        <card number="1" name="Improvised Weaponry"/>
+        <card number="1" name="Impulsive Pilferer"/>
+        <card number="1" name="Ingenious Artillerist"/>
+        <card number="1" name="Jolene, the Plunder Queen"/>
+        <card number="1" name="Klauth's Will"/>
+        <card number="1" name="Krosan Grip"/>
+        <card number="1" name="Most Wanted"/>
+        <card number="16" name="Mountain"/>
+        <card number="1" name="Pirate's Pillage"/>
+        <card number="1" name="Professional Face-Breaker"/>
+        <card number="1" name="Prosperous Innkeeper"/>
+        <card number="1" name="Rancor"/>
+        <card number="1" name="Rapacious Dragon"/>
+        <card number="1" name="Reckless Endeavor"/>
+        <card number="1" name="Reckless Fireweaver"/>
+        <card number="1" name="Savage Ventmaw"/>
+        <card number="1" name="Second Harvest"/>
+        <card number="1" name="Seize the Spoils"/>
+        <card number="1" name="Seize the Spotlight"/>
+        <card number="1" name="Shiny Impetus"/>
+        <card number="1" name="Smashing Success"/>
+        <card number="1" name="Snake Umbra"/>
+        <card number="1" name="Spider Umbra"/>
+        <card number="1" name="Sticky Fingers"/>
+        <card number="1" name="Storm-Kiln Artist"/>
+        <card number="1" name="Strike It Rich"/>
+        <card number="1" name="Sudden Breakthrough"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Tamiyo's Safekeeping"/>
+        <card number="1" name="Tempting Contract"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Tireless Provisioner"/>
+        <card number="1" name="Treasure Chest"/>
+        <card number="1" name="Treasure Map"/>
+        <card number="1" name="Treasure Vault"/>
+        <card number="1" name="Treefolk Umbra"/>
+        <card number="1" name="Unexpected Windfall"/>
+        <card number="1" name="Visions of Ruin"/>
+        <card number="1" name="Wulfgar of Icewind Dale"/>
+        <card number="1" name="Xorn"/>
+    </zone>
+</cockatrice_deck>

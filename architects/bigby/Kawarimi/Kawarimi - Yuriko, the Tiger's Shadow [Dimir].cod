@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>KAWARIMI v0.1</deckname>
+    <comments>[Yuriko, the Tiger's Shadow][v0.1]</comments>
+    <zone name="main">
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Azra Smokeshaper"/>
+        <card number="1" name="Bident of Thassa"/>
+        <card number="1" name="Biting-Palm Ninja"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Changeling Outcast"/>
+        <card number="1" name="Clearwater Pathway"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Cover of Darkness"/>
+        <card number="1" name="Cyclonic Rift"/>
+        <card number="1" name="Damnation"/>
+        <card number="1" name="Darkslick Shores"/>
+        <card number="1" name="Darkwater Catacombs"/>
+        <card number="1" name="Decanter of Endless Water"/>
+        <card number="1" name="Diabolic Tutor"/>
+        <card number="1" name="Diabolic Vision"/>
+        <card number="1" name="Dimir Infiltrator"/>
+        <card number="1" name="Dimir Signet"/>
+        <card number="1" name="Dispel"/>
+        <card number="1" name="Dokuchi Silencer"/>
+        <card number="1" name="Drowned Catacomb"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Faerie Seer"/>
+        <card number="1" name="Fallen Shinobi"/>
+        <card number="1" name="Familiar's Ruse"/>
+        <card number="1" name="Higure, the Still Wind"/>
+        <card number="1" name="In Garruk's Wake"/>
+        <card number="1" name="Ingenious Infiltrator"/>
+        <card number="1" name="Ink-Eyes, Servant of Oni"/>
+        <card number="15" name="Island"/>
+        <card number="1" name="Kaito Shizuki"/>
+        <card number="1" name="Kaito's Pursuit"/>
+        <card number="1" name="March of Swirling Mist"/>
+        <card number="1" name="Mist-Syndicate Naga"/>
+        <card number="1" name="Mistblade Shinobi"/>
+        <card number="1" name="Moonblade Shinobi"/>
+        <card number="1" name="Morphic Pool"/>
+        <card number="1" name="Murder"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Nezumi Prowler"/>
+        <card number="1" name="Ninja of the Deep Hours"/>
+        <card number="1" name="Okiba-Gang Shinobi"/>
+        <card number="1" name="Opt"/>
+        <card number="1" name="Ornithopter"/>
+        <card number="1" name="Phantom Ninja"/>
+        <card number="1" name="Poison the Cup"/>
+        <card number="1" name="Polluted Delta"/>
+        <card number="1" name="Ponder"/>
+        <card number="1" name="Portent"/>
+        <card number="1" name="Preordain"/>
+        <card number="1" name="Reconnaissance Mission"/>
+        <card number="1" name="Reflecting Pool"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Rogue Class"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Sakashima's Student"/>
+        <card number="1" name="Silent-Blade Oni"/>
+        <card number="1" name="Silver-Fur Master"/>
+        <card number="1" name="Skullsnatcher"/>
+        <card number="1" name="Slither Blade"/>
+        <card number="1" name="Smoke Shroud"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Sunken Hollow"/>
+        <card number="8" name="Swamp"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Takenuma, Abandoned Mire"/>
+        <card number="1" name="Temple of Deceit"/>
+        <card number="1" name="Temporal Mastery"/>
+        <card number="1" name="Tetsuko Umezawa, Fugitive"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Thousand-Faced Shadow"/>
+        <card number="1" name="Throat Slitter"/>
+        <card number="1" name="Throatseeker"/>
+        <card number="1" name="Toxic Deluge"/>
+        <card number="1" name="Walker of Secret Ways"/>
+        <card number="1" name="Whispersilk Cloak"/>
+        <card number="1" name="Yuriko, the Tiger's Shadow"/>
+    </zone>
+</cockatrice_deck>

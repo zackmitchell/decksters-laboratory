@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>MONSTER MASH v1.0</deckname>
+    <comments>[Nikya of the Old Ways][v1.0]</comments>
+    <zone name="main">
+        <card number="1" name="Angrath's Marauders"/>
+        <card number="1" name="Arbor Elf"/>
+        <card number="1" name="Archetype of Endurance"/>
+        <card number="1" name="Artisan of Kozilek"/>
+        <card number="1" name="Bane of Bala Ged"/>
+        <card number="1" name="Beast Whisperer"/>
+        <card number="1" name="Bellowing Tanglewurm"/>
+        <card number="1" name="Blighted Woodland"/>
+        <card number="1" name="Breaker of Armies"/>
+        <card number="1" name="Brutalizer Exarch"/>
+        <card number="1" name="Conduit of Ruin"/>
+        <card number="1" name="Lotus Cobra"/>
+        <card number="1" name="Diligent Farmhand"/>
+        <card number="1" name="Drumhunter"/>
+        <card number="1" name="Emissary of Grudges"/>
+        <card number="1" name="End-Raze Forerunners"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Farhaven Elf"/>
+        <card number="1" name="Fertilid"/>
+        <card number="1" name="Fierce Empath"/>
+        <card number="1" name="Flameblast Dragon"/>
+        <card number="2" name="Forest"/>
+        <card number="2" name="Forest"/>
+        <card number="17" name="Forest"/>
+        <card number="1" name="Garruk's Horde"/>
+        <card number="1" name="Garruk's Packleader"/>
+        <card number="1" name="Genesis"/>
+        <card number="1" name="Genesis Hydra"/>
+        <card number="1" name="Goblin Anarchomancer"/>
+        <card number="1" name="Goreclaw, Terror of Qal Sisma"/>
+        <card number="1" name="Gruul Guildgate"/>
+        <card number="1" name="Hellkite Charger"/>
+        <card number="1" name="Jund Panorama"/>
+        <card number="1" name="Kazandu Refuge"/>
+        <card number="1" name="Keeper of Progenitus"/>
+        <card number="1" name="Kogla, the Titan Ape"/>
+        <card number="1" name="Magmatic Force"/>
+        <card number="1" name="Magus of the Candelabra"/>
+        <card number="1" name="Manglehorn"/>
+        <card number="1" name="Molder Slug"/>
+        <card number="2" name="Mountain"/>
+        <card number="2" name="Mountain"/>
+        <card number="3" name="Mountain"/>
+        <card number="1" name="Mountain Valley"/>
+        <card number="1" name="Nikya of the Old Ways"/>
+        <card number="1" name="Nullstone Gargoyle"/>
+        <card number="1" name="Nylea, Keen-Eyed"/>
+        <card number="1" name="Ogre Battledriver"/>
+        <card number="1" name="Oracle of Mul Daya"/>
+        <card number="1" name="Primordial Sage"/>
+        <card number="1" name="Prowling Serpopard"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Regal Force"/>
+        <card number="1" name="Rubblehulk"/>
+        <card number="1" name="Rugged Highlands"/>
+        <card number="1" name="Runic Armasaur"/>
+        <card number="1" name="Ruric Thar, the Unbowed"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Sandstone Oracle"/>
+        <card number="1" name="Savageborn Hydra"/>
+        <card number="1" name="Skyshroud Ranger"/>
+        <card number="1" name="Soul of the Harvest"/>
+        <card number="1" name="Springbloom Druid"/>
+        <card number="1" name="Steel Hellkite"/>
+        <card number="1" name="Temur Sabertooth"/>
+        <card number="1" name="Terastodon"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Thorn Mammoth"/>
+        <card number="1" name="Timber Gorge"/>
+        <card number="1" name="Topiary Stomper"/>
+        <card number="1" name="Ulamog's Crusher"/>
+        <card number="1" name="Urabrask the Hidden"/>
+        <card number="1" name="Veteran Explorer"/>
+        <card number="1" name="Vizier of the Menagerie"/>
+        <card number="1" name="Voyaging Satyr"/>
+        <card number="1" name="Warmonger Hellkite"/>
+        <card number="1" name="Warped Landscape"/>
+        <card number="1" name="Yeva, Nature's Herald"/>
+    </zone>
+</cockatrice_deck>

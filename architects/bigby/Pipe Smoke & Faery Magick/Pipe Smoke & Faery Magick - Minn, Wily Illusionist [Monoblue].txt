@@ -1,0 +1,71 @@
+1 Abjure
+1 Arcane Denial
+1 Arcane Signet
+1 Arcanis the Omnipotent
+1 Archmage Ascension
+1 Archmage Emeritus
+1 Azami, Lady of Scrolls
+1 Behold the Multiverse
+1 Bident of Thassa
+1 Brainstorm
+1 Chemister's Insight
+1 Confounding Conundrum
+1 Consider
+1 Counterspell
+1 Curiosity Crafter
+1 Cyclonic Rift
+1 Decanter of Endless Water
+1 Distant Melody
+1 Evolving Wilds
+1 Frantic Search
+1 Ghost Quarter
+1 Illusory Ambusher
+1 Imprisoned in the Moon
+30 Island
+1 Jace's Mindseeker
+1 Jace's Sanctum
+1 Kami of the Crescent Moon
+1 Kindred Discovery
+1 Krovikan Mist
+1 Lord of the Unreal
+1 Maskwood Nexus
+1 Meloku the Clouded Mirror
+1 Mikokoro, Center of the Sea
+1 Mind Stone
+1 Minn, Wily Illusionist
+1 Murmuring Mystic
+1 Myriad Landscape
+1 Mystic Sanctuary
+1 One with the Multiverse
+1 Oneirophage
+1 Opt
+1 Peek
+1 Perilous Research
+1 Perplexing Test
+1 Phantasmal Dragon
+1 Phantasmal Image
+1 Phantom Ninja
+1 Phantom Steed
+1 Ponder
+1 Pongify
+1 Preordain
+1 Propaganda
+1 Rapid Hybridization
+1 Ravenform
+1 Read the Runes
+1 Reliquary Tower
+1 Riptide Laboratory
+1 Sapphire Medallion
+1 Serum Visions
+1 Sky Diamond
+1 Sol Ring
+1 Spectral Deluge
+1 Swarm Intelligence
+1 Swiftfoot Boots
+1 Teferi's Ageless Insight
+1 Thirst for Discovery
+1 Thought Vessel
+1 Toothy, Imaginary Friend
+1 Windfall
+1 Words of Wisdom
+1 You Find the Villains' Lair

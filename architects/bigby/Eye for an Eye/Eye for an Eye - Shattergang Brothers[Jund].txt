@@ -1,0 +1,81 @@
+1 Akoum Refuge
+1 Arcane Signet
+1 Battle Hymn
+1 Beast Within
+1 Beastmaster Ascension
+1 Bedevil
+1 Beetleback Chief
+1 Berserkers' Onslaught
+1 Blood Artist
+1 Bloodfell Caves
+1 Brash Taunter
+1 Brightstone Ritual
+1 Champion of Lambholt
+1 Cleaver Riot
+1 Cultivate
+1 Dragon Fodder
+1 Fervor
+3 Forest
+1 Frogtosser Banneret
+1 Goblin Anarchomancer
+1 Goblin Bombardment
+1 Goblin Chainwhirler
+1 Goblin Chieftain
+1 Goblin Matron
+1 Goblin Piledriver
+1 Goblin Ringleader
+1 Goblin Sledder
+1 Goblin Trashmaster
+1 Goblin War Strike
+1 Goblin Warchief
+1 Grumgully, the Generous
+1 Gruul Turf
+1 Heartstone
+1 Hobgoblin Bandit Lord
+1 Ichor Wellspring
+1 Ignoble Hierarch
+1 Impact Tremors
+1 Jungle Hollow
+1 Kazandu Refuge
+1 Krenko's Command
+1 Krenko, Mob Boss
+1 Mahadi, Emporium Master
+1 Massive Raid
+1 Mayhem Devil
+1 Mizzium Mortars
+1 Moldervine Reclamation
+1 Mortuary Mire
+16 Mountain
+1 Munitions Expert
+1 Murderous Redcap
+1 Obelisk of Urd
+1 Pashalik Mons
+1 Quest for the Goblin Lord
+1 Rampant Growth
+1 Rancor
+1 Raze the Effigy
+1 Realmwalker
+1 Reassembling Skeleton
+1 Reckless One
+1 Riveteers Ascendancy
+1 Riveteers Overlook
+1 Rugged Highlands
+1 Rulik Mons, Warren Chief
+1 Shattergang Brothers
+1 Shatterskull Smashing // Shatterskull, the Hammer Pass
+1 Siege-Gang Commander
+1 Skirk Prospector
+1 Sling-Gang Lieutenant
+1 Sol Ring
+1 Solemn Simulacrum
+1 Squee, the Immortal
+3 Swamp
+1 Swiftfoot Boots
+1 Tireless Provisioner
+1 Vexing Shusher
+1 Warren Instigator
+1 Witty Roastmaster
+1 Woodland Champion
+1 Wort, Boggart Auntie
+1 Ziatora's Proving Ground
+1 Zulaport Cutthroat
