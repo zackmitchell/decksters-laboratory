@@ -1,4 +1,4 @@
-<cockatrice_deck version="1.0.2">
+<cockatrice_deck version="1.0.3">
     <deckname>The Copy-Cast Killer</deckname>
     <zone name="main">
         <card number="1" name="Zevlor, Elturel Exile"/>
@@ -10,7 +10,6 @@
         <card number="8" name="Mountain"/>
         <card number="1" name="Sulfur Falls"/>
         <card number="1" name="Astarion's Thirst"/>
-        <card number="1" name="Chainer's Edict"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Thought Vessel"/>
         <card number="1" name="Command Tower"/>
@@ -29,7 +28,6 @@
         <card number="1" name="Young Pyromancer"/>
         <card number="1" name="Thought Scour"/>
         <card number="1" name="Abrade"/>
-        <card number="1" name="Counterspell"/>
         <card number="1" name="Wizard Class"/>
         <card number="1" name="You Are Already Dead"/>
         <card number="1" name="Kessig Flamebreather"/>
@@ -42,41 +40,43 @@
         <card number="1" name="Electrostatic Infantry"/>
         <card number="1" name="Thieving Skydiver"/>
         <card number="1" name="Third Path Iconoclast"/>
-        <card number="1" name="Sting, the Glinting Dagger"/>
         <card number="1" name="Increasing Vengeance"/>
         <card number="1" name="Electrolyze"/>
         <card number="1" name="Hurkyl's Recall"/>
         <card number="1" name="Doom Blade"/>
-        <card number="1" name="Recoil"/>
         <card number="1" name="Misdirection"/>
         <card number="1" name="Bladebrand"/>
         <card number="1" name="Angrath's Rampage"/>
         <card number="1" name="Borrowing 100,000 Arrows"/>
-        <card number="1" name="Teferi's Ageless Insight"/>
         <card number="1" name="Traitorous Greed"/>
-        <card number="1" name="Keep Safe"/>
-        <card number="1" name="Mindsplice Apparatus"/>
-        <card number="1" name="Press for Answers"/>
-        <card number="1" name="Quicksilver Dagger"/>
         <card number="1" name="Frostboil Snarl"/>
-        <card number="1" name="Serum-Core Chimera"/>
         <card number="1" name="Haunted Ridge"/>
         <card number="1" name="Kari Zev's Expertise"/>
-        <card number="1" name="Faerie Mastermind"/>
         <card number="1" name="Prismatic Vista"/>
-        <card number="1" name="Primal Amulet"/>
         <card number="1" name="Undercity's Embrace"/>
         <card number="1" name="Baral, Chief of Compliance"/>
-        <card number="1" name="Notion Rain"/>
         <card number="1" name="Cabal Coffers"/>
         <card number="1" name="Urborg, Tomb of Yawgmoth"/>
-        <card number="1" name="Read the Bones"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Press the Enemy"/>
-        <card number="1" name="Vizier of Tumbling Sands"/>
         <card number="1" name="Archmage Emeritus"/>
         <card number="1" name="Training Grounds"/>
         <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Sting, the Glinting Dagger"/>
+        <card number="1" name="Read the Bones"/>
+        <card number="1" name="Faerie Mastermind"/>
+        <card number="1" name="Vizier of Tumbling Sands"/>
+        <card number="1" name="Keep Safe"/>
+        <card number="1" name="Notion Rain"/>
+        <card number="1" name="Quicksilver Dagger"/>
+        <card number="1" name="Teferi's Ageless Insight"/>
+        <card number="1" name="Bribery"/>
+        <card number="1" name="Ghitu Fire"/>
+        <card number="1" name="Furnace Reins"/>
+        <card number="1" name="Invoke the Winds"/>
+        <card number="1" name="Lightning Strike"/>
+        <card number="1" name="Cut Down"/>
+        <card number="1" name="Cryptic Command"/>
     </zone>
     <zone name="side"/>
 </cockatrice_deck>
