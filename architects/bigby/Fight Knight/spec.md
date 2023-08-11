@@ -8,3 +8,4 @@ Color Identity: Mardu (RWB)
 ```
 
 ### Guide
+Knight tribal and equipment artifact focused
