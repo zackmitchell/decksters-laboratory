@@ -20,7 +20,7 @@
 1 Storm-Kiln Artist
 1 Wizards of Thay
 1 Willbreaker
-1 Cut Down
+1 Phyrexian Arena
 1 Lightning Bolt
 1 Thought Scour
 1 You Are Already Dead

@@ -1,4 +1,4 @@
-<cockatrice_deck version="1.3">
+<cockatrice_deck version="1.4">
     <deckname>The Copy-Cast Killer</deckname>
     <comments>Zevlor, Elturel Exile</comments>
     <zone name="main">
@@ -76,7 +76,7 @@
         <card number="1" name="Furnace Reins"/>
         <card number="1" name="Invoke the Winds"/>
         <card number="1" name="Lightning Strike"/>
-        <card number="1" name="Cut Down"/>
         <card number="1" name="Cryptic Command"/>
+        <card number="1" name="Phyrexian Arena"/>
     </zone>
 </cockatrice_deck>
