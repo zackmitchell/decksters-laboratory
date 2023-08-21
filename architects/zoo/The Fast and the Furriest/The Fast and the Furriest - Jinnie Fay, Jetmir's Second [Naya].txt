@@ -24,7 +24,7 @@
 1 Path to Exile
 1 Secure the Wastes
 1 Artifact Mutation
-1 Raise the Alarm
+1 Aura Mutation
 1 Call the Coppercoats
 1 Flawless Maneuver
 1 Generous Gift

@@ -1,4 +1,4 @@
-<cockatrice_deck version="1.1">
+<cockatrice_deck version="1.2">
     <deckname>The Fast and the Furriest</deckname>
     <comments>Jinnie Fay, Jetmir's Second</comments>
     <zone name="main">
@@ -25,7 +25,6 @@
         <card number="1" name="Prava of the Steel Legion"/>
         <card number="1" name="Academy Manufactor"/>
         <card number="1" name="Kitt Kanto, Mayhem Diva"/>
-        <card number="1" name="Raise the Alarm"/>
         <card number="1" name="Rith's Charm"/>
         <card number="1" name="Nature's Lore"/>
         <card number="1" name="White Sun's Twilight"/>
@@ -82,5 +81,6 @@
         <card number="1" name="There and Back Again"/>
         <card number="1" name="Flowering of the White Tree"/>
         <card number="1" name="Minas Tirith"/>
+        <card number="1" name="Aura Mutation"/>
     </zone>
 </cockatrice_deck>
