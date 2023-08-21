@@ -1,6 +1,7 @@
-<cockatrice_deck version="0.3">
-    <deckname>Flickering Souls</deckname>
-    <comments>Shirei, Shizo's Caretaker</comments>
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>FLICKERING SOULS v0.4</deckname>
+    <comments>[Shirei, Shizo's Caretaker] [v0.4]</comments>
     <zone name="main">
         <card number="1" name="Abyssal Gatekeeper"/>
         <card number="1" name="Agent of the Iron Throne"/>
@@ -23,6 +24,7 @@
         <card number="1" name="Carrion Feeder"/>
         <card number="1" name="Castle Locthwain"/>
         <card number="1" name="Charcoal Diamond"/>
+        <card number="1" name="Coretapper"/>
         <card number="1" name="Crypt Rats"/>
         <card number="1" name="Deathgreeter"/>
         <card number="1" name="Diabolic Tutor"/>
@@ -39,9 +41,9 @@
         <card number="1" name="Killing Wave"/>
         <card number="1" name="Leaden Myr"/>
         <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Magistrate's Scepter"/>
         <card number="1" name="Mask of Avacyn"/>
         <card number="1" name="Memorial to Folly"/>
-        <card number="1" name="Mind Stone"/>
         <card number="1" name="Moonsilver Key"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Orzhov Enforcer"/>

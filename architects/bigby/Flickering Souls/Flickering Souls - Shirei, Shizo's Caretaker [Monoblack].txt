@@ -1,4 +1,3 @@
-1 Shirei, Shizo's Caretaker
 1 Abyssal Gatekeeper
 1 Agent of the Iron Throne
 1 Ashnod's Altar
@@ -20,6 +19,7 @@
 1 Carrion Feeder
 1 Castle Locthwain
 1 Charcoal Diamond
+1 Coretapper
 1 Crypt Rats
 1 Deathgreeter
 1 Diabolic Tutor
@@ -36,9 +36,9 @@
 1 Killing Wave
 1 Leaden Myr
 1 Lightning Greaves
+1 Magistrate's Scepter
 1 Mask of Avacyn
 1 Memorial to Folly
-1 Mind Stone
 1 Moonsilver Key
 1 Myriad Landscape
 1 Orzhov Enforcer
@@ -50,6 +50,7 @@
 1 Reliquary Tower
 1 Serrated Scorpion
 1 Shambling Ghast
+1 Shirei, Shizo's Caretaker
 1 Skullclamp
 1 Skullport Merchant
 1 Skyscanner
