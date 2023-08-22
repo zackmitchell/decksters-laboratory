@@ -75,14 +75,13 @@
 1 Misty Rainforest
 6 Mountain
 1 Overgrown Farmland
-6 Plains
+7 Plains
 1 Rejuvenating Springs
 1 Rivendell
 1 Sea of Clouds
 1 Seachrome Coast
 1 Shire Terrace
 1 Spara's Headquarters
-1 Spire Garden
 1 Stormcarved Coast
 1 Terramorphic Expanse
 1 Vineglimmer Snarl
