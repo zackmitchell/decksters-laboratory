@@ -1,0 +1,84 @@
+<cockatrice_deck version="1.0">
+    <deckname>Slither Me Timbers</deckname>
+    <comments>Chishiro, the Shattered Blade</comments>
+    <zone name="main">
+        <card number="1" name="Chishiro, the Shattered Blade"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Ascendant Acolyte"/>
+        <card number="1" name="Bear Umbra"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Blackblade Reforged"/>
+        <card number="1" name="Champion of Lambholt"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Concord with the Kami"/>
+        <card number="1" name="Decimate"/>
+        <card number="1" name="Elemental Mastery"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Fertilid"/>
+        <card number="1" name="Fireshrieker"/>
+        <card number="15" name="Forest"/>
+        <card number="1" name="Forgotten Ancient"/>
+        <card number="1" name="Game Trail"/>
+        <card number="1" name="Grumgully, the Generous"/>
+        <card number="1" name="Hunter's Insight"/>
+        <card number="1" name="Invigorating Hot Spring"/>
+        <card number="1" name="Kami of Celebration"/>
+        <card number="1" name="Komainu Battle Armor"/>
+        <card number="1" name="Kosei, Penitent Warlord"/>
+        <card number="1" name="Krenko, Tin Street Kingpin"/>
+        <card number="1" name="Loyal Guardian"/>
+        <card number="1" name="Mage Slayer"/>
+        <card number="1" name="Mossfire Valley"/>
+        <card number="9" name="Mountain"/>
+        <card number="1" name="One with the Kami"/>
+        <card number="1" name="Opal Palace"/>
+        <card number="1" name="Oran-Rief, the Vastwood"/>
+        <card number="1" name="Ordeal of Nylea"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Rampant Rejuvenator"/>
+        <card number="1" name="Rhythm of the Wild"/>
+        <card number="1" name="Rishkar's Expertise"/>
+        <card number="1" name="Rishkar, Peema Renegade"/>
+        <card number="1" name="Shamanic Revelation"/>
+        <card number="1" name="Silkguard"/>
+        <card number="1" name="Smoke Spirits' Aid"/>
+        <card number="1" name="Snake Umbra"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Sword of Vengeance"/>
+        <card number="1" name="Tanuki Transplanter"/>
+        <card number="1" name="Taurean Mauler"/>
+        <card number="1" name="Temple of Abandon"/>
+        <card number="1" name="Towashi Guide-Bot"/>
+        <card number="1" name="Ulasht, the Hate Seed"/>
+        <card number="1" name="Genesis Hydra"/>
+        <card number="1" name="Unquenchable Fury"/>
+        <card number="1" name="Renata, Called to the Hunt"/>
+        <card number="1" name="Kami of Whispered Hopes"/>
+        <card number="1" name="Kodama of the West Tree"/>
+        <card number="1" name="Thundering Raiju"/>
+        <card number="1" name="Lizard Blades"/>
+        <card number="1" name="Halana and Alena, Partners"/>
+        <card number="1" name="Goblin Anarchomancer"/>
+        <card number="1" name="Defiler of Vigor"/>
+        <card number="1" name="Armorcraft Judge"/>
+        <card number="1" name="Ozolith, the Shattered Spire"/>
+        <card number="1" name="Sticky Fingers"/>
+        <card number="1" name="Audacity"/>
+        <card number="1" name="Mithril Coat"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Toski, Bearer of Secrets"/>
+        <card number="1" name="Kessig Wolf Run"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Kenrith's Transformation"/>
+        <card number="1" name="Abundant Growth"/>
+        <card number="1" name="Rancor"/>
+        <card number="1" name="Hardened Scales"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Beast Whisperer"/>
+        <card number="1" name="Spire Garden"/>
+        <card number="1" name="Karplusan Forest"/>
+        <card number="1" name="Karn's Bastion"/>
+    </zone>
+</cockatrice_deck>
