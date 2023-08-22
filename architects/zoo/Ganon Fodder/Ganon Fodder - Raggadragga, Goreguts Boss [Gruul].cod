@@ -1,4 +1,4 @@
-<cockatrice_deck version="1.1">
+<cockatrice_deck version="1.2">
     <deckname>Ganon Fodder</deckname>
     <comments>Raggadragga, Goreguts Boss</comments>
     <zone name="main">
@@ -13,7 +13,7 @@
         <card number="1" name="Zhur-Taa Druid"/>
         <card number="1" name="Craterhoof Behemoth"/>
         <card number="1" name="Grand Warlord Radha"/>
-        <card number="1" name="Defiler of Vigor"/>
+        <card number="1" name="Obscuring Haze"/>
         <card number="1" name="Goblin Anarchomancer"/>
         <card number="1" name="Wrap in Vigor"/>
         <card number="1" name="Outmaneuver"/>
