@@ -15,5 +15,8 @@ One of the best examples of this power is Press the Enemy. If you pay 2 colorles
 Or do the same thing with Astarion's Thirst, which will let you exile one target creature from each opponents board, then sum the total power of all three exiled creatures and put that many +1/+1 counters on Zevlor. You can even get big bursts of mana if you Zevlor up a Jeska's Will, letting you add 1 red mana per card in every opponent's hand.
 
 ### Changelog
+v1.5
+- Swapped out a single `Swamp` and added in `Octavia, Living Thesis` as a potential big endgame wincon.
+
 v1.4
-- Swapped out `Cut Down`, replaced with `Phyrexian Arena`
+- Swapped out `Cut Down`, replaced with `Phyrexian Arena` for repeated draw.

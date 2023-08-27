@@ -20,6 +20,7 @@
 1 Storm-Kiln Artist
 1 Wizards of Thay
 1 Willbreaker
+1 Octavia, Living Thesis
 1 Phyrexian Arena
 1 Lightning Bolt
 1 Thought Scour
@@ -71,6 +72,6 @@
 8 Mountain
 1 Prismatic Vista
 1 Sulfur Falls
-7 Swamp
+6 Swamp
 1 Training Center
 1 Urborg, Tomb of Yawgmoth

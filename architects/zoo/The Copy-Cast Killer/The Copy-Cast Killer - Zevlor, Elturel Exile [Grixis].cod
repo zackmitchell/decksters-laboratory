@@ -1,4 +1,4 @@
-<cockatrice_deck version="1.4">
+<cockatrice_deck version="1.5">
     <deckname>The Copy-Cast Killer</deckname>
     <comments>Zevlor, Elturel Exile</comments>
     <zone name="main">
@@ -7,7 +7,7 @@
         <card number="1" name="Lightning Bolt"/>
         <card number="1" name="Jeska's Will"/>
         <card number="12" name="Island"/>
-        <card number="7" name="Swamp"/>
+        <card number="6" name="Swamp"/>
         <card number="8" name="Mountain"/>
         <card number="1" name="Sulfur Falls"/>
         <card number="1" name="Astarion's Thirst"/>
@@ -78,5 +78,6 @@
         <card number="1" name="Lightning Strike"/>
         <card number="1" name="Cryptic Command"/>
         <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Octavia, Living Thesis"/>
     </zone>
 </cockatrice_deck>
