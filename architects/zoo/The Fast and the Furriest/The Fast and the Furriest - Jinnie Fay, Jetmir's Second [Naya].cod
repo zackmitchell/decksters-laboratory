@@ -1,4 +1,4 @@
-<cockatrice_deck version="1.2">
+<cockatrice_deck version="1.3">
     <deckname>The Fast and the Furriest</deckname>
     <comments>Jinnie Fay, Jetmir's Second</comments>
     <zone name="main">
@@ -73,7 +73,7 @@
         <card number="1" name="Farmer Cotton"/>
         <card number="1" name="Tribute to the World Tree"/>
         <card number="1" name="Impact Tremors"/>
-        <card number="1" name="Tocasia's Welcome"/>
+        <card number="1" name="Arachnogenesis"/>
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Commander's Sphere"/>
         <card number="1" name="Path to Exile"/>
