@@ -1,4 +1,4 @@
-<cockatrice_deck version="1.3">
+<cockatrice_deck version="1.4">
     <deckname>The Fast and the Furriest</deckname>
     <comments>Jinnie Fay, Jetmir's Second</comments>
     <zone name="main">
@@ -64,7 +64,7 @@
         <card number="1" name="Flawless Maneuver"/>
         <card number="1" name="Hordeling Outburst"/>
         <card number="1" name="Roar of Resistance"/>
-        <card number="1" name="Torens, Fist of the Angels"/>
+        <card number="1" name="Ulasht, the Hate Seed"/>
         <card number="1" name="Join the Dance"/>
         <card number="1" name="Elemental Bond"/>
         <card number="1" name="Beastmaster Ascension"/>
