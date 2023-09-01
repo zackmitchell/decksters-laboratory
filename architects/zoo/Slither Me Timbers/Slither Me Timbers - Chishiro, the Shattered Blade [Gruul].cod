@@ -23,7 +23,6 @@
         <card number="1" name="Grumgully, the Generous"/>
         <card number="1" name="Hunter's Insight"/>
         <card number="1" name="Invigorating Hot Spring"/>
-        <card number="1" name="Kami of Celebration"/>
         <card number="1" name="Komainu Battle Armor"/>
         <card number="1" name="Kosei, Penitent Warlord"/>
         <card number="1" name="Krenko, Tin Street Kingpin"/>
@@ -51,12 +50,10 @@
         <card number="1" name="Taurean Mauler"/>
         <card number="1" name="Temple of Abandon"/>
         <card number="1" name="Towashi Guide-Bot"/>
-        <card number="1" name="Ulasht, the Hate Seed"/>
         <card number="1" name="Genesis Hydra"/>
         <card number="1" name="Unquenchable Fury"/>
         <card number="1" name="Renata, Called to the Hunt"/>
         <card number="1" name="Kami of Whispered Hopes"/>
-        <card number="1" name="Kodama of the West Tree"/>
         <card number="1" name="Thundering Raiju"/>
         <card number="1" name="Lizard Blades"/>
         <card number="1" name="Halana and Alena, Partners"/>
@@ -73,12 +70,15 @@
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Kenrith's Transformation"/>
         <card number="1" name="Abundant Growth"/>
-        <card number="1" name="Rancor"/>
-        <card number="1" name="Hardened Scales"/>
         <card number="1" name="Cultivate"/>
         <card number="1" name="Beast Whisperer"/>
         <card number="1" name="Spire Garden"/>
         <card number="1" name="Karplusan Forest"/>
         <card number="1" name="Karn's Bastion"/>
+        <card number="1" name="Wild Growth"/>
+        <card number="1" name="Scale the Heights"/>
+        <card number="1" name="Kodama of the West Tree"/>
+        <card number="1" name="Rancor"/>
+        <card number="1" name="Hardened Scales"/>
     </zone>
 </cockatrice_deck>

@@ -22,10 +22,8 @@
 1 Thundering Raiju
 1 Toski, Bearer of Secrets
 1 Towashi Guide-Bot
-1 Ulasht, the Hate Seed
 1 Ascendant Acolyte
 1 Defiler of Vigor
-1 Kami of Celebration
 1 Loyal Guardian
 1 Silkguard
 1 Beast Within
@@ -33,6 +31,7 @@
 1 Smoke Spirits' Aid
 1 Rampant Growth
 1 Cultivate
+1 Scale the Heights
 1 Decimate
 1 Shamanic Revelation
 1 Rishkar's Expertise
@@ -51,6 +50,7 @@
 1 Hardened Scales
 1 Rancor
 1 Sticky Fingers
+1 Wild Growth
 1 Kenrith's Transformation
 1 Ordeal of Nylea
 1 Invigorating Hot Spring
