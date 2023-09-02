@@ -13,7 +13,7 @@
 1 Rosie Cotton of South Lane
 1 Scute Swarm
 1 Tireless Provisioner
-1 Torens, Fist of the Angels
+1 Ulasht, the Hate Seed
 1 Citanul Hierophants
 1 Emeria Angel
 1 Jetmir, Nexus of Revels
@@ -24,7 +24,7 @@
 1 Path to Exile
 1 Secure the Wastes
 1 Artifact Mutation
-1 Raise the Alarm
+1 Aura Mutation
 1 Call the Coppercoats
 1 Flawless Maneuver
 1 Generous Gift
@@ -56,7 +56,7 @@
 1 Beastmaster Ascension
 1 Elemental Bond
 1 Fae Offering
-1 Tocasia's Welcome
+1 Arachnogenesis
 1 Tribute to the World Tree
 1 Wedding Announcement
 1 Felidar Retreat

@@ -8,3 +8,7 @@ Color Identity: Ink (UGRW)
 ```
 
 ### Guide
+
+### Changelog
+v1.2
+- Swapped out a `Spire Garden` dual in favor of adding a single extra `Plains` as I currently need it for the Chishiro deck.

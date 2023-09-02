@@ -1,4 +1,4 @@
-<cockatrice_deck version="1.1">
+<cockatrice_deck version="1.2">
     <deckname>The Unitered States of Ameragorn</deckname>
     <comments>Aragorn, the Uniter</comments>
     <zone name="main">
@@ -23,7 +23,7 @@
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Chromatic Lantern"/>
         <card number="2" name="Forest"/>
-        <card number="6" name="Plains"/>
+        <card number="7" name="Plains"/>
         <card number="6" name="Mountain"/>
         <card number="2" name="Island"/>
         <card number="1" name="Lightning Helix"/>
@@ -47,7 +47,6 @@
         <card number="1" name="Bountiful Promenade"/>
         <card number="1" name="Sea of Clouds"/>
         <card number="1" name="Rejuvenating Springs"/>
-        <card number="1" name="Spire Garden"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Misty Rainforest"/>
         <card number="1" name="Clifftop Retreat"/>
