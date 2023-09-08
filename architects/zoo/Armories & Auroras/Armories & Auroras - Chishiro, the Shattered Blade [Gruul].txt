@@ -34,7 +34,7 @@
 1 Scale the Heights
 1 Decimate
 1 Shamanic Revelation
-1 Rishkar's Expertise
+1 Court of Garenbrig
 1 Sol Ring
 1 Arcane Signet
 1 Blackblade Reforged
@@ -44,7 +44,7 @@
 1 Fireshrieker
 1 Mage Slayer
 1 Mithril Coat
-1 Sword of Vengeance
+1 Season of Growth
 1 Abundant Growth
 1 Audacity
 1 Hardened Scales
@@ -59,7 +59,7 @@
 1 Unquenchable Fury
 1 Bear Umbra
 1 Concord with the Kami
-1 Elemental Mastery
+1 Primal Vigor
 1 One with the Kami
 1 Cinder Glade
 1 Command Tower

@@ -1,5 +1,5 @@
-<cockatrice_deck version="1.0">
-    <deckname>Slither Me Timbers</deckname>
+<cockatrice_deck version="1.1">
+    <deckname>Armories &amp; Auroras</deckname>
     <comments>Chishiro, the Shattered Blade</comments>
     <zone name="main">
         <card number="1" name="Chishiro, the Shattered Blade"/>
@@ -13,7 +13,6 @@
         <card number="1" name="Command Tower"/>
         <card number="1" name="Concord with the Kami"/>
         <card number="1" name="Decimate"/>
-        <card number="1" name="Elemental Mastery"/>
         <card number="1" name="Exotic Orchard"/>
         <card number="1" name="Fertilid"/>
         <card number="1" name="Fireshrieker"/>
@@ -37,7 +36,6 @@
         <card number="1" name="Rampant Growth"/>
         <card number="1" name="Rampant Rejuvenator"/>
         <card number="1" name="Rhythm of the Wild"/>
-        <card number="1" name="Rishkar's Expertise"/>
         <card number="1" name="Rishkar, Peema Renegade"/>
         <card number="1" name="Shamanic Revelation"/>
         <card number="1" name="Silkguard"/>
@@ -45,7 +43,6 @@
         <card number="1" name="Snake Umbra"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Swiftfoot Boots"/>
-        <card number="1" name="Sword of Vengeance"/>
         <card number="1" name="Tanuki Transplanter"/>
         <card number="1" name="Taurean Mauler"/>
         <card number="1" name="Temple of Abandon"/>
@@ -80,5 +77,8 @@
         <card number="1" name="Kodama of the West Tree"/>
         <card number="1" name="Rancor"/>
         <card number="1" name="Hardened Scales"/>
+        <card number="1" name="Primal Vigor"/>
+        <card number="1" name="Court of Garenbrig"/>
+        <card number="1" name="Season of Growth"/>
     </zone>
 </cockatrice_deck>
