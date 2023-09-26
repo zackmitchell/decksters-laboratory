@@ -54,7 +54,7 @@
 1 Ornithopter of Paradise
 1 Osgir, the Reconstructor
 1 Palladium Myr
-12 Plains
+11 Plains
 1 Power Depot
 1 Rebbec, Architect of Ascension
 1 Retrofitter Foundry
@@ -71,6 +71,7 @@
 1 Swiftfoot Boots
 1 Sword of the Animist
 1 Swords to Plowshares
+1 The Mycosynth Gardens
 1 Thopter Assembly
 1 Thopter Engineer
 1 Thopter Shop

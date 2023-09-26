@@ -2,7 +2,8 @@
 <cockatrice_deck version="1">
     <deckname>RAUCUS RELICS v0.2</deckname>
     <comments>[Alibou, Ancient Witness][v0.2]
-</comments>
+- Removed: Archaeomancer's Map, Chaos Warp, Oswald Fiddlebender, Sol Talisman, Plains
+- Added: Slagstone Refinery, Mycosynth Lattice, Karn, Legacy Reforged, Campus Renovation, The Mycosynth Gardens</comments>
     <zone name="main">
         <card number="1" name="Alibou, Ancient Witness"/>
         <card number="1" name="Ancient Den"/>
@@ -60,7 +61,7 @@
         <card number="1" name="Ornithopter of Paradise"/>
         <card number="1" name="Osgir, the Reconstructor"/>
         <card number="1" name="Palladium Myr"/>
-        <card number="12" name="Plains"/>
+        <card number="11" name="Plains"/>
         <card number="1" name="Power Depot"/>
         <card number="1" name="Rebbec, Architect of Ascension"/>
         <card number="1" name="Retrofitter Foundry"/>
@@ -77,6 +78,7 @@
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Sword of the Animist"/>
         <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="The Mycosynth Gardens"/>
         <card number="1" name="Thopter Assembly"/>
         <card number="1" name="Thopter Engineer"/>
         <card number="1" name="Thopter Shop"/>
