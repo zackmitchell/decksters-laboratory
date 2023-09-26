@@ -2,7 +2,6 @@
 1 Ancient Den
 1 Ancient Stone Idol
 1 Animation Module
-1 Archaeomancer's Map
 1 Axgard Armory
 1 Blade Historian
 1 Boros Charm
@@ -10,7 +9,7 @@
 1 Boros Signet
 1 Bronze Guardian
 1 Campfire
-1 Chaos Warp
+1 Campus Renovation
 1 Command Beacon
 1 Command Tower
 1 Daretti, Scrap Savant
@@ -36,6 +35,7 @@
 1 Hedron Archive
 1 Iron Myr
 1 Jhoira's Familiar
+1 Karn, Legacy Reforged
 1 Liberator, Urza's Battlethopter
 1 Liquimetal Torque
 1 Losheel, Clockwork Scholar
@@ -43,6 +43,7 @@
 1 Manifold Key
 1 Mirage Mirror
 8 Mountain
+1 Mycosynth Lattice
 1 Myr Battlesphere
 1 Myr Matrix
 1 Myr Propagator
@@ -52,7 +53,6 @@
 1 Organic Extinction
 1 Ornithopter of Paradise
 1 Osgir, the Reconstructor
-1 Oswald Fiddlebender
 1 Palladium Myr
 12 Plains
 1 Power Depot
@@ -62,8 +62,8 @@
 1 Rustvale Bridge
 1 Skullclamp
 1 Skyclave Relic
+1 Slagstone Refinery
 1 Sol Ring
-1 Sol Talisman
 1 Solemn Simulacrum
 1 Steel Overseer
 1 Strionic Resonator

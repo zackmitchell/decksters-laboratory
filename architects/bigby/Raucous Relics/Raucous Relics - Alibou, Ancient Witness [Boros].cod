@@ -1,12 +1,13 @@
-<cockatrice_deck version="0.1">
-    <deckname>Raucous Relics</deckname>
-    <comments>Alibou, Ancient Witness</comments>
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>RAUCUS RELICS v0.2</deckname>
+    <comments>[Alibou, Ancient Witness][v0.2]
+</comments>
     <zone name="main">
         <card number="1" name="Alibou, Ancient Witness"/>
         <card number="1" name="Ancient Den"/>
         <card number="1" name="Ancient Stone Idol"/>
         <card number="1" name="Animation Module"/>
-        <card number="1" name="Archaeomancer's Map"/>
         <card number="1" name="Axgard Armory"/>
         <card number="1" name="Blade Historian"/>
         <card number="1" name="Boros Charm"/>
@@ -14,7 +15,7 @@
         <card number="1" name="Boros Signet"/>
         <card number="1" name="Bronze Guardian"/>
         <card number="1" name="Campfire"/>
-        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Campus Renovation"/>
         <card number="1" name="Command Beacon"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Daretti, Scrap Savant"/>
@@ -40,6 +41,7 @@
         <card number="1" name="Hedron Archive"/>
         <card number="1" name="Iron Myr"/>
         <card number="1" name="Jhoira's Familiar"/>
+        <card number="1" name="Karn, Legacy Reforged"/>
         <card number="1" name="Liberator, Urza's Battlethopter"/>
         <card number="1" name="Liquimetal Torque"/>
         <card number="1" name="Losheel, Clockwork Scholar"/>
@@ -47,6 +49,7 @@
         <card number="1" name="Manifold Key"/>
         <card number="1" name="Mirage Mirror"/>
         <card number="8" name="Mountain"/>
+        <card number="1" name="Mycosynth Lattice"/>
         <card number="1" name="Myr Battlesphere"/>
         <card number="1" name="Myr Matrix"/>
         <card number="1" name="Myr Propagator"/>
@@ -56,7 +59,6 @@
         <card number="1" name="Organic Extinction"/>
         <card number="1" name="Ornithopter of Paradise"/>
         <card number="1" name="Osgir, the Reconstructor"/>
-        <card number="1" name="Oswald Fiddlebender"/>
         <card number="1" name="Palladium Myr"/>
         <card number="12" name="Plains"/>
         <card number="1" name="Power Depot"/>
@@ -66,8 +68,8 @@
         <card number="1" name="Rustvale Bridge"/>
         <card number="1" name="Skullclamp"/>
         <card number="1" name="Skyclave Relic"/>
+        <card number="1" name="Slagstone Refinery"/>
         <card number="1" name="Sol Ring"/>
-        <card number="1" name="Sol Talisman"/>
         <card number="1" name="Solemn Simulacrum"/>
         <card number="1" name="Steel Overseer"/>
         <card number="1" name="Strionic Resonator"/>
