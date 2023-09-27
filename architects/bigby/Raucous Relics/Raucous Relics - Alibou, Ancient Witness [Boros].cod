@@ -3,7 +3,7 @@
     <deckname>RAUCUS RELICS v0.2</deckname>
     <comments>[Alibou, Ancient Witness][v0.2]
 - Removed: Archaeomancer's Map, Chaos Warp, Oswald Fiddlebender, Sol Talisman, Plains
-- Added: Slagstone Refinery, Mycosynth Lattice, Karn, Legacy Reforged, Campus Renovation, The Mycosynth Gardens</comments>
+- Added: Slagstone Refinery, Mycosynth Lattice, Karn, the Great Creator, Campus Renovation, The Mycosynth Gardens</comments>
     <zone name="main">
         <card number="1" name="Alibou, Ancient Witness"/>
         <card number="1" name="Ancient Den"/>
@@ -42,7 +42,6 @@
         <card number="1" name="Hedron Archive"/>
         <card number="1" name="Iron Myr"/>
         <card number="1" name="Jhoira's Familiar"/>
-        <card number="1" name="Karn, Legacy Reforged"/>
         <card number="1" name="Liberator, Urza's Battlethopter"/>
         <card number="1" name="Liquimetal Torque"/>
         <card number="1" name="Losheel, Clockwork Scholar"/>
@@ -88,5 +87,6 @@
         <card number="1" name="Vandalblast"/>
         <card number="1" name="Wake the Past"/>
         <card number="1" name="Welding Jar"/>
+        <card number="1" name="Karn, the Great Creator"/>
     </zone>
 </cockatrice_deck>
