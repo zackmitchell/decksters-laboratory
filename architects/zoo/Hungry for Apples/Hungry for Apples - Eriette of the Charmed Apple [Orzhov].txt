@@ -1,0 +1,73 @@
+1 Hateful Eidolon
+1 Slumbering Keepguard
+1 Killian, Ink Duelist
+1 Knight of the White Orchid
+1 Kor Spiritdancer
+1 Light-Paws, Emperor's Voice
+1 Lotho, Corrupt Shirriff
+1 Spellbook Vendor
+1 Sram, Senior Edificer
+1 Starfield Mystic
+1 Transcendent Envoy
+1 Auramancer
+1 Eriette of the Charmed Apple
+1 Katilda, Dawnhart Martyr
+1 Knight of Doves
+1 Mesa Enchantress
+1 Starnheim Courser
+1 Ashiok's Reaper
+1 Mangara, the Diplomat
+1 Neva, Stalked by Nightmares
+1 Xenk, Paladin Unbroken
+1 Astarion, the Decadent
+1 Nykthos Paragon
+1 Dark Ritual
+1 Enlightened Tutor
+1 Not Dead After All
+1 Path to Exile
+1 Rebuff the Wicked
+1 Despark
+1 Reprieve
+1 Stroke of Midnight
+1 Teferi's Protection
+1 Resurgent Belief
+1 Night's Whisper
+1 Sign in Blood
+1 Read the Bones
+1 Sevinne's Reclamation
+1 Sol Ring
+1 Arcane Signet
+1 Fellwar Stone
+1 Mind Stone
+1 Pearl Medallion
+1 Swiftfoot Boots
+1 Well of Lost Dreams
+1 Clawing Torment
+1 Hyena Umbra
+1 Kaya's Ghostform
+1 Spirit Link
+1 All That Glitters
+1 Angelic Gift
+1 Darksteel Mutation
+1 Greater Auramancy
+1 Lord Skitter's Blessing
+1 Reprobation
+1 Skyblade's Boon
+1 Minion's Return
+1 Parasitic Impetus
+1 Pariah
+1 Phyrexian Arena
+1 Stab Wound
+1 Unholy Indenture
+1 Sanguine Bond
+1 Sigil of the Empty Throne
+1 Command Tower
+1 Evolving Wilds
+1 Exotic Orchard
+1 Hall of Heliod's Generosity
+1 Isolated Chapel
+17 Plains
+1 Shattered Sanctum
+1 Shineshadow Snarl
+12 Swamp
+1 Temple of Silence

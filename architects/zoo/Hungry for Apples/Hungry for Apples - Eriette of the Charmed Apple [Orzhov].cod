@@ -1,0 +1,79 @@
+<cockatrice_deck version="1.0">
+    <deckname>Hungry For Apples?</deckname>
+    <comments>Eriette of the Charmed Apple</comments>
+    <zone name="main">
+        <card number="1" name="Eriette of the Charmed Apple"/>
+        <card number="12" name="Swamp"/>
+        <card number="17" name="Plains"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Pearl Medallion"/>
+        <card number="1" name="Shineshadow Snarl"/>
+        <card number="1" name="Shattered Sanctum"/>
+        <card number="1" name="Temple of Silence"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Hall of Heliod's Generosity"/>
+        <card number="1" name="Well of Lost Dreams"/>
+        <card number="1" name="Mesa Enchantress"/>
+        <card number="1" name="Sram, Senior Edificer"/>
+        <card number="1" name="Kor Spiritdancer"/>
+        <card number="1" name="Killian, Ink Duelist"/>
+        <card number="1" name="Hateful Eidolon"/>
+        <card number="1" name="Starfield Mystic"/>
+        <card number="1" name="Transcendent Envoy"/>
+        <card number="1" name="Light-Paws, Emperor's Voice"/>
+        <card number="1" name="Neva, Stalked by Nightmares"/>
+        <card number="1" name="Starnheim Courser"/>
+        <card number="1" name="Auramancer"/>
+        <card number="1" name="Katilda, Dawnhart Martyr // Katilda's Rising Dawn"/>
+        <card number="1" name="Lotho, Corrupt Shirriff"/>
+        <card number="1" name="Xenk, Paladin Unbroken"/>
+        <card number="1" name="Slumbering Keepguard"/>
+        <card number="1" name="Knight of Doves"/>
+        <card number="1" name="Astarion, the Decadent"/>
+        <card number="1" name="Mangara, the Diplomat"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Not Dead After All"/>
+        <card number="1" name="Stroke of Midnight"/>
+        <card number="1" name="Enlightened Tutor"/>
+        <card number="1" name="Rebuff the Wicked"/>
+        <card number="1" name="Teferi's Protection"/>
+        <card number="1" name="Reprieve"/>
+        <card number="1" name="Dark Ritual"/>
+        <card number="1" name="Sign in Blood"/>
+        <card number="1" name="Night's Whisper"/>
+        <card number="1" name="Sevinne's Reclamation"/>
+        <card number="1" name="Read the Bones"/>
+        <card number="1" name="Nykthos Paragon"/>
+        <card number="1" name="Ashiok's Reaper"/>
+        <card number="1" name="Knight of the White Orchid"/>
+        <card number="1" name="Despark"/>
+        <card number="1" name="Resurgent Belief"/>
+        <card number="1" name="All That Glitters"/>
+        <card number="1" name="Angelic Gift"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Darksteel Mutation"/>
+        <card number="1" name="Clawing Torment"/>
+        <card number="1" name="Parasitic Impetus"/>
+        <card number="1" name="Pariah"/>
+        <card number="1" name="Minion's Return"/>
+        <card number="1" name="Unholy Indenture"/>
+        <card number="1" name="Stab Wound"/>
+        <card number="1" name="Spirit Link"/>
+        <card number="1" name="Skyblade's Boon"/>
+        <card number="1" name="Sigil of the Empty Throne"/>
+        <card number="1" name="Sanguine Bond"/>
+        <card number="1" name="Reprobation"/>
+        <card number="1" name="Kaya's Ghostform"/>
+        <card number="1" name="Hyena Umbra"/>
+        <card number="1" name="Greater Auramancy"/>
+        <card number="1" name="Spellbook Vendor"/>
+        <card number="1" name="Lord Skitter's Blessing"/>
+        <card number="1" name="Isolated Chapel"/>
+        <card number="1" name="Phyrexian Arena"/>
+    </zone>
+</cockatrice_deck>
