@@ -1,4 +1,4 @@
-<cockatrice_deck version="1.2">
+<cockatrice_deck version="1.3">
     <deckname>Ganon Fodder</deckname>
     <comments>Raggadragga, Goreguts Boss</comments>
     <zone name="main">
@@ -13,7 +13,6 @@
         <card number="1" name="Zhur-Taa Druid"/>
         <card number="1" name="Craterhoof Behemoth"/>
         <card number="1" name="Grand Warlord Radha"/>
-        <card number="1" name="Obscuring Haze"/>
         <card number="1" name="Goblin Anarchomancer"/>
         <card number="1" name="Wrap in Vigor"/>
         <card number="1" name="Outmaneuver"/>
@@ -31,7 +30,6 @@
         <card number="1" name="Armored Scrapgorger"/>
         <card number="1" name="Ilysian Caryatid"/>
         <card number="1" name="Leafkin Avenger"/>
-        <card number="1" name="Llanowar Loamspeaker"/>
         <card number="1" name="Lunar Frenzy"/>
         <card number="1" name="Natural Order"/>
         <card number="1" name="Guardian Project"/>
@@ -54,7 +52,6 @@
         <card number="1" name="Leafkin Druid"/>
         <card number="1" name="Crackle with Power"/>
         <card number="1" name="Three Visits"/>
-        <card number="1" name="Doors of Durin"/>
         <card number="1" name="Elven Chorus"/>
         <card number="1" name="Ashaya, Soul of the Wild"/>
         <card number="1" name="Leaf-Crowned Visionary"/>
@@ -76,5 +73,8 @@
         <card number="1" name="Prosperous Innkeeper"/>
         <card number="1" name="Sylvan Anthem"/>
         <card number="1" name="Zopandrel, Hunger Dominus"/>
+        <card number="1" name="Doors of Durin"/>
+        <card number="1" name="Obscuring Haze"/>
+        <card number="1" name="Ruby, Daring Tracker"/>
     </zone>
 </cockatrice_deck>
