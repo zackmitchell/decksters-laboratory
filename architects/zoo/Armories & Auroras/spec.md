@@ -10,6 +10,9 @@ Color Identity: Gruul (GR)
 ### Guide
 
 ### Changelog
+v1.2
+- Notable additions include Questing Druid, Guttural Response, and Doubling Season
+
 v1.1
 - Renamed deck to "Armories & Auroras"
 - Removed `Rishkar's Expertise` for cheaper, more repeatable card draw with `Season of Growth`

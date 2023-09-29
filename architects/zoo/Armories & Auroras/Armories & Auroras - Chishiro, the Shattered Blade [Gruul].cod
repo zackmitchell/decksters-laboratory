@@ -1,4 +1,4 @@
-<cockatrice_deck version="1.1">
+<cockatrice_deck version="1.2">
     <deckname>Armories &amp; Auroras</deckname>
     <comments>Chishiro, the Shattered Blade</comments>
     <zone name="main">
@@ -11,17 +11,14 @@
         <card number="1" name="Champion of Lambholt"/>
         <card number="1" name="Cinder Glade"/>
         <card number="1" name="Command Tower"/>
-        <card number="1" name="Concord with the Kami"/>
-        <card number="1" name="Decimate"/>
         <card number="1" name="Exotic Orchard"/>
         <card number="1" name="Fertilid"/>
         <card number="1" name="Fireshrieker"/>
-        <card number="15" name="Forest"/>
+        <card number="16" name="Forest"/>
         <card number="1" name="Forgotten Ancient"/>
         <card number="1" name="Game Trail"/>
         <card number="1" name="Grumgully, the Generous"/>
         <card number="1" name="Hunter's Insight"/>
-        <card number="1" name="Invigorating Hot Spring"/>
         <card number="1" name="Komainu Battle Armor"/>
         <card number="1" name="Kosei, Penitent Warlord"/>
         <card number="1" name="Krenko, Tin Street Kingpin"/>
@@ -64,7 +61,6 @@
         <card number="1" name="Commander's Sphere"/>
         <card number="1" name="Toski, Bearer of Secrets"/>
         <card number="1" name="Kessig Wolf Run"/>
-        <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Kenrith's Transformation"/>
         <card number="1" name="Abundant Growth"/>
         <card number="1" name="Cultivate"/>
@@ -77,8 +73,11 @@
         <card number="1" name="Kodama of the West Tree"/>
         <card number="1" name="Rancor"/>
         <card number="1" name="Hardened Scales"/>
-        <card number="1" name="Primal Vigor"/>
         <card number="1" name="Court of Garenbrig"/>
         <card number="1" name="Season of Growth"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Questing Druid // Seek the Beast"/>
+        <card number="1" name="Guttural Response"/>
+        <card number="1" name="Doubling Season"/>
     </zone>
 </cockatrice_deck>
