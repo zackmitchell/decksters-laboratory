@@ -1,4 +1,4 @@
-<cockatrice_deck version="1.2">
+<cockatrice_deck version="1">
     <deckname>The Unitered States of Ameragorn</deckname>
     <comments>Aragorn, the Uniter</comments>
     <zone name="main">
@@ -8,12 +8,10 @@
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Growth Spiral"/>
         <card number="1" name="Prince Imrahil the Fair"/>
-        <card number="1" name="Elrond, Master of Healing"/>
         <card number="1" name="Kyler, Sigardian Emissary"/>
         <card number="1" name="Dovin's Veto"/>
         <card number="1" name="Cabaretti Charm"/>
         <card number="1" name="Friendly Rivalry"/>
-        <card number="1" name="Prismari Command"/>
         <card number="1" name="Rip Apart"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Brokers Ascendancy"/>
@@ -29,16 +27,12 @@
         <card number="1" name="Lightning Helix"/>
         <card number="1" name="Shire Terrace"/>
         <card number="1" name="Kwain, Itinerant Meddler"/>
-        <card number="1" name="Vexing Puzzlebox"/>
-        <card number="1" name="Sprite Dragon"/>
         <card number="1" name="Third Path Iconoclast"/>
-        <card number="1" name="Galadriel of Lothlórien"/>
         <card number="1" name="Baral and Kari Zev"/>
         <card number="1" name="Radiant Scrollwielder"/>
         <card number="1" name="Fleetfoot Dancer"/>
         <card number="1" name="Quandrix Command"/>
         <card number="1" name="Double Major"/>
-        <card number="1" name="Guttural Response"/>
         <card number="1" name="Epic Experiment"/>
         <card number="1" name="Angelfire Ignition"/>
         <card number="1" name="Cabaretti Ascendancy"/>
@@ -54,19 +48,14 @@
         <card number="1" name="Dreamroot Cascade"/>
         <card number="1" name="Overgrown Farmland"/>
         <card number="1" name="Seachrome Coast"/>
-        <card number="1" name="Copperline Gorge"/>
         <card number="1" name="Vineglimmer Snarl"/>
-        <card number="1" name="Hall of Oracles"/>
         <card number="1" name="Stormcarved Coast"/>
-        <card number="1" name="Teach by Example"/>
         <card number="1" name="Martial Glory"/>
         <card number="1" name="Terramorphic Expanse"/>
         <card number="1" name="Théoden, King of Rohan"/>
         <card number="1" name="Éowyn, Fearless Knight"/>
         <card number="1" name="Fallaji Vanguard"/>
         <card number="1" name="Teferi's Protection"/>
-        <card number="1" name="Nature's Lore"/>
-        <card number="1" name="Three Visits"/>
         <card number="1" name="Faramir, Prince of Ithilien"/>
         <card number="1" name="Brazen Upstart"/>
         <card number="1" name="Esper Sentinel"/>
@@ -80,14 +69,25 @@
         <card number="1" name="Naya Charm"/>
         <card number="1" name="Shield of the Oversoul"/>
         <card number="1" name="Safewright Quest"/>
-        <card number="1" name="Mirari's Wake"/>
-        <card number="1" name="Abundant Growth"/>
         <card number="1" name="Narset, Enlightened Exile"/>
         <card number="1" name="Éowyn, Shieldmaiden"/>
-        <card number="1" name="The One Ring"/>
         <card number="1" name="Katilda, Dawnhart Prime"/>
         <card number="1" name="Mirror Entity"/>
         <card number="1" name="Skullclamp"/>
         <card number="1" name="Leyline Immersion"/>
+        <card number="1" name="Greymond, Avacyn's Stalwart"/>
+        <card number="1" name="Bant Charm"/>
+        <card number="1" name="Pippin, Guard of the Citadel"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Delighted Halfling"/>
+        <card number="1" name="Ruby, Daring Tracker"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Jinnie Fay, Jetmir's Second"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Gloryscale Viashino"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Ketria Triome"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Three Visits"/>
     </zone>
 </cockatrice_deck>
