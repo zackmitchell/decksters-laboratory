@@ -1,0 +1,86 @@
+<cockatrice_deck version="1.0">
+    <deckname>Quezadeala</deckname>
+    <comments>Queza, Augur of Agonies</comments>
+    <zone name="main">
+        <card number="1" name="Queza, Augur of Agonies"/>
+        <card number="7" name="Swamp"/>
+        <card number="12" name="Island"/>
+        <card number="4" name="Plains"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Talion, the Kindly Lord"/>
+        <card number="1" name="Likeness Looter"/>
+        <card number="1" name="Teferi's Ageless Insight"/>
+        <card number="1" name="Peer into the Abyss"/>
+        <card number="1" name="Marauding Blight-Priest"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Wizard Class"/>
+        <card number="1" name="Psychosis Crawler"/>
+        <card number="1" name="Decanter of Endless Water"/>
+        <card number="1" name="Void Rend"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Rhystic Study"/>
+        <card number="1" name="Gixian Puppeteer"/>
+        <card number="1" name="The Council of Four"/>
+        <card number="1" name="Prince Imrahil the Fair"/>
+        <card number="1" name="Archmage Emeritus"/>
+        <card number="1" name="Lotho, Corrupt Shirriff"/>
+        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Dovin's Veto"/>
+        <card number="1" name="Despark"/>
+        <card number="1" name="Greed"/>
+        <card number="1" name="Faithful Mending"/>
+        <card number="1" name="Fracture"/>
+        <card number="1" name="Blue Sun's Zenith"/>
+        <card number="1" name="Pull from Tomorrow"/>
+        <card number="1" name="Union of the Third Path"/>
+        <card number="1" name="Preordain"/>
+        <card number="1" name="Sign in Blood"/>
+        <card number="1" name="Read the Bones"/>
+        <card number="1" name="Sea Gate Restoration // Sea Gate, Reborn"/>
+        <card number="1" name="Cut of the Profits"/>
+        <card number="1" name="Cut a Deal"/>
+        <card number="1" name="Secret Rendezvous"/>
+        <card number="1" name="Compulsive Research"/>
+        <card number="1" name="The One Ring"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Howling Mine"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Ominous Seas"/>
+        <card number="1" name="The Bath Song"/>
+        <card number="1" name="Cleric Class"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Midnight Clock"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Raffine's Tower"/>
+        <card number="1" name="Arcane Sanctum"/>
+        <card number="1" name="Obscura Storefront"/>
+        <card number="1" name="Sapphire Medallion"/>
+        <card number="1" name="Grand Arbiter Augustin IV"/>
+        <card number="1" name="Collective Restraint"/>
+        <card number="1" name="Murmuring Mystic"/>
+        <card number="1" name="Choked Estuary"/>
+        <card number="1" name="Sunken Hollow"/>
+        <card number="1" name="Shineshadow Snarl"/>
+        <card number="1" name="Prairie Stream"/>
+        <card number="1" name="Port Town"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Temple of Deceit"/>
+        <card number="1" name="Wall of Denial"/>
+        <card number="1" name="Oloro, Ageless Ascetic"/>
+        <card number="1" name="Kami of the Crescent Moon"/>
+        <card number="1" name="Notion Thief"/>
+        <card number="1" name="Damnable Pact"/>
+        <card number="1" name="Windfall"/>
+        <card number="1" name="Well of Lost Dreams"/>
+        <card number="1" name="Mystic Remora"/>
+        <card number="1" name="Ghostly Prison"/>
+        <card number="1" name="Sanguine Bond"/>
+        <card number="1" name="Jace's Archivist"/>
+        <card number="1" name="Change of Plans"/>
+    </zone>
+</cockatrice_deck>
