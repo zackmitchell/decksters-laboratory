@@ -2,6 +2,7 @@
 1 Academy Ruins
 1 Aetherplasm
 1 Arcane Denial
+1 Arcane Encyclopedia
 1 Archmage Emeritus
 1 Artistic Refusal
 1 Ashnod's Altar
@@ -15,12 +16,9 @@
 1 Consecrated Sphinx
 1 Coral Atoll
 1 Counterspell
-1 Crab Umbra
 1 Curse of the Swine
 1 Disallow
 1 Dismiss into Dream
-1 Door of Destinies
-1 Eel Umbra
 1 Fabricate
 1 Faerie Mastermind
 1 Frantic Search
@@ -30,12 +28,9 @@
 1 Illusionary Wall
 1 Illusory Ambusher
 1 Inscription of Insight
-22 Island
-1 Jace's Mindseeker
-1 Jalira, Master Polymorphist
+27 Island
 1 Kindred Discovery
 1 Krovikan Mist
-1 Lightning Greaves
 1 Lord of the Unreal
 1 Maskwood Nexus
 1 Meeting of Minds
@@ -43,6 +38,7 @@
 1 Mind's Eye
 1 Minn, Wily Illusionist
 1 Mistform Warchief
+1 Mithril Coat
 1 Mordenkainen
 1 Murmuring Mystic
 1 Myriad Landscape
@@ -76,4 +72,3 @@
 1 War Room
 1 Wayfarer's Bauble
 1 Wizard Class
-1 Wonder
