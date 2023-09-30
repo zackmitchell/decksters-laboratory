@@ -1,4 +1,5 @@
-<cockatrice_deck version="1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
     <deckname>Quezadeala</deckname>
     <comments>Queza, Augur of Agonies</comments>
     <zone name="main">
@@ -36,7 +37,6 @@
         <card number="1" name="Preordain"/>
         <card number="1" name="Sign in Blood"/>
         <card number="1" name="Read the Bones"/>
-        <card number="1" name="Sea Gate Restoration // Sea Gate, Reborn"/>
         <card number="1" name="Cut of the Profits"/>
         <card number="1" name="Cut a Deal"/>
         <card number="1" name="Secret Rendezvous"/>
@@ -82,5 +82,6 @@
         <card number="1" name="Sanguine Bond"/>
         <card number="1" name="Jace's Archivist"/>
         <card number="1" name="Change of Plans"/>
+        <card number="1" name="Sea Gate Restoration"/>
     </zone>
 </cockatrice_deck>

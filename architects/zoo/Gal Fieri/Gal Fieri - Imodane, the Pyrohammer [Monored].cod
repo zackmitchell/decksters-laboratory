@@ -1,4 +1,5 @@
-<cockatrice_deck version="1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
     <deckname>Gal Fieri</deckname>
     <comments>Imodane, the Pyrohammer</comments>
     <zone name="main">
@@ -18,8 +19,6 @@
         <card number="1" name="Ruby Medallion"/>
         <card number="1" name="Cathartic Pyre"/>
         <card number="1" name="Young Pyromancer"/>
-        <card number="1" name="Urabrask // The Great Work"/>
-        <card number="1" name="Birgi, God of Storytelling // Harnfel, Horn of Bounty"/>
         <card number="1" name="Erebor Flamesmith"/>
         <card number="1" name="Electrostatic Field"/>
         <card number="1" name="Dualcaster Mage"/>
@@ -43,7 +42,6 @@
         <card number="1" name="Wrenn's Resolve"/>
         <card number="1" name="Reckless Impulse"/>
         <card number="1" name="Swiftfoot Boots"/>
-        <card number="1" name="Primal Amulet // Primal Wellspring"/>
         <card number="1" name="Mithril Coat"/>
         <card number="1" name="Horizon Stone"/>
         <card number="1" name="Fiery Inscription"/>
@@ -69,5 +67,8 @@
         <card number="1" name="Ragavan, Nimble Pilferer"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Command Tower"/>
+        <card number="1" name="Birgi, God of Storytelling"/>
+        <card number="1" name="Primal Amulet"/>
+        <card number="1" name="Urabrask"/>
     </zone>
 </cockatrice_deck>
