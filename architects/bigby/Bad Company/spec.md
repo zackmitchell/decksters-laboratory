@@ -1,4 +1,4 @@
-# Squad Goals
+# Bad Company
 ## Overview
 ### Details
 ```

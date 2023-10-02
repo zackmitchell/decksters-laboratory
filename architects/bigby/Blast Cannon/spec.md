@@ -1,4 +1,4 @@
-# Blaster Master
+# Blast Cannon
 ## Overview
 ### Details
 ```
