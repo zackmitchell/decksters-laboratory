@@ -15,7 +15,7 @@
 1 Leafkin Druid
 1 Paradise Druid
 1 Prosperous Innkeeper
-1 Radha, Heir to Keld
+1 Selvala, Heart of the Wilds
 1 Ruby, Daring Tracker
 1 Zhur-Taa Druid
 1 Circle of Dreams Druid

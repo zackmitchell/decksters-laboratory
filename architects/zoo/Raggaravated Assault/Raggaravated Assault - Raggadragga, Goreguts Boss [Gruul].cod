@@ -1,5 +1,5 @@
-<cockatrice_deck version="1.3">
-    <deckname>Ganon Fodder</deckname>
+<cockatrice_deck version="1.4">
+    <deckname>Raggaravated Assault</deckname>
     <comments>Raggadragga, Goreguts Boss</comments>
     <zone name="main">
         <card number="1" name="Raggadragga, Goreguts Boss"/>
@@ -7,7 +7,7 @@
         <card number="1" name="Llanowar Elves"/>
         <card number="1" name="Biophagus"/>
         <card number="1" name="Gwenna, Eyes of Gaea"/>
-        <card number="1" name="Radha, Heir to Keld"/>
+        <card number="1" name="Selvala, Heart of the Wilds"/>
         <card number="1" name="Circle of Dreams Druid"/>
         <card number="1" name="Beast Whisperer"/>
         <card number="1" name="Zhur-Taa Druid"/>

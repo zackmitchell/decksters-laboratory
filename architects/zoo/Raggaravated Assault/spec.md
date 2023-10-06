@@ -1,4 +1,4 @@
-# Ganon Fodder
+# Raggaravated Assault
 ## Overview
 ### Details
 ```
@@ -13,6 +13,9 @@ Ramp early and often with a horde of low cost mana dorks, then get Ragga out for
 Once your board state has ramped a bit, it's time to cast some big spells, as anything at 7 or higher cost will proc Ragga's other ability, letting you give certain creatures trample and a huge boost to damage. To facilitate this, there are several stompy creatures in the deck at 7 or higher cost, as well as a bunch of X spells that you can inflate to meet the cost threshold.
 
 ### Changelog
+v1.4
+- Swapped out `Radha, Heir to Keld` for `Selvala, Heart of the Wilds`
+
 v1.3
 - Add `Ruby, Daring Tracker` cause she was MADE for this deck.
 
