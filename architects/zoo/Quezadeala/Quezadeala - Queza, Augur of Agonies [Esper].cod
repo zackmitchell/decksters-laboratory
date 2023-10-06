@@ -1,4 +1,4 @@
-<cockatrice_deck version="1.1">
+<cockatrice_deck version="1.2">
     <deckname>Quezadeala</deckname>
     <comments>Queza, Augur of Agonies</comments>
     <zone name="main">
@@ -50,7 +50,6 @@
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Thought Vessel"/>
         <card number="1" name="Fellwar Stone"/>
-        <card number="1" name="Mind Stone"/>
         <card number="1" name="Raffine's Tower"/>
         <card number="1" name="Arcane Sanctum"/>
         <card number="1" name="Obscura Storefront"/>
@@ -79,7 +78,8 @@
         <card number="1" name="Jace's Archivist"/>
         <card number="1" name="Change of Plans"/>
         <card number="1" name="Forgotten Creation"/>
-        <card number="1" name="Faerie Mastermind"/>
-        <card number="1" name="Esper Sentinel"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Talisman of Hierarchy"/>
+        <card number="1" name="Talrand, Sky Summoner"/>
     </zone>
 </cockatrice_deck>
