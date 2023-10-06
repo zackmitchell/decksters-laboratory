@@ -1,30 +1,30 @@
-1 Jinnie Fay, Jetmir's Second
 1 Elvish Mystic
 1 Black Market Tycoon
 1 Farmer Cotton
 1 Gala Greeters
-1 Loyal Apprentice
 1 Academy Manufactor
 1 Adeline, Resplendent Cathar
 1 Cadira, Caller of the Small
+1 Jinnie Fay, Jetmir's Second
 1 Peregrin Took
 1 Prava of the Steel Legion
 1 Queen Allenal of Ruadach
 1 Rosie Cotton of South Lane
 1 Scute Swarm
 1 Tireless Provisioner
-1 Ulasht, the Hate Seed
 1 Citanul Hierophants
 1 Emeria Angel
 1 Jetmir, Nexus of Revels
 1 Kitt Kanto, Mayhem Diva
 1 Mondrak, Glory Dominus
 1 Neyali, Suns' Vanguard
+1 Ulasht, the Hate Seed
 1 Regal Caracal
 1 Path to Exile
 1 Secure the Wastes
 1 Artifact Mutation
 1 Aura Mutation
+1 Arachnogenesis
 1 Call the Coppercoats
 1 Flawless Maneuver
 1 Generous Gift
@@ -39,12 +39,13 @@
 1 Cultivate
 1 Hordeling Outburst
 1 Harmonize
-1 Release the Dogs
 1 Shamanic Revelation
 1 Skullclamp
 1 Sol Ring
 1 Wayfarer's Bauble
 1 Arcane Signet
+1 Fellwar Stone
+1 Mind Stone
 1 Staff of the Storyteller
 1 Swiftfoot Boots
 1 Ashnod's Altar
@@ -52,14 +53,13 @@
 1 Flowering of the White Tree
 1 Impact Tremors
 1 Intangible Virtue
-1 Roar of Resistance
 1 Beastmaster Ascension
 1 Elemental Bond
 1 Fae Offering
-1 Arachnogenesis
 1 Tribute to the World Tree
 1 Wedding Announcement
 1 Felidar Retreat
+1 Cathars' Crusade
 1 There and Back Again
 1 Bountiful Promenade
 1 Brushland

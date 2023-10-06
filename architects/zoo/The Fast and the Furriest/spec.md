@@ -10,6 +10,9 @@ Color Identity: Naya (GRW)
 ### Guide
 
 ### Changelog
+v1.5
+- Removed `Roar of Resistence` and `Loyal Apprentice` in favor of two more manarocks, `Mind Stone` and `Fellwar Stone`. Also added in `Cathars' Crusade` because it can be insane.
+
 v1.4
 - Removed `Torens, Fist of the Angels` in order to add in `Ulasht, the Hate Seed` which could be super powerful and useful at making a decently established board of catdogs even scarier, converting its ETB +1/+1 counters to a horde of catdog tokens for 1 mana each.
 

@@ -1,4 +1,4 @@
-<cockatrice_deck version="1.4">
+<cockatrice_deck version="1.5">
     <deckname>The Fast and the Furriest</deckname>
     <comments>Jinnie Fay, Jetmir's Second</comments>
     <zone name="main">
@@ -29,7 +29,6 @@
         <card number="1" name="Nature's Lore"/>
         <card number="1" name="White Sun's Twilight"/>
         <card number="1" name="Harmonize"/>
-        <card number="1" name="Release the Dogs"/>
         <card number="1" name="Many Partings"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Ashnod's Altar"/>
@@ -60,11 +59,8 @@
         <card number="1" name="Call the Coppercoats"/>
         <card number="1" name="Staff of the Storyteller"/>
         <card number="1" name="Furycalm Snarl"/>
-        <card number="1" name="Loyal Apprentice"/>
         <card number="1" name="Flawless Maneuver"/>
         <card number="1" name="Hordeling Outburst"/>
-        <card number="1" name="Roar of Resistance"/>
-        <card number="1" name="Ulasht, the Hate Seed"/>
         <card number="1" name="Join the Dance"/>
         <card number="1" name="Elemental Bond"/>
         <card number="1" name="Beastmaster Ascension"/>
@@ -73,7 +69,6 @@
         <card number="1" name="Farmer Cotton"/>
         <card number="1" name="Tribute to the World Tree"/>
         <card number="1" name="Impact Tremors"/>
-        <card number="1" name="Arachnogenesis"/>
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Commander's Sphere"/>
         <card number="1" name="Path to Exile"/>
@@ -82,5 +77,10 @@
         <card number="1" name="Flowering of the White Tree"/>
         <card number="1" name="Minas Tirith"/>
         <card number="1" name="Aura Mutation"/>
+        <card number="1" name="Arachnogenesis"/>
+        <card number="1" name="Ulasht, the Hate Seed"/>
+        <card number="1" name="Cathars' Crusade"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Mind Stone"/>
     </zone>
 </cockatrice_deck>
