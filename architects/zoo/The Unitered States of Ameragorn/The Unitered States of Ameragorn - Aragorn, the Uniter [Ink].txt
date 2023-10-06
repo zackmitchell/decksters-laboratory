@@ -1,14 +1,12 @@
 1 Delighted Halfling
-1 Esper Sentinel
 1 Bloom Tender
 1 Katilda, Dawnhart Prime
 1 Kwain, Itinerant Meddler
 1 Pippin, Guard of the Citadel
-1 Prince Imrahil the Fair
 1 Ruby, Daring Tracker
 1 Third Path Iconoclast
-1 Baral and Kari Zev
 1 Brazen Upstart
+1 Burnished Hart
 1 General Ferrous Rokiric
 1 Jinnie Fay, Jetmir's Second
 1 Mirror Entity
@@ -56,6 +54,8 @@
 1 Swiftfoot Boots
 1 Chromatic Lantern
 1 Commander's Sphere
+1 Relic of Legends
+1 Tome of the Guildpact
 1 Crystallization
 1 Brokers Ascendancy
 1 Cabaretti Ascendancy
@@ -73,8 +73,9 @@
 1 Mines of Moria
 1 Misty Rainforest
 6 Mountain
+1 Myriad Landscape
 1 Overgrown Farmland
-7 Plains
+6 Plains
 1 Rejuvenating Springs
 1 Rivendell
 1 Rogue's Passage

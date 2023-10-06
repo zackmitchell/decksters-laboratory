@@ -1,4 +1,4 @@
-<cockatrice_deck version="1">
+<cockatrice_deck version="1.3">
     <deckname>The Unitered States of Ameragorn</deckname>
     <comments>Aragorn, the Uniter</comments>
     <zone name="main">
@@ -7,7 +7,6 @@
         <card number="1" name="Brokers Charm"/>
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Growth Spiral"/>
-        <card number="1" name="Prince Imrahil the Fair"/>
         <card number="1" name="Kyler, Sigardian Emissary"/>
         <card number="1" name="Dovin's Veto"/>
         <card number="1" name="Cabaretti Charm"/>
@@ -21,14 +20,13 @@
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Chromatic Lantern"/>
         <card number="2" name="Forest"/>
-        <card number="7" name="Plains"/>
+        <card number="6" name="Plains"/>
         <card number="6" name="Mountain"/>
         <card number="2" name="Island"/>
         <card number="1" name="Lightning Helix"/>
         <card number="1" name="Shire Terrace"/>
         <card number="1" name="Kwain, Itinerant Meddler"/>
         <card number="1" name="Third Path Iconoclast"/>
-        <card number="1" name="Baral and Kari Zev"/>
         <card number="1" name="Radiant Scrollwielder"/>
         <card number="1" name="Fleetfoot Dancer"/>
         <card number="1" name="Quandrix Command"/>
@@ -58,7 +56,6 @@
         <card number="1" name="Teferi's Protection"/>
         <card number="1" name="Faramir, Prince of Ithilien"/>
         <card number="1" name="Brazen Upstart"/>
-        <card number="1" name="Esper Sentinel"/>
         <card number="1" name="Bloom Tender"/>
         <card number="1" name="Crystallization"/>
         <card number="1" name="Temur Charm"/>
@@ -89,5 +86,9 @@
         <card number="1" name="Ketria Triome"/>
         <card number="1" name="Commander's Sphere"/>
         <card number="1" name="Three Visits"/>
+        <card number="1" name="Tome of the Guildpact"/>
+        <card number="1" name="Relic of Legends"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Burnished Hart"/>
     </zone>
 </cockatrice_deck>
