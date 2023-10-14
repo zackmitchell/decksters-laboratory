@@ -1,0 +1,82 @@
+1 Elvish Mystic
+1 Gingerbrute
+1 Phoenix Chick
+1 Bloom Tender
+1 Charming Scoundrel
+1 Juri, Master of the Revue
+1 Kalain, Reclusive Painter
+1 Loyal Apprentice
+1 Ruby, Daring Tracker
+1 Academy Manufactor
+1 Captain Lannery Storm
+1 Ingenious Artillerist
+1 Lagomos, Hand of Hatred
+1 Mayhem Devil
+1 Nadier's Nightblade
+1 Professional Face-Breaker
+1 Samut, Vizier of Naktamun
+1 Xorn
+1 Decadent Dragon
+1 Mirkwood Bats
+1 Ognis, the Dragon's Lash
+1 Questing Beast
+1 Ziatora's Envoy
+1 Goldspan Dragon
+1 Ohran Frostfang
+1 Sek'Kuar, Deathkeeper
+1 The Balrog, Durin's Bane
+1 Guttural Response
+1 Assassin's Trophy
+1 Costly Plunder
+1 Deadly Dispute
+1 Reckoner's Bargain
+1 Obscuring Haze
+1 Putrefy
+1 Riveteers Charm
+1 Big Score
+1 Second Harvest
+1 Unexpected Windfall
+1 Song of Totentanz
+1 Hull Breach
+1 Jaya's Immolating Inferno
+1 Nature's Lore
+1 Kodama's Reach
+1 Read the Bones
+1 Skyshroud Claim
+1 Lich-Knights' Conquest
+1 Sol Ring
+1 Arcane Signet
+1 Fellwar Stone
+1 Idol of Oblivion
+1 Mind Stone
+1 Swiftfoot Boots
+1 Talisman of Resilience
+1 Thought Vessel
+1 Urabrask's Forge
+1 Sticky Fingers
+1 Sylvan Library
+1 Fable of the Mirror-Breaker
+1 Rhythm of the Wild
+1 Elemental Mastery
+1 Parallel Lives
+1 There and Back Again
+1 Blood Crypt
+1 Command Tower
+1 Exotic Orchard
+5 Forest
+1 Golgari Rot Farm
+1 Graven Cairns
+1 Gruul Turf
+1 Luxury Suite
+14 Mountain
+1 Myriad Landscape
+1 Necroblossom Snarl
+1 Overgrown Tomb
+1 Reflecting Pool
+1 Riveteers Overlook
+1 Spire Garden
+1 Stomping Ground
+2 Swamp
+1 Undergrowth Stadium
+1 Verdant Catacombs
+1 Woodland Cemetery
