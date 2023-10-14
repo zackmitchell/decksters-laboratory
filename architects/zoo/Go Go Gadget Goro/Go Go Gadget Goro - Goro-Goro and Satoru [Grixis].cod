@@ -1,0 +1,97 @@
+<cockatrice_deck version="1.0">
+    <deckname>Go Go Gadget Goro!</deckname>
+    <comments>Goro-Goro and Satoru</comments>
+    <zone name="main">
+        <card number="1" name="Goro-Goro and Satoru"/>
+        <card number="1" name="Changeling Outcast"/>
+        <card number="1" name="Mercurial Spelldancer"/>
+        <card number="1" name="Goblin War Drums"/>
+        <card number="1" name="Tetsuko Umezawa, Fugitive"/>
+        <card number="1" name="Mist-Cloaked Herald"/>
+        <card number="1" name="Ingenious Prodigy"/>
+        <card number="1" name="Storm Fleet Sprinter"/>
+        <card number="1" name="Subira, Tulzidi Caravanner"/>
+        <card number="1" name="Krydle of Baldur's Gate"/>
+        <card number="1" name="Aqueous Form"/>
+        <card number="1" name="Alora, Merry Thief"/>
+        <card number="1" name="Sonorous Howlbonder"/>
+        <card number="1" name="Security Bypass"/>
+        <card number="1" name="Wizards of Thay"/>
+        <card number="1" name="Phantom Ninja"/>
+        <card number="1" name="Vedalken Infiltrator"/>
+        <card number="1" name="Mayhem Patrol"/>
+        <card number="1" name="Ghor-Clan Wrecker"/>
+        <card number="1" name="Goro-Goro, Disciple of Ryusei"/>
+        <card number="1" name="Expressive Iteration"/>
+        <card number="1" name="Fling"/>
+        <card number="1" name="Dualcaster Mage"/>
+        <card number="1" name="Pongify"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Keep Safe"/>
+        <card number="1" name="Propaganda"/>
+        <card number="1" name="Greed"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Underground River"/>
+        <card number="1" name="Sulfurous Springs"/>
+        <card number="1" name="Song of Totentanz"/>
+        <card number="1" name="Loyal Apprentice"/>
+        <card number="1" name="Phoenix Chick"/>
+        <card number="1" name="Reconnaissance Mission"/>
+        <card number="1" name="Urabrask's Forge"/>
+        <card number="1" name="Gingerbrute"/>
+        <card number="1" name="Orthion, Hero of Lavabrink"/>
+        <card number="1" name="Reinforced Ronin"/>
+        <card number="1" name="Terror of the Peaks"/>
+        <card number="1" name="Infernal Grasp"/>
+        <card number="1" name="Feed the Swarm"/>
+        <card number="1" name="Crux of Fate"/>
+        <card number="1" name="Hazardous Blast"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Blade of Selves"/>
+        <card number="1" name="Cunning Evasion"/>
+        <card number="1" name="Kindred Discovery"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Otawara, Soaring City"/>
+        <card number="1" name="Access Tunnel"/>
+        <card number="4" name="Island"/>
+        <card number="6" name="Mountain"/>
+        <card number="2" name="Swamp"/>
+        <card number="1" name="Goldhound"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Sapphire Medallion"/>
+        <card number="1" name="Shivan Reef"/>
+        <card number="1" name="Opal Palace"/>
+        <card number="1" name="Crystal Grotto"/>
+        <card number="1" name="Reflecting Pool"/>
+        <card number="1" name="Izzet Boilerworks"/>
+        <card number="1" name="The Reality Chip"/>
+        <card number="1" name="Karlach, Fury of Avernus"/>
+        <card number="1" name="Ghostly Pilferer"/>
+        <card number="1" name="Painful Truths"/>
+        <card number="1" name="Read the Bones"/>
+        <card number="1" name="Damnable Pact"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Talisman of Dominance"/>
+        <card number="1" name="Luxury Suite"/>
+        <card number="1" name="Xander's Lounge"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Sunken Hollow"/>
+        <card number="1" name="Smoldering Marsh"/>
+        <card number="1" name="Morphic Pool"/>
+        <card number="1" name="Stormcarved Coast"/>
+        <card number="1" name="Shipwreck Marsh"/>
+        <card number="1" name="Haunted Ridge"/>
+        <card number="1" name="Drowned Catacomb"/>
+        <card number="1" name="Dragonskull Summit"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Rakdos Carnarium"/>
+        <card number="1" name="Dimir Aqueduct"/>
+        <card number="1" name="Talisman of Creativity"/>
+        <card number="1" name="Windfall"/>
+        <card number="1" name="Xantcha, Sleeper Agent"/>
+        <card number="1" name="Training Center"/>
+        <card number="1" name="Burnished Hart"/>
+    </zone>
+</cockatrice_deck>
