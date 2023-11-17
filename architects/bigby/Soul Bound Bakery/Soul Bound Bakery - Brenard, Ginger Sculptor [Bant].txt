@@ -1,0 +1,76 @@
+1 Ancient Stone Idol
+1 Anointed Procession
+1 Ashnod's Altar
+1 Birthing Pod
+1 Blade Splicer
+1 Blasting Station
+1 Bottle Golems
+1 Bountiful Promenade
+1 Breeding Pool
+1 Brenard, Ginger Sculptor
+1 Brightmare
+1 Bronze Guardian
+1 Campus Guide
+1 Command Tower
+1 Counterspell
+1 Cultivate
+1 Darksteel Splicer
+1 Dawnbringer Cleric
+1 Disruptor Wanderglyph
+1 Dune Mover
+1 Enlightened Tutor
+1 Evolving Wilds
+8 Forest
+1 Foundation Breaker
+1 Gavony Township
+1 Geode Golem
+1 Gingerbrute
+1 Hallowed Fountain
+1 High Market
+1 Hobbit's Sting
+1 Ich-Tekik, Salvage Splicer
+1 Illustrious Wanderglyph
+4 Island
+1 Kodama's Reach
+1 Lone Missionary
+1 Losheel, Clockwork Scholar
+1 Malcator, Purity Overseer
+1 March of Progress
+1 Master Splicer
+1 Master's Guide-Mural // Master's Manufactory
+1 Maul Splicer
+1 Mulldrifter
+1 Neoform
+1 Nesting Dovehawk
+1 Night of the Sweets' Revenge
+1 Ojer Taq, Deepest Foundation // Temple of Civilization
+1 Parallel Lives
+1 Path to Exile
+1 Peregrin Took
+15 Plains
+1 Rejuvenating Springs
+1 Roaming Throne
+1 Sakura-Tribe Elder
+1 Sea of Clouds
+1 Selfless Spirit
+1 Sensor Splicer
+1 Sol Ring
+1 Solemn Simulacrum
+1 Spider Food
+1 Sundering Growth
+1 Supreme Verdict
+1 Swiftfoot Boots
+1 Swords to Plowshares
+1 Syr Ginger, the Meal Ender
+1 Tempered Steel
+1 Temple Garden
+1 Tough Cookie
+1 Trail of Crumbs
+1 Tribute to the World Tree
+1 Triplicate Titan
+1 War Priest of Thune
+1 Watcher for Tomorrow
+1 Wing Splicer
+1 Witch's Oven
+1 Worldly Tutor
+1 Zoetic Glyph
