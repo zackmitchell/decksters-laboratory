@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>VENOMOUS ATROPHY v0.1</deckname>
+    <comments>[Hapatra, Vizier of Poisons][v0.1]</comments>
+    <zone name="main">
+        <card number="1" name="Ammit Eternal"/>
+        <card number="1" name="Bastion of Remembrance"/>
+        <card number="1" name="Black Sun's Zenith"/>
+        <card number="1" name="Blowfly Infestation"/>
+        <card number="1" name="Cankerbloom"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Contagion Clasp"/>
+        <card number="1" name="Contagion Engine"/>
+        <card number="1" name="Corrosive Mentor"/>
+        <card number="1" name="Corrupted Conviction"/>
+        <card number="1" name="Crumbling Ashes"/>
+        <card number="1" name="Damnation"/>
+        <card number="1" name="Deadly Rollick"/>
+        <card number="1" name="Deathcap Glade"/>
+        <card number="1" name="Deathreap Ritual"/>
+        <card number="1" name="Decimator Beetle"/>
+        <card number="1" name="Demonic Tutor"/>
+        <card number="1" name="Diabolic Intent"/>
+        <card number="1" name="Drown in Ichor"/>
+        <card number="1" name="Dusk Urchins"/>
+        <card number="1" name="Festering Mummy"/>
+        <card number="7" name="Forest"/>
+        <card number="1" name="Fume Spitter"/>
+        <card number="1" name="Golgari Charm"/>
+        <card number="1" name="Golgari Locket"/>
+        <card number="1" name="Grim Affliction"/>
+        <card number="1" name="Hapatra, Vizier of Poisons"/>
+        <card number="1" name="Hooded Blightfang"/>
+        <card number="1" name="Incremental Blight"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Krosan Grip"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Mirkwood Bats"/>
+        <card number="1" name="Necroskitter"/>
+        <card number="1" name="Nest of Scarabs"/>
+        <card number="1" name="Obelisk Spider"/>
+        <card number="1" name="Overgrown Tomb"/>
+        <card number="1" name="Persist"/>
+        <card number="1" name="Plaguemaw Beast"/>
+        <card number="1" name="Poison-Tip Archer"/>
+        <card number="1" name="Putrefy"/>
+        <card number="1" name="Quillspike"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Ruthless Sniper"/>
+        <card number="1" name="Sadistic Obsession"/>
+        <card number="1" name="Saryth, the Viper's Fang"/>
+        <card number="1" name="Scheming Aspirant"/>
+        <card number="1" name="Serrated Biskelion"/>
+        <card number="1" name="Skinrender"/>
+        <card number="1" name="Skirk Ridge Exhumer"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Soul Snuffers"/>
+        <card number="1" name="Soulstinger"/>
+        <card number="1" name="Spitting Dilophosaurus"/>
+        <card number="24" name="Swamp"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Sword of Truth and Justice"/>
+        <card number="1" name="The Ozolith"/>
+        <card number="1" name="Thirsting Roots"/>
+        <card number="1" name="Unnatural Restoration"/>
+        <card number="1" name="Village Rites"/>
+        <card number="1" name="Viper's Kiss"/>
+        <card number="1" name="Whisper of the Dross"/>
+        <card number="1" name="Whispersilk Cloak"/>
+        <card number="1" name="Wicker Warcrawler"/>
+        <card number="1" name="Wickerbough Elder"/>
+        <card number="1" name="Woodland Cemetery"/>
+        <card number="1" name="Worldly Tutor"/>
+        <card number="1" name="Yawgmoth, Thran Physician"/>
+        <card number="1" name="Zulaport Cutthroat"/>
+    </zone>
+</cockatrice_deck>
