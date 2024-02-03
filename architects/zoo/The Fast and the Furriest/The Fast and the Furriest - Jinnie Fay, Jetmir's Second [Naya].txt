@@ -4,6 +4,7 @@
 1 Gala Greeters
 1 Academy Manufactor
 1 Adeline, Resplendent Cathar
+1 Arwen, Weaver of Hope
 1 Cadira, Caller of the Small
 1 Jinnie Fay, Jetmir's Second
 1 Peregrin Took
@@ -42,31 +43,29 @@
 1 Shamanic Revelation
 1 Skullclamp
 1 Sol Ring
-1 Wayfarer's Bauble
 1 Arcane Signet
 1 Fellwar Stone
+1 Idol of Oblivion
 1 Mind Stone
-1 Staff of the Storyteller
 1 Swiftfoot Boots
 1 Ashnod's Altar
-1 Commander's Sphere
+1 Halo Fountain
 1 Flowering of the White Tree
 1 Impact Tremors
 1 Intangible Virtue
 1 Beastmaster Ascension
 1 Elemental Bond
 1 Fae Offering
+1 Promise of Bunrei
 1 Tribute to the World Tree
-1 Wedding Announcement
+1 Wedding Announcement // Wedding Festivity
 1 Felidar Retreat
 1 Cathars' Crusade
-1 There and Back Again
 1 Bountiful Promenade
 1 Brushland
 1 Cabaretti Courtyard
 1 Clifftop Retreat
 1 Command Tower
-1 Evolving Wilds
 1 Exotic Orchard
 10 Forest
 1 Furycalm Snarl
@@ -76,5 +75,6 @@
 1 Myriad Landscape
 1 Overgrown Farmland
 11 Plains
+1 Temple Garden
 1 Temple of Triumph
 1 The Shire

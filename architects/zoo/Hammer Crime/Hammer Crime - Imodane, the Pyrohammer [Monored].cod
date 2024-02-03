@@ -1,16 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <deckname>Gal Fieri</deckname>
-    <comments>Imodane, the Pyrohammer</comments>
+    <deckname>Hammer Crime</deckname>
     <zone name="main">
         <card number="1" name="Imodane, the Pyrohammer"/>
-        <card number="34" name="Mountain"/>
+        <card number="32" name="Mountain"/>
         <card number="1" name="Flame Slash"/>
         <card number="1" name="Electrodominance"/>
         <card number="1" name="Lightning Bolt"/>
-        <card number="1" name="Lightning Strike"/>
-        <card number="1" name="Fiery Emancipation"/>
-        <card number="1" name="Fire Prophecy"/>
         <card number="1" name="Storm-Kiln Artist"/>
         <card number="1" name="Abrade"/>
         <card number="1" name="Solphim, Mayhem Dominus"/>
@@ -19,6 +14,8 @@
         <card number="1" name="Ruby Medallion"/>
         <card number="1" name="Cathartic Pyre"/>
         <card number="1" name="Young Pyromancer"/>
+        <card number="1" name="Urabrask // The Great Work"/>
+        <card number="1" name="Birgi, God of Storytelling // Harnfel, Horn of Bounty"/>
         <card number="1" name="Erebor Flamesmith"/>
         <card number="1" name="Electrostatic Field"/>
         <card number="1" name="Dualcaster Mage"/>
@@ -27,24 +24,19 @@
         <card number="1" name="Thrill of Possibility"/>
         <card number="1" name="Volcanic Spite"/>
         <card number="1" name="Unexpected Windfall"/>
-        <card number="1" name="Unholy Heat"/>
         <card number="1" name="Witchstalker Frenzy"/>
         <card number="1" name="Mine Collapse"/>
         <card number="1" name="Bolt Bend"/>
         <card number="1" name="Smite the Deathless"/>
         <card number="1" name="Blitz of the Thunder-Raptor"/>
-        <card number="1" name="Demon Bolt"/>
         <card number="1" name="Increasing Vengeance"/>
-        <card number="1" name="Banefire"/>
         <card number="1" name="Mizzium Mortars"/>
         <card number="1" name="Strangle"/>
         <card number="1" name="Lava Coil"/>
         <card number="1" name="Wrenn's Resolve"/>
-        <card number="1" name="Reckless Impulse"/>
         <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Primal Amulet // Primal Wellspring"/>
         <card number="1" name="Mithril Coat"/>
-        <card number="1" name="Horizon Stone"/>
-        <card number="1" name="Fiery Inscription"/>
         <card number="1" name="Repercussion"/>
         <card number="1" name="War Room"/>
         <card number="1" name="Sol Ring"/>
@@ -52,23 +44,32 @@
         <card number="1" name="Mind Stone"/>
         <card number="1" name="Glittering Stockpile"/>
         <card number="1" name="Flame Discharge"/>
-        <card number="1" name="Rift Bolt"/>
-        <card number="1" name="Jaya Ballard"/>
         <card number="1" name="Magus of the Wheel"/>
-        <card number="1" name="Jaya's Greeting"/>
         <card number="1" name="Spitting Earth"/>
         <card number="1" name="Seismic Strike"/>
-        <card number="1" name="Pyromancer's Goggles"/>
-        <card number="1" name="Monastery Swiftspear"/>
         <card number="1" name="Fry"/>
-        <card number="1" name="Release the Gremlins"/>
         <card number="1" name="Howling Mine"/>
         <card number="1" name="Reckoner Bankbuster"/>
         <card number="1" name="Ragavan, Nimble Pilferer"/>
         <card number="1" name="Myriad Landscape"/>
-        <card number="1" name="Command Tower"/>
-        <card number="1" name="Birgi, God of Storytelling"/>
-        <card number="1" name="Primal Amulet"/>
-        <card number="1" name="Urabrask"/>
+        <card number="1" name="Sokenzan, Crucible of Defiance"/>
+        <card number="1" name="Wasteland"/>
+        <card number="1" name="The Biblioplex"/>
+        <card number="1" name="Disrupt Decorum"/>
+        <card number="1" name="Treasure Nabber"/>
+        <card number="1" name="Shivan Meteor"/>
+        <card number="1" name="Throne of Eldraine"/>
+        <card number="1" name="Shatterskull Smashing // Shatterskull, the Hammer Pass"/>
+        <card number="1" name="The Sound of Drums"/>
+        <card number="1" name="Rumbling Rockslide"/>
+        <card number="1" name="Rending Flame"/>
+        <card number="1" name="Skewer the Critics"/>
+        <card number="1" name="Mizzix's Mastery"/>
+        <card number="1" name="Ore-Rich Stalactite // Cosmium Catalyst"/>
+        <card number="1" name="Seize the Spotlight"/>
+        <card number="1" name="Neheb, the Eternal"/>
+        <card number="1" name="Ravaging Blaze"/>
+        <card number="1" name="Purphoros's Intervention"/>
     </zone>
+    <zone name="side"/>
 </cockatrice_deck>

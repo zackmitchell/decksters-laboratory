@@ -8,7 +8,7 @@ Color Identity: Esper (BUW)
 ```
 
 ### Guide
-Draw some fucking cards, let's go bud?
+Draw a ton of cards, and life-drain a targeted opponent every time you do.
 
 ### Changelog
 v1.2

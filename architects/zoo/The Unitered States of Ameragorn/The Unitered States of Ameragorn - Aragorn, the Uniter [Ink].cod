@@ -1,6 +1,5 @@
-<cockatrice_deck version="1.3">
+<cockatrice_deck version="1">
     <deckname>The Unitered States of Ameragorn</deckname>
-    <comments>Aragorn, the Uniter</comments>
     <zone name="main">
         <card number="1" name="Aragorn, the Uniter"/>
         <card number="1" name="General Ferrous Rokiric"/>
@@ -19,10 +18,10 @@
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Chromatic Lantern"/>
-        <card number="2" name="Forest"/>
-        <card number="6" name="Plains"/>
+        <card number="3" name="Forest"/>
+        <card number="7" name="Plains"/>
         <card number="6" name="Mountain"/>
-        <card number="2" name="Island"/>
+        <card number="3" name="Island"/>
         <card number="1" name="Lightning Helix"/>
         <card number="1" name="Shire Terrace"/>
         <card number="1" name="Kwain, Itinerant Meddler"/>
@@ -38,11 +37,9 @@
         <card number="1" name="Jetmir's Garden"/>
         <card number="1" name="Bountiful Promenade"/>
         <card number="1" name="Sea of Clouds"/>
-        <card number="1" name="Rejuvenating Springs"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Misty Rainforest"/>
         <card number="1" name="Clifftop Retreat"/>
-        <card number="1" name="Hinterland Harbor"/>
         <card number="1" name="Dreamroot Cascade"/>
         <card number="1" name="Overgrown Farmland"/>
         <card number="1" name="Seachrome Coast"/>
@@ -83,12 +80,12 @@
         <card number="1" name="Fellwar Stone"/>
         <card number="1" name="Gloryscale Viashino"/>
         <card number="1" name="Kodama's Reach"/>
-        <card number="1" name="Ketria Triome"/>
         <card number="1" name="Commander's Sphere"/>
-        <card number="1" name="Three Visits"/>
         <card number="1" name="Tome of the Guildpact"/>
         <card number="1" name="Relic of Legends"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Burnished Hart"/>
+        <card number="1" name="Intangible Virtue"/>
     </zone>
+    <zone name="side"/>
 </cockatrice_deck>

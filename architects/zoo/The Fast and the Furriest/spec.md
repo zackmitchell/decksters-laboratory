@@ -8,6 +8,7 @@ Color Identity: Naya (GRW)
 ```
 
 ### Guide
+Make a metric fuck-ton of cat and/or dog tokens, then overrun the board with the whole furry brood.
 
 ### Changelog
 v1.5

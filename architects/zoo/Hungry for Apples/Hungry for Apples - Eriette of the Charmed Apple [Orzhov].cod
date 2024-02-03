@@ -1,6 +1,5 @@
-<cockatrice_deck version="1.0">
+<cockatrice_deck version="1">
     <deckname>Hungry For Apples?</deckname>
-    <comments>Eriette of the Charmed Apple</comments>
     <zone name="main">
         <card number="1" name="Eriette of the Charmed Apple"/>
         <card number="12" name="Swamp"/>
@@ -23,8 +22,6 @@
         <card number="1" name="Kor Spiritdancer"/>
         <card number="1" name="Killian, Ink Duelist"/>
         <card number="1" name="Hateful Eidolon"/>
-        <card number="1" name="Starfield Mystic"/>
-        <card number="1" name="Transcendent Envoy"/>
         <card number="1" name="Light-Paws, Emperor's Voice"/>
         <card number="1" name="Neva, Stalked by Nightmares"/>
         <card number="1" name="Starnheim Courser"/>
@@ -40,7 +37,6 @@
         <card number="1" name="Not Dead After All"/>
         <card number="1" name="Stroke of Midnight"/>
         <card number="1" name="Enlightened Tutor"/>
-        <card number="1" name="Rebuff the Wicked"/>
         <card number="1" name="Teferi's Protection"/>
         <card number="1" name="Reprieve"/>
         <card number="1" name="Dark Ritual"/>
@@ -66,7 +62,6 @@
         <card number="1" name="Spirit Link"/>
         <card number="1" name="Skyblade's Boon"/>
         <card number="1" name="Sigil of the Empty Throne"/>
-        <card number="1" name="Sanguine Bond"/>
         <card number="1" name="Reprobation"/>
         <card number="1" name="Kaya's Ghostform"/>
         <card number="1" name="Hyena Umbra"/>
@@ -74,6 +69,11 @@
         <card number="1" name="Spellbook Vendor"/>
         <card number="1" name="Lord Skitter's Blessing"/>
         <card number="1" name="Isolated Chapel"/>
-        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Dawn of Hope"/>
+        <card number="1" name="Esper Sentinel"/>
+        <card number="1" name="Feebleness"/>
+        <card number="1" name="One Thousand Lashes"/>
+        <card number="1" name="Transcendent Envoy"/>
     </zone>
+    <zone name="side"/>
 </cockatrice_deck>

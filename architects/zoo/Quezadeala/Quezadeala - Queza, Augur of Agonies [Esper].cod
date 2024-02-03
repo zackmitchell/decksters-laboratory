@@ -1,6 +1,5 @@
-<cockatrice_deck version="1.2">
+<cockatrice_deck version="1">
     <deckname>Quezadeala</deckname>
-    <comments>Queza, Augur of Agonies</comments>
     <zone name="main">
         <card number="1" name="Queza, Augur of Agonies"/>
         <card number="7" name="Swamp"/>
@@ -22,9 +21,7 @@
         <card number="1" name="Gixian Puppeteer"/>
         <card number="1" name="The Council of Four"/>
         <card number="1" name="Prince Imrahil the Fair"/>
-        <card number="1" name="Archmage Emeritus"/>
         <card number="1" name="Lotho, Corrupt Shirriff"/>
-        <card number="1" name="Phyrexian Arena"/>
         <card number="1" name="Dovin's Veto"/>
         <card number="1" name="Despark"/>
         <card number="1" name="Fracture"/>
@@ -34,16 +31,14 @@
         <card number="1" name="Preordain"/>
         <card number="1" name="Sign in Blood"/>
         <card number="1" name="Read the Bones"/>
-        <card number="1" name="Sea Gate Restoration"/>
+        <card number="1" name="Sea Gate Restoration // Sea Gate, Reborn"/>
         <card number="1" name="Cut of the Profits"/>
         <card number="1" name="Cut a Deal"/>
         <card number="1" name="Compulsive Research"/>
-        <card number="1" name="The One Ring"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Howling Mine"/>
         <card number="1" name="Wayfarer's Bauble"/>
         <card number="1" name="Ominous Seas"/>
-        <card number="1" name="The Bath Song"/>
         <card number="1" name="Cleric Class"/>
         <card number="1" name="Reliquary Tower"/>
         <card number="1" name="Sol Ring"/>
@@ -54,8 +49,6 @@
         <card number="1" name="Arcane Sanctum"/>
         <card number="1" name="Obscura Storefront"/>
         <card number="1" name="Sapphire Medallion"/>
-        <card number="1" name="Grand Arbiter Augustin IV"/>
-        <card number="1" name="Collective Restraint"/>
         <card number="1" name="Murmuring Mystic"/>
         <card number="1" name="Choked Estuary"/>
         <card number="1" name="Sunken Hollow"/>
@@ -81,5 +74,12 @@
         <card number="1" name="Solemn Simulacrum"/>
         <card number="1" name="Talisman of Hierarchy"/>
         <card number="1" name="Talrand, Sky Summoner"/>
+        <card number="1" name="Loyal Drake"/>
+        <card number="1" name="Emergency Powers"/>
+        <card number="1" name="Painful Truths"/>
+        <card number="1" name="The One Ring"/>
+        <card number="1" name="Frantic Search"/>
+        <card number="1" name="Norn's Annex"/>
     </zone>
+    <zone name="side"/>
 </cockatrice_deck>

@@ -1,3 +1,4 @@
+1 Esper Sentinel
 1 Hateful Eidolon
 1 Slumbering Keepguard
 1 Killian, Ink Duelist
@@ -7,11 +8,10 @@
 1 Lotho, Corrupt Shirriff
 1 Spellbook Vendor
 1 Sram, Senior Edificer
-1 Starfield Mystic
 1 Transcendent Envoy
 1 Auramancer
 1 Eriette of the Charmed Apple
-1 Katilda, Dawnhart Martyr
+1 Katilda, Dawnhart Martyr // Katilda's Rising Dawn
 1 Knight of Doves
 1 Mesa Enchantress
 1 Starnheim Courser
@@ -25,7 +25,6 @@
 1 Enlightened Tutor
 1 Not Dead After All
 1 Path to Exile
-1 Rebuff the Wicked
 1 Despark
 1 Reprieve
 1 Stroke of Midnight
@@ -49,6 +48,8 @@
 1 All That Glitters
 1 Angelic Gift
 1 Darksteel Mutation
+1 Dawn of Hope
+1 Feebleness
 1 Greater Auramancy
 1 Lord Skitter's Blessing
 1 Reprobation
@@ -56,10 +57,9 @@
 1 Minion's Return
 1 Parasitic Impetus
 1 Pariah
-1 Phyrexian Arena
 1 Stab Wound
 1 Unholy Indenture
-1 Sanguine Bond
+1 One Thousand Lashes
 1 Sigil of the Empty Throne
 1 Command Tower
 1 Evolving Wilds

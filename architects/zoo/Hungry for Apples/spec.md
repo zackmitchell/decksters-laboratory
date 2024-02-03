@@ -8,7 +8,7 @@ Color Identity: Orzhov (BW)
 ```
 
 ### Guide
-Semi-charmed kinda life, baby.
+Cast Auras on opposing creatures to prevent them from swings at you, then life-drain everybody each turn.
 
 ### Changelog
 v1.0

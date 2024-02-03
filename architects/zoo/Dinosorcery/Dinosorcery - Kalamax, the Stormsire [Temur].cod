@@ -1,0 +1,85 @@
+<cockatrice_deck version="1">
+    <deckname>Dinosorcery</deckname>
+    <zone name="main">
+        <card number="1" name="Kalamax, the Stormsire"/>
+        <card number="1" name="Wilderness Reclamation"/>
+        <card number="1" name="Archmage Emeritus"/>
+        <card number="1" name="Frantic Search"/>
+        <card number="1" name="Crop Rotation"/>
+        <card number="1" name="Storm-Kiln Artist"/>
+        <card number="1" name="Thrill of Possibility"/>
+        <card number="1" name="Growth Spiral"/>
+        <card number="1" name="Entish Restoration"/>
+        <card number="1" name="Springleaf Drum"/>
+        <card number="1" name="Relic of Legends"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Big Score"/>
+        <card number="1" name="Unexpected Windfall"/>
+        <card number="1" name="Goblin Electromancer"/>
+        <card number="1" name="Talrand, Sky Summoner"/>
+        <card number="1" name="Guttersnipe"/>
+        <card number="1" name="Third Path Iconoclast"/>
+        <card number="1" name="Murmuring Mystic"/>
+        <card number="1" name="Jin-Gitaxias, Progress Tyrant"/>
+        <card number="1" name="Mocking Sprite"/>
+        <card number="1" name="Bloom Tender"/>
+        <card number="1" name="Quandrix Apprentice"/>
+        <card number="1" name="Opt"/>
+        <card number="1" name="Expansion // Explosion"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Increasing Vengeance"/>
+        <card number="1" name="Manamorphose"/>
+        <card number="1" name="Joint Exploration"/>
+        <card number="1" name="Snap"/>
+        <card number="1" name="Cyclonic Rift"/>
+        <card number="1" name="Soul's Fire"/>
+        <card number="1" name="Pongify"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Leyline Immersion"/>
+        <card number="1" name="Honor-Worn Shaku"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Ketria Triome"/>
+        <card number="1" name="Yavimaya Coast"/>
+        <card number="1" name="Survivors' Encampment"/>
+        <card number="1" name="Holdout Settlement"/>
+        <card number="1" name="Steam Vents"/>
+        <card number="1" name="Stomping Ground"/>
+        <card number="1" name="Training Center"/>
+        <card number="1" name="Shivan Reef"/>
+        <card number="1" name="Rejuvenating Springs"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Spire Garden"/>
+        <card number="12" name="Island"/>
+        <card number="5" name="Forest"/>
+        <card number="7" name="Mountain"/>
+        <card number="1" name="Johann, Apprentice Sorcerer"/>
+        <card number="1" name="Electrostatic Field"/>
+        <card number="1" name="Slip Out the Back"/>
+        <card number="1" name="Security Bypass"/>
+        <card number="1" name="Tamiyo's Safekeeping"/>
+        <card number="1" name="Crackle with Power"/>
+        <card number="1" name="Talisman of Curiosity"/>
+        <card number="1" name="Erebor Flamesmith"/>
+        <card number="1" name="Arachnogenesis"/>
+        <card number="1" name="Ornithopter of Paradise"/>
+        <card number="1" name="Thermo-Alchemist"/>
+        <card number="1" name="Wavebreak Hippocamp"/>
+        <card number="1" name="Mercurial Spelldancer"/>
+        <card number="1" name="Veyran, Voice of Duality"/>
+        <card number="1" name="Rashmi, Eternities Crafter"/>
+        <card number="1" name="Goblin Anarchomancer"/>
+        <card number="1" name="Traitorous Greed"/>
+        <card number="1" name="Tolarian Terror"/>
+        <card number="1" name="Aqueous Form"/>
+        <card number="1" name="Glademuse"/>
+        <card number="1" name="Naiad of Hidden Coves"/>
+        <card number="1" name="Sapphire Charm"/>
+    </zone>
+    <zone name="side"/>
+</cockatrice_deck>

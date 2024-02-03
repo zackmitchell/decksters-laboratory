@@ -1,0 +1,79 @@
+1 Bloom Tender
+1 Electrostatic Field
+1 Erebor Flamesmith
+1 Goblin Anarchomancer
+1 Goblin Electromancer
+1 Mercurial Spelldancer
+1 Ornithopter of Paradise
+1 Quandrix Apprentice
+1 Thermo-Alchemist
+1 Third Path Iconoclast
+1 Glademuse
+1 Guttersnipe
+1 Mocking Sprite
+1 Naiad of Hidden Coves
+1 Veyran, Voice of Duality
+1 Wavebreak Hippocamp
+1 Archmage Emeritus
+1 Johann, Apprentice Sorcerer
+1 Kalamax, the Stormsire
+1 Murmuring Mystic
+1 Rashmi, Eternities Crafter
+1 Storm-Kiln Artist
+1 Talrand, Sky Summoner
+1 Jin-Gitaxias, Progress Tyrant
+1 Tolarian Terror
+1 Crop Rotation
+1 Opt
+1 Pongify
+1 Sapphire Charm
+1 Slip Out the Back
+1 Tamiyo's Safekeeping
+1 Counterspell
+1 Cyclonic Rift
+1 Growth Spiral
+1 Increasing Vengeance
+1 Joint Exploration
+1 Manamorphose
+1 Snap
+1 Thrill of Possibility
+1 Arachnogenesis
+1 Beast Within
+1 Entish Restoration
+1 Frantic Search
+1 Soul's Fire
+1 Big Score
+1 Unexpected Windfall
+1 Expansion // Explosion
+1 Crackle with Power
+1 Nature's Lore
+1 Cultivate
+1 Traitorous Greed
+1 Sol Ring
+1 Springleaf Drum
+1 Arcane Signet
+1 Fellwar Stone
+1 Swiftfoot Boots
+1 Talisman of Curiosity
+1 Honor-Worn Shaku
+1 Relic of Legends
+1 Aqueous Form
+1 Security Bypass
+1 Leyline Immersion
+1 Wilderness Reclamation
+1 Command Tower
+1 Exotic Orchard
+5 Forest
+1 Holdout Settlement
+12 Island
+1 Ketria Triome
+7 Mountain
+1 Myriad Landscape
+1 Rejuvenating Springs
+1 Shivan Reef
+1 Spire Garden
+1 Steam Vents
+1 Stomping Ground
+1 Survivors' Encampment
+1 Training Center
+1 Yavimaya Coast

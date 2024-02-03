@@ -1,0 +1,79 @@
+<cockatrice_deck version="1">
+    <deckname>Twin Scion Engine</deckname>
+    <zone name="main">
+        <card number="1" name="Rowan, Scion of War"/>
+        <card number="11" name="Mountain"/>
+        <card number="18" name="Swamp"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Luxury Suite"/>
+        <card number="1" name="Sign in Blood"/>
+        <card number="1" name="Damnable Pact"/>
+        <card number="1" name="Night's Whisper"/>
+        <card number="1" name="Exsanguinate"/>
+        <card number="1" name="Blood Celebrant"/>
+        <card number="1" name="Feed the Swarm"/>
+        <card number="1" name="Bolas's Citadel"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Gray Merchant of Asphodel"/>
+        <card number="1" name="Storm-Kiln Artist"/>
+        <card number="1" name="Defiler of Flesh"/>
+        <card number="1" name="Defiler of Instinct"/>
+        <card number="1" name="Imodane, the Pyrohammer"/>
+        <card number="1" name="Tavern Swindler"/>
+        <card number="1" name="Priest of Gix"/>
+        <card number="1" name="Exquisite Blood"/>
+        <card number="1" name="Solphim, Mayhem Dominus"/>
+        <card number="1" name="Heartless Hidetsugu"/>
+        <card number="1" name="Dismember"/>
+        <card number="1" name="Deflecting Swat"/>
+        <card number="1" name="Snuff Out"/>
+        <card number="1" name="Erebos's Intervention"/>
+        <card number="1" name="Pyroblast"/>
+        <card number="1" name="March of Wretched Sorrow"/>
+        <card number="1" name="Storm King's Thunder"/>
+        <card number="1" name="Blood Pact"/>
+        <card number="1" name="Jaya's Immolating Inferno"/>
+        <card number="1" name="Reanimate"/>
+        <card number="1" name="Read the Bones"/>
+        <card number="1" name="Cut // Ribbons"/>
+        <card number="1" name="Banefire"/>
+        <card number="1" name="Mizzix's Mastery"/>
+        <card number="1" name="Tendrils of Agony"/>
+        <card number="1" name="In Garruk's Wake"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Aetherflux Reservoir"/>
+        <card number="1" name="Virtue of Persistence // Locthwain Scorn"/>
+        <card number="1" name="Bitterblossom"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Talisman of Indulgence"/>
+        <card number="1" name="Sulfurous Springs"/>
+        <card number="1" name="Mount Doom"/>
+        <card number="1" name="Dragonskull Summit"/>
+        <card number="1" name="Magus of the Wheel"/>
+        <card number="1" name="Haunted Ridge"/>
+        <card number="1" name="Crystal Grotto"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Radiant Fountain"/>
+        <card number="1" name="Jet Medallion"/>
+        <card number="1" name="Release the Gremlins"/>
+        <card number="1" name="Breach the Multiverse"/>
+        <card number="1" name="Shadow of Mortality"/>
+        <card number="1" name="Greed"/>
+        <card number="1" name="Polluted Bonds"/>
+        <card number="1" name="Electrodominance"/>
+        <card number="1" name="Comet Storm"/>
+        <card number="1" name="Dualcaster Mage"/>
+        <card number="1" name="Reiterate"/>
+        <card number="1" name="K'rrik, Son of Yawgmoth"/>
+        <card number="1" name="Treasonous Ogre"/>
+        <card number="1" name="Entomb"/>
+        <card number="1" name="Mithril Coat"/>
+        <card number="1" name="Imp's Mischief"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Malakir Rebirth // Malakir Mire"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Keen Duelist"/>
+        <card number="1" name="Torment of Hailfire"/>
+    </zone>
+    <zone name="side"/>
+</cockatrice_deck>

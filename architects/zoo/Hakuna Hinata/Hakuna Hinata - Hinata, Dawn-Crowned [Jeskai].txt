@@ -1,45 +1,44 @@
-1 Hinata, Dawn-Crowned
-1 Baral, Chief of Compliance
 1 Electrostatic Field
-1 Electrostatic Infantry
+1 Erebor Flamesmith
 1 Flumph
 1 Goblin Electromancer
+1 Heartflame Duelist // Heartflame Slash
 1 Kessig Flamebreather
 1 Mercurial Spelldancer
-1 Mischievous Chimera
-1 Soulfire Grand Master
 1 Thermo-Alchemist
 1 Third Path Iconoclast
+1 Unsettled Mariner
 1 Young Pyromancer
+1 Burnished Hart
 1 Chrome Host Seedshark
-1 Whirlwind of Thought
 1 Guttersnipe
 1 Haughty Djinn
 1 Jori En, Ruin Diver
-1 Land Tax
+1 Loyal Drake
+1 Treasure Nabber
 1 Archmage Emeritus
+1 Cutthroat Negotiator
+1 Exalted Flamer of Tzeentch
+1 Hinata, Dawn-Crowned
 1 Kykar, Wind's Fury
 1 Selfless Squire
 1 Storm-Kiln Artist
 1 Talrand, Sky Summoner
 1 Zaffai, Thunder Conductor
+1 Willbreaker
+1 Niv-Mizzet, Parun
 1 Icy Blast
 1 March of Swirling Mist
-1 Generous Gift
 1 Aurelia's Fury
-1 Change of Plans
 1 Comet Storm
-1 Galvanic Iteration
-1 Increasing Vengeance
-1 Mana Drain
 1 Reality Spasm
 1 Deflecting Swat
-1 Disallow
+1 Teferi's Protection
 1 Aetherize
-1 Return to Dust
-1 See Double
+1 Mystic Confluence
 1 Elminster's Simulacrum
-1 Fireball
+1 Sublime Epiphany
+1 Magma Opus
 1 Smoke Spirits' Aid
 1 Crackle with Power
 1 Open into Wonder
@@ -48,34 +47,37 @@
 1 Jeska's Will
 1 Deep Analysis
 1 Disrupt Decorum
-1 Wrath of God
+1 Aether Gale
 1 Baral's Expertise
-1 Captivating Gyre
 1 Sol Ring
-1 Wayfarer's Bauble
 1 Arcane Signet
 1 Lightning Greaves
-1 Commander's Sphere
-1 Glittering Stockpile
-1 Wizard Class
+1 Mind Stone
+1 Talisman of Conviction
+1 Talisman of Creativity
+1 Thought Vessel
+1 Land Tax
+1 Darksteel Mutation
 1 Monologue Tax
-1 Propaganda
 1 Quicksilver Dagger
+1 Collective Restraint
 1 Bonders' Enclave
-1 Clifftop Retreat
 1 Command Tower
-1 Evolving Wilds
+1 Deserted Beach
+1 Exotic Orchard
 1 Fabled Passage
-1 Furycalm Snarl
-12 Island
+1 Glacial Fortress
+1 Hallowed Fountain
+9 Island
 6 Mountain
 1 Myriad Landscape
-4 Plains
+5 Plains
+1 Sacred Foundry
 1 Sea of Clouds
+1 Shivan Reef
+1 Spectator Seating
+1 Steam Vents
+1 Stormcarved Coast
 1 Sulfur Falls
 1 Sundown Pass
-1 Swiftwater Cliffs
-1 Temple of Enlightenment
-1 Temple of Triumph
 1 Training Center
-1 Tranquil Cove

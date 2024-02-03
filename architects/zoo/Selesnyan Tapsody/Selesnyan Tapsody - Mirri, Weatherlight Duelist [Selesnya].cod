@@ -1,6 +1,5 @@
-<cockatrice_deck version="1.1">
+<cockatrice_deck version="1">
     <deckname>Selesnyan Tapsody</deckname>
-    <comments>Mirri, Weatherlight Duelist</comments>
     <zone name="main">
         <card number="1" name="Akroma's Will"/>
         <card number="16" name="Forest"/>
@@ -26,7 +25,6 @@
         <card number="1" name="Prosperous Innkeeper"/>
         <card number="1" name="Dragonsguard Elite"/>
         <card number="1" name="Quirion Beastcaller"/>
-        <card number="1" name="Forgotten Ancient"/>
         <card number="1" name="Kodama of the West Tree"/>
         <card number="1" name="Lathiel, the Bounteous Dawn"/>
         <card number="1" name="Evolving Wilds"/>
@@ -38,22 +36,18 @@
         <card number="1" name="Good-Fortune Unicorn"/>
         <card number="1" name="Ozolith, the Shattered Spire"/>
         <card number="1" name="Nature's Chant"/>
-        <card number="1" name="Kodama's Reach"/>
         <card number="1" name="Basri's Solidarity"/>
         <card number="1" name="Invigorating Surge"/>
         <card number="1" name="Brought Back"/>
         <card number="1" name="Keleth, Sunmane Familiar"/>
         <card number="1" name="Kami of Whispered Hopes"/>
         <card number="1" name="Siege Veteran"/>
-        <card number="1" name="Flawless Maneuver"/>
-        <card number="1" name="Evolution Sage"/>
         <card number="1" name="Pledge of Unity"/>
         <card number="1" name="Grand Abolisher"/>
         <card number="1" name="Firemane Commando"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Wilt-Leaf Liege"/>
         <card number="1" name="Maze of Ith"/>
-        <card number="1" name="Luxior, Giada's Gift"/>
         <card number="1" name="Armorcraft Judge"/>
         <card number="1" name="Filigree Vector"/>
         <card number="1" name="Silkguard"/>
@@ -64,16 +58,22 @@
         <card number="1" name="Scavenging Ooze"/>
         <card number="1" name="Kodama of the East Tree"/>
         <card number="1" name="The Shire"/>
-        <card number="1" name="Beastmaster Ascension"/>
         <card number="1" name="Pathbreaker Ibex"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Elvish Mystic"/>
-        <card number="1" name="Lifecrafter's Bestiary"/>
-        <card number="1" name="Elven Chorus"/>
         <card number="1" name="Shield of the Oversoul"/>
         <card number="1" name="Dromoka's Command"/>
         <card number="1" name="Avacyn's Pilgrim"/>
         <card number="1" name="Cosmic Rebirth"/>
         <card number="1" name="Safewright Quest"/>
+        <card number="1" name="Flawless Maneuver"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Mirari's Wake"/>
+        <card number="1" name="Torens, Fist of the Angels"/>
+        <card number="1" name="Selesnya Charm"/>
+        <card number="1" name="Rite of Harmony"/>
+        <card number="1" name="Vexilus Praetor"/>
+        <card number="1" name="Archaeomancer's Map"/>
     </zone>
+    <zone name="side"/>
 </cockatrice_deck>

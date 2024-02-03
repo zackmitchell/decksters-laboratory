@@ -8,7 +8,7 @@ Color Identity: Jund (BGR)
 ```
 
 ### Guide
-Make treasure, cast forever?
+Play a lot of creatures with haste, and make a Treasure every time one of them attacks.
 
 ### Changelog
 v1.0

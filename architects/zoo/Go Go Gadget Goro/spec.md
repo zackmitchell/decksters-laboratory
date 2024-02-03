@@ -1,4 +1,4 @@
-# Go Go Gadget Goro
+# Go Go Gadget Goro!
 ## Overview
 ### Details
 ```
@@ -8,7 +8,7 @@ Color Identity: Grixis (BUR)
 ```
 
 ### Guide
-Keep taggin', make dragon?
+Dealing damage to players with creatures that were played that turn makes big Dragon Spirit tokens.
 
 ### Changelog
 v1.0

@@ -8,6 +8,8 @@ Color Identity: Orzhov (BW)
 ```
 
 ### Guide
+Play politically, encouraging opponents to swing at each other for card draw while Breena gets stronk.
+
 Breena is all about board politics - your goal is to entice your opponents to attack each other for card draw while you reap the benefit of the counters. Her ability is worded in a complicated way, but basically boils down to the following (which can also proc by YOU attacking, if the other conditions are met):
 - Whenever one of your opponents is attacked...
 - If the target of the attack does NOT have the lowest life of all your opponents...

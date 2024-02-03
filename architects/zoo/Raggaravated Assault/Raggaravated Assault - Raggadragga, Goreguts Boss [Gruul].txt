@@ -8,20 +8,19 @@
 1 Armored Scrapgorger
 1 Biophagus
 1 Gala Greeters
-1 Goblin Anarchomancer
-1 Humble Naturalist
 1 Ilysian Caryatid
 1 Leaf-Crowned Visionary
 1 Leafkin Druid
-1 Paradise Druid
+1 Priest of Titania
 1 Prosperous Innkeeper
-1 Selvala, Heart of the Wilds
 1 Ruby, Daring Tracker
+1 Werebear
 1 Zhur-Taa Druid
 1 Circle of Dreams Druid
 1 Gwenna, Eyes of Gaea
 1 Heronblade Elite
 1 Marwyn, the Nurturer
+1 Selvala, Heart of the Wilds
 1 Tuktuk Rubblefort
 1 Viridian Joiner
 1 Beast Whisperer
@@ -31,44 +30,48 @@
 1 Ashaya, Soul of the Wild
 1 Cultivator Colossus
 1 Old Gnawbone
+1 Protean Hulk
 1 Titan of Industry
 1 Zopandrel, Hunger Dominus
 1 Craterhoof Behemoth
 1 Infuriate
 1 Lunar Frenzy
 1 Luxurious Libation
-1 Outmaneuver
 1 Electrodominance
 1 Wrap in Vigor
 1 Hunter's Insight
 1 Obscuring Haze
+1 Momentous Fall
+1 Banefire
+1 Fireball
 1 Green Sun's Zenith
 1 Awaken the Woods
 1 Crackle with Power
 1 Hull Breach
 1 Jaya's Immolating Inferno
-1 Nature's Lore
-1 Red Sun's Twilight
 1 Three Visits
+1 Harvest Season
 1 Natural Order
 1 Sol Ring
 1 Swiftfoot Boots
 1 Lifecrafter's Bestiary
-1 Doors of Durin
+1 The Skullspore Nexus
 1 Concordant Crossroads
 1 Exploration
 1 Sylvan Anthem
 1 Elemental Bond
 1 Rhythm of the Wild
-1 Elven Chorus
 1 Guardian Project
 1 Glorious Sunrise
-1 Unnatural Growth
-1 Cinder Glade
 1 Command Tower
-19 Forest
+16 Forest
+1 Game Trail
+1 Karplusan Forest
 9 Mountain
+1 Myriad Landscape
 1 Rockfall Vale
 1 Rogue's Passage
-1 Rugged Highlands
+1 Rootbound Crag
 1 Spire Garden
+1 Stomping Ground
+1 Wooded Foothills

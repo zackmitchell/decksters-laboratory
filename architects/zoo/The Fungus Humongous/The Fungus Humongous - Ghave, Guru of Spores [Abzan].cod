@@ -1,0 +1,84 @@
+<cockatrice_deck version="1">
+    <deckname>Ghave</deckname>
+    <zone name="main">
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="10" name="Swamp"/>
+        <card number="10" name="Forest"/>
+        <card number="5" name="Plains"/>
+        <card number="1" name="Ghave, Guru of Spores"/>
+        <card number="1" name="The Mycotyrant"/>
+        <card number="1" name="Slimefoot, the Stowaway"/>
+        <card number="1" name="Mycoloth"/>
+        <card number="1" name="Corpsejack Menace"/>
+        <card number="1" name="Cathars' Crusade"/>
+        <card number="1" name="Nemata, Primeval Warden"/>
+        <card number="1" name="Kami of Whispered Hopes"/>
+        <card number="1" name="Elas il-Kor, Sadistic Pilgrim"/>
+        <card number="1" name="Winding Constrictor"/>
+        <card number="1" name="Hardened Scales"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Mirkwood Bats"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Zulaport Cutthroat"/>
+        <card number="1" name="Doubling Season"/>
+        <card number="1" name="Blood Artist"/>
+        <card number="1" name="Good-Fortune Unicorn"/>
+        <card number="1" name="Corpse Knight"/>
+        <card number="1" name="Mazirek, Kraul Death Priest"/>
+        <card number="1" name="Cruel Celebrant"/>
+        <card number="1" name="Cankerbloom"/>
+        <card number="1" name="Champion of Lambholt"/>
+        <card number="1" name="Conclave Mentor"/>
+        <card number="1" name="Pitiless Plunderer"/>
+        <card number="1" name="Psychotrope Thallid"/>
+        <card number="1" name="Bloodspore Thrinax"/>
+        <card number="1" name="Renata, Called to the Hunt"/>
+        <card number="1" name="Mentor of the Meek"/>
+        <card number="1" name="Fertilid"/>
+        <card number="1" name="Putrefy"/>
+        <card number="1" name="Abzan Charm"/>
+        <card number="1" name="Village Rites"/>
+        <card number="1" name="Despark"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Eerie Ultimatum"/>
+        <card number="1" name="Thirsting Roots"/>
+        <card number="1" name="Damning Verdict"/>
+        <card number="1" name="Skyshroud Claim"/>
+        <card number="1" name="Illusionist's Bracers"/>
+        <card number="1" name="Aura Shards"/>
+        <card number="1" name="Fungal Plots"/>
+        <card number="1" name="Grave Pact"/>
+        <card number="1" name="Gavony Township"/>
+        <card number="1" name="Night's Whisper"/>
+        <card number="1" name="Read the Bones"/>
+        <card number="1" name="Netherborn Altar"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Sandsteppe Citadel"/>
+        <card number="1" name="Titania's Command"/>
+        <card number="1" name="Quirion Dryad"/>
+        <card number="1" name="Felidar Retreat"/>
+        <card number="1" name="Grim Backwoods"/>
+        <card number="1" name="Not Dead After All"/>
+        <card number="1" name="Abundant Growth"/>
+        <card number="1" name="Deathrite Shaman"/>
+        <card number="1" name="Meren of Clan Nel Toth"/>
+        <card number="1" name="Savra, Queen of the Golgari"/>
+        <card number="1" name="Dusk Legion Duelist"/>
+        <card number="1" name="Indatha Triome"/>
+        <card number="1" name="Woodland Cemetery"/>
+        <card number="1" name="Overgrown Farmland"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Sunpetal Grove"/>
+        <card number="1" name="Bountiful Promenade"/>
+        <card number="1" name="Tayam, Luminous Enigma"/>
+        <card number="1" name="Ashnod's Altar"/>
+    </zone>
+    <zone name="side"/>
+</cockatrice_deck>

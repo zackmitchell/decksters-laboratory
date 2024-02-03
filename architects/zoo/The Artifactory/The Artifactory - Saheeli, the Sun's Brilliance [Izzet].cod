@@ -1,0 +1,78 @@
+<cockatrice_deck version="1">
+    <deckname>The Artifactory</deckname>
+    <zone name="main">
+        <card number="1" name="Saheeli, the Sun's Brilliance"/>
+        <card number="1" name="Goblin Welder"/>
+        <card number="1" name="Goblin Engineer"/>
+        <card number="1" name="Wurmcoil Engine"/>
+        <card number="1" name="Thought Monitor"/>
+        <card number="1" name="Determined Iteration"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Cursed Mirror"/>
+        <card number="1" name="Ichor Wellspring"/>
+        <card number="1" name="Triplicate Titan"/>
+        <card number="1" name="Enthusiastic Mechanaut"/>
+        <card number="1" name="Emry, Lurker of the Loch"/>
+        <card number="1" name="Etherium Sculptor"/>
+        <card number="1" name="Circuit Mender"/>
+        <card number="1" name="Meteor Golem"/>
+        <card number="1" name="Terror of the Peaks"/>
+        <card number="1" name="Filigree Familiar"/>
+        <card number="1" name="Jhoira, Weatherlight Captain"/>
+        <card number="1" name="Foundry Inspector"/>
+        <card number="1" name="Slobad, Iron Goblin"/>
+        <card number="1" name="Displacer Kitten"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Illusionist's Bracers"/>
+        <card number="1" name="Sting, the Glinting Dagger"/>
+        <card number="1" name="Aether Spellbomb"/>
+        <card number="1" name="Sculpting Steel"/>
+        <card number="1" name="Unwinding Clock"/>
+        <card number="1" name="Freed from the Real"/>
+        <card number="1" name="Buried Ruin"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Talisman of Creativity"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Liquimetal Torque"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Training Center"/>
+        <card number="1" name="Steam Vents"/>
+        <card number="1" name="Sulfur Falls"/>
+        <card number="1" name="Stormcarved Coast"/>
+        <card number="1" name="Izzet Boilerworks"/>
+        <card number="12" name="Mountain"/>
+        <card number="18" name="Island"/>
+        <card number="1" name="Mercurial Spelldancer"/>
+        <card number="1" name="Third Path Iconoclast"/>
+        <card number="1" name="Burnished Hart"/>
+        <card number="1" name="Storm-Kiln Artist"/>
+        <card number="1" name="Aetherize"/>
+        <card number="1" name="Borrowing 100,000 Arrows"/>
+        <card number="1" name="Vizier of Tumbling Sands"/>
+        <card number="1" name="Keep Safe"/>
+        <card number="1" name="Furnace Reins"/>
+        <card number="1" name="Reckless Fireweaver"/>
+        <card number="1" name="Loyal Apprentice"/>
+        <card number="1" name="Slip Out the Back"/>
+        <card number="1" name="An Offer You Can't Refuse"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Expressive Iteration"/>
+        <card number="1" name="Rhystic Study"/>
+        <card number="1" name="March of Swirling Mist"/>
+        <card number="1" name="Liberator, Urza's Battlethopter"/>
+        <card number="1" name="Kessig Flamebreather"/>
+        <card number="1" name="Edgin, Larcenous Lutenist"/>
+        <card number="1" name="Scrap Welder"/>
+        <card number="1" name="Phyrexian Metamorph"/>
+        <card number="1" name="Phyrexian Triniform"/>
+        <card number="1" name="The Reality Chip"/>
+        <card number="1" name="Brudiclad, Telchor Engineer"/>
+        <card number="1" name="Panharmonicon"/>
+        <card number="1" name="Combustible Gearhulk"/>
+        <card number="1" name="Master Transmuter"/>
+    </zone>
+    <zone name="side"/>
+</cockatrice_deck>

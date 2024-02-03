@@ -1,10 +1,9 @@
-<cockatrice_deck version="1.1">
+<cockatrice_deck version="1">
     <deckname>The Court of Owls</deckname>
-    <comments>Breena, the Demagogue</comments>
     <zone name="main">
         <card number="1" name="Breena, the Demagogue"/>
-        <card number="16" name="Plains"/>
-        <card number="13" name="Swamp"/>
+        <card number="14" name="Plains"/>
+        <card number="12" name="Swamp"/>
         <card number="1" name="Orcish Bowmasters"/>
         <card number="1" name="Windborn Muse"/>
         <card number="1" name="Dusk Legion Duelist"/>
@@ -38,10 +37,10 @@
         <card number="1" name="Defiler of Faith"/>
         <card number="1" name="Mirror Entity"/>
         <card number="1" name="Kunoros, Hound of Athreos"/>
+        <card number="1" name="Revival // Revenge"/>
         <card number="1" name="Legions to Ashes"/>
         <card number="1" name="Breach the Multiverse"/>
-        <card number="1" name="Damning Verdict"/>
-        <card number="1" name="Brightclimb Pathway"/>
+        <card number="1" name="Brightclimb Pathway // Grimclimb Pathway"/>
         <card number="1" name="Archivist of Oghma"/>
         <card number="1" name="Nightshade Harvester"/>
         <card number="1" name="Dauthi Voidwalker"/>
@@ -67,13 +66,17 @@
         <card number="1" name="Ghostly Prison"/>
         <card number="1" name="Mangara, the Diplomat"/>
         <card number="1" name="Austere Command"/>
-        <card number="1" name="Shaile, Dean of Radiance"/>
+        <card number="1" name="Shaile, Dean of Radiance // Embrose, Dean of Shadow"/>
         <card number="1" name="Lotho, Corrupt Shirriff"/>
         <card number="1" name="Wedding Ring"/>
         <card number="1" name="Black Market"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Archaeomancer's Map"/>
         <card number="1" name="Demonic Tutor"/>
-        <card number="1" name="Revival // Revenge"/>
+        <card number="1" name="Damning Verdict"/>
+        <card number="1" name="Caves of Koilos"/>
+        <card number="1" name="Godless Shrine"/>
+        <card number="1" name="Vault of Champions"/>
     </zone>
+    <zone name="side"/>
 </cockatrice_deck>

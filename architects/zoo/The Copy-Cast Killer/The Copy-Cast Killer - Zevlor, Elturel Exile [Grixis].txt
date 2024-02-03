@@ -1,12 +1,9 @@
-1 Zevlor, Elturel Exile
 1 Omen Hawker
 1 Baral, Chief of Compliance
 1 Electrostatic Infantry
-1 Faerie Mastermind
 1 Kessig Flamebreather
 1 Nightscape Familiar
 1 Prismari Apprentice
-1 Sprite Dragon
 1 Thieving Skydiver
 1 Third Path Iconoclast
 1 Young Pyromancer
@@ -19,59 +16,68 @@
 1 Mizzix of the Izmagnus
 1 Storm-Kiln Artist
 1 Wizards of Thay
+1 Zevlor, Elturel Exile
 1 Willbreaker
-1 Octavia, Living Thesis
-1 Phyrexian Arena
 1 Lightning Bolt
+1 Malakir Rebirth // Malakir Mire
 1 Thought Scour
-1 You Are Already Dead
 1 Abrade
-1 Bladebrand
 1 Defabricate
 1 Doom Blade
 1 Galvanic Iteration
 1 Hurkyl's Recall
 1 Increasing Vengeance
 1 Keep Safe
-1 Lightning Strike
 1 Snap
 1 Electrolyze
 1 Undercity's Embrace
 1 Astarion's Thirst
 1 Cryptic Command
+1 Deadly Rollick
 1 Press the Enemy
 1 Misdirection
+1 Fireball
 1 Ghitu Fire
-1 Angrath's Rampage
+1 Exsanguinate
+1 Sign in Blood
 1 Borrowing 100,000 Arrows
 1 Furnace Reins
 1 Jeska's Will
 1 Kari Zev's Expertise
 1 Notion Rain
+1 Painful Truths
 1 Read the Bones
+1 Talent of the Telepath
 1 Traitorous Greed
-1 Bribery
 1 Invoke the Winds
 1 Sol Ring
-1 Wayfarer's Bauble
+1 The Enigma Jewel // Locus of Enlightenment
 1 Arcane Signet
+1 Fellwar Stone
+1 Mind Stone
 1 Sting, the Glinting Dagger
 1 Swiftfoot Boots
 1 Thought Vessel
-1 Training Grounds
-1 Wizard Class
 1 Quicksilver Dagger
 1 Teferi's Ageless Insight
-1 Cabal Coffers
 1 Command Tower
+1 Drowned Catacomb
+1 Exotic Orchard
 1 Frostboil Snarl
-1 Haunted Ridge
-12 Island
+10 Island
 1 Luxury Suite
 1 Morphic Pool
-8 Mountain
+5 Mountain
+1 Myriad Landscape
+1 Polluted Delta
 1 Prismatic Vista
+1 Scalding Tarn
+1 Shipwreck Marsh
+1 Shivan Reef
+1 Steam Vents
+1 Stormcarved Coast
 1 Sulfur Falls
-6 Swamp
+5 Swamp
 1 Training Center
 1 Urborg, Tomb of Yawgmoth
+1 Watery Grave

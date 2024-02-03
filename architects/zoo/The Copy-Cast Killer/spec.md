@@ -8,6 +8,8 @@ Color Identity: Grixis (BUR)
 ```
 
 ### Guide
+Multiply various instants and sorceries so they hit all opponents, or a single creature each opponent controls.
+
 Zevlor's ability means he can make single target spells hit something for each opponent, which is great - but because we're copying the original spell to do this, the vast majority of great value cards in the deck are ones that "DO SOMETHING" to a single target, but ALSO have something like "Draw a card", which will net you a bonus card for each opponent's copy.
 
 One of the best examples of this power is Press the Enemy. If you pay 2 colorless and tap Zevlor for his ability, then cast Press the Enemy for 6 total mana altogether, you could return one non-land permanent to the hand of each opponent, and then cast - for free - 3 instants or sorceries, each equal to or less than the cost of one of the returned permanents.

@@ -1,4 +1,4 @@
-# Gal Fieri
+# Hammer Crime
 ## Overview
 ### Details
 ```
@@ -8,7 +8,7 @@ Color Identity: Monored (R)
 ```
 
 ### Guide
-Burn baby burn.
+Deal single-target spell damage to an individual Creature to copy that damage to all opponents.
 
 ### Changelog
 v1.0

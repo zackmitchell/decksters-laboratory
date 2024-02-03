@@ -8,6 +8,7 @@ Color Identity: Gruul (GR)
 ```
 
 ### Guide
+Cast Auras and Equipment to make 2/2 Spirit tokens then keep stacking +1/+1 counters on your creatures.
 
 ### Changelog
 v1.2

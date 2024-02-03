@@ -1,0 +1,88 @@
+<cockatrice_deck version="1">
+    <deckname>Dominaria Schemin'</deckname>
+    <zone name="main">
+        <card number="1" name="Zur, Eternal Schemer"/>
+        <card number="1" name="Monk Class"/>
+        <card number="1" name="Banishing Light"/>
+        <card number="1" name="Monologue Tax"/>
+        <card number="1" name="Mesa Enchantress"/>
+        <card number="1" name="Heliod, the Radiant Dawn // Heliod, the Warped Eclipse"/>
+        <card number="1" name="Zur the Enchanter"/>
+        <card number="1" name="Starfield Mystic"/>
+        <card number="1" name="Starnheim Courser"/>
+        <card number="1" name="Nykthos Paragon"/>
+        <card number="1" name="Protean Thaumaturge"/>
+        <card number="1" name="Grand Arbiter Augustin IV"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Anguished Unmaking"/>
+        <card number="1" name="Fracture"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="11" name="Plains"/>
+        <card number="5" name="Swamp"/>
+        <card number="5" name="Island"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Adarkar Wastes"/>
+        <card number="1" name="Shattered Sanctum"/>
+        <card number="1" name="Underground River"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Burnished Hart"/>
+        <card number="1" name="Wall of Denial"/>
+        <card number="1" name="Ghostly Prison"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Read the Bones"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Talisman of Hierarchy"/>
+        <card number="1" name="Talisman of Dominance"/>
+        <card number="1" name="Archetype of Courage"/>
+        <card number="1" name="Flawless Maneuver"/>
+        <card number="1" name="Sign in Blood"/>
+        <card number="1" name="Land Tax"/>
+        <card number="1" name="Flowering of the White Tree"/>
+        <card number="1" name="Pearl Medallion"/>
+        <card number="1" name="Extinguish All Hope"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Brave the Sands"/>
+        <card number="1" name="Flooded Strand"/>
+        <card number="1" name="Godless Shrine"/>
+        <card number="1" name="Hallowed Fountain"/>
+        <card number="1" name="Watery Grave"/>
+        <card number="1" name="Daxos, Blessed by the Sun"/>
+        <card number="1" name="Underworld Coinsmith"/>
+        <card number="1" name="Grim Guardian"/>
+        <card number="1" name="Debt to the Deathless"/>
+        <card number="1" name="Esper Charm"/>
+        <card number="1" name="Wavebreak Hippocamp"/>
+        <card number="1" name="Mangara, the Diplomat"/>
+        <card number="1" name="Deep Analysis"/>
+        <card number="1" name="Storm of Saruman"/>
+        <card number="1" name="Sanguine Bond"/>
+        <card number="1" name="Kaya's Ghostform"/>
+        <card number="1" name="Aegis of the Gods"/>
+        <card number="1" name="Ashiok's Reaper"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Riptide Laboratory"/>
+        <card number="1" name="Isolated Chapel"/>
+        <card number="1" name="Demolition Field"/>
+        <card number="1" name="Teferi's Ageless Insight"/>
+        <card number="1" name="Spirited Companion"/>
+        <card number="1" name="Court of Vantress"/>
+        <card number="1" name="Aphemia, the Cacophony"/>
+        <card number="1" name="Darksteel Mutation"/>
+        <card number="1" name="Sigil of the Empty Throne"/>
+        <card number="1" name="Cloud Key"/>
+        <card number="1" name="Nightmare Shepherd"/>
+        <card number="1" name="Archon of Sun's Grace"/>
+        <card number="1" name="Erebos, Bleak-Hearted"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Thirst for Meaning"/>
+        <card number="1" name="Not Dead After All"/>
+        <card number="1" name="Morphic Pool"/>
+        <card number="1" name="Sea of Clouds"/>
+        <card number="1" name="Borrowing 100,000 Arrows"/>
+        <card number="1" name="Glacial Fortress"/>
+        <card number="1" name="Phyrexian Arena"/>
+    </zone>
+    <zone name="side"/>
+</cockatrice_deck>

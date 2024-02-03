@@ -1,0 +1,86 @@
+<cockatrice_deck version="1">
+    <deckname>Demon Daze</deckname>
+    <zone name="main">
+        <card number="1" name="Clavileño, First of the Blessed"/>
+        <card number="1" name="Bartolomé del Presidio"/>
+        <card number="1" name="Blood Artist"/>
+        <card number="1" name="Bloodghast"/>
+        <card number="1" name="Bloodline Necromancer"/>
+        <card number="1" name="Butcher of Malakir"/>
+        <card number="1" name="Carmen, Cruel Skymarcher"/>
+        <card number="1" name="Champion of Dusk"/>
+        <card number="1" name="Charismatic Conqueror"/>
+        <card number="1" name="Cordial Vampire"/>
+        <card number="1" name="Crossway Troublemakers"/>
+        <card number="1" name="Cruel Celebrant"/>
+        <card number="1" name="Drana, Liberator of Malakir"/>
+        <card number="1" name="Dusk Legion Sergeant"/>
+        <card number="1" name="Dusk Legion Zealot"/>
+        <card number="1" name="Elenda, the Dusk Rose"/>
+        <card number="1" name="Indulgent Aristocrat"/>
+        <card number="1" name="Legion Lieutenant"/>
+        <card number="1" name="Master of Dark Rites"/>
+        <card number="1" name="Mavren Fein, Dusk Apostle"/>
+        <card number="1" name="Nighthawk Scavenger"/>
+        <card number="1" name="Patron of the Vein"/>
+        <card number="1" name="Redemption Choir"/>
+        <card number="1" name="Sanctum Seeker"/>
+        <card number="1" name="Twilight Prophet"/>
+        <card number="1" name="Viscera Seer"/>
+        <card number="1" name="Welcoming Vampire"/>
+        <card number="1" name="Yahenni, Undying Partisan"/>
+        <card number="1" name="Return to Dust"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Utter End"/>
+        <card number="1" name="Village Rites"/>
+        <card number="1" name="Damn"/>
+        <card number="1" name="New Blood"/>
+        <card number="1" name="Olivia's Wrath"/>
+        <card number="1" name="Pact of the Serpent"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Blade of the Bloodchief"/>
+        <card number="1" name="Heirloom Blade"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Orzhov Signet"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Talisman of Hierarchy"/>
+        <card number="1" name="Etchings of the Chosen"/>
+        <card number="1" name="Exquisite Blood"/>
+        <card number="1" name="March of the Canonized"/>
+        <card number="1" name="Promise of Aclazotz // Foul Rebirth"/>
+        <card number="1" name="Radiant Destiny"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Isolated Chapel"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Orzhov Basilica"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="7" name="Plains"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Secluded Courtyard"/>
+        <card number="1" name="Shineshadow Snarl"/>
+        <card number="15" name="Swamp"/>
+        <card number="1" name="Tainted Field"/>
+        <card number="1" name="Temple of Silence"/>
+        <card number="1" name="Unclaimed Territory"/>
+        <card number="1" name="Vault of the Archangel"/>
+        <card number="1" name="Captivating Vampire"/>
+        <card number="1" name="Edgar, Charmed Groom // Edgar Markov's Coffin"/>
+        <card number="1" name="Sanguine Bond"/>
+        <card number="1" name="Malakir Bloodwitch"/>
+        <card number="1" name="Bastion of Remembrance"/>
+        <card number="1" name="Debt to the Deathless"/>
+        <card number="1" name="Godless Shrine"/>
+        <card number="1" name="Caves of Koilos"/>
+        <card number="1" name="Night's Whisper"/>
+        <card number="1" name="Read the Bones"/>
+        <card number="1" name="Black Market"/>
+        <card number="1" name="Sign in Blood"/>
+        <card number="1" name="Teysa Karlov"/>
+        <card number="1" name="Not Dead After All"/>
+        <card number="1" name="Malakir Rebirth // Malakir Mire"/>
+        <card number="1" name="Vito, Thorn of the Dusk Rose"/>
+    </zone>
+    <zone name="side"/>
+</cockatrice_deck>

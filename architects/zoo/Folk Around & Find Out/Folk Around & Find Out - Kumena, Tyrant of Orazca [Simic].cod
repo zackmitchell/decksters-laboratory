@@ -1,1 +1,86 @@
-<cockatrice_deck version="1"><deckname>Folk Around &amp; Find Out</deckname><zone name="main"><card number="1" name="Svyelun of Sea and Sky"/><card number="1" name="Stonybrook Banneret"/><card number="1" name="Merrow Reejerey"/><card number="1" name="Master of the Pearl Trident"/><card number="1" name="Merfolk Sovereign"/><card number="1" name="Herald of Secret Streams"/><card number="1" name="Hardened Scales"/><card number="1" name="Kindred Discovery"/><card number="1" name="Tatyova, Benthic Druid"/><card number="1" name="Thieving Skydiver"/><card number="1" name="Vodalian Hexcatcher"/><card number="1" name="Tishana's Tidebinder"/><card number="1" name="Growth Spiral"/><card number="1" name="Pongify"/><card number="1" name="An Offer You Can't Refuse"/><card number="1" name="Filter Out"/><card number="1" name="Kodama's Reach"/><card number="1" name="Nature's Lore"/><card number="1" name="Swiftfoot Boots"/><card number="1" name="Deeproot Pilgrimage"/><card number="1" name="Reflections of Littjara"/><card number="1" name="Simic Ascendancy"/><card number="1" name="Reliquary Tower"/><card number="1" name="Rogue's Passage"/><card number="1" name="Sol Ring"/><card number="1" name="Thought Vessel"/><card number="1" name="Command Tower"/><card number="1" name="Hinterland Harbor"/><card number="1" name="Path of Ancestry"/><card number="1" name="Secluded Courtyard"/><card number="1" name="Vineglimmer Snarl"/><card number="1" name="Rejuvenating Springs"/><card number="1" name="Dreamroot Cascade"/><card number="1" name="Yavimaya Coast"/><card number="1" name="Myriad Landscape"/><card number="1" name="Merrow Harbinger"/><card number="1" name="True-Name Nemesis"/><card number="1" name="Harbinger of the Tides"/><card number="1" name="Triton Shorestalker"/><card number="16" name="Island"/><card number="6" name="Forest"/><card number="1" name="Slip Out the Back"/><card number="1" name="Arachnogenesis"/><card number="1" name="Arcane Signet"/><card number="1" name="Reconnaissance Mission"/><card number="1" name="Access Tunnel"/><card number="1" name="Counterspell"/><card number="1" name="Silvergill Adept"/><card number="1" name="Kumena, Tyrant of Orazca"/><card number="1" name="Deeproot Waters"/><card number="1" name="Merfolk Mistbinder"/><card number="1" name="Seafloor Oracle"/><card number="1" name="Cold-Eyed Selkie"/><card number="1" name="Murkfiend Liege"/><card number="1" name="Lord of Atlantis"/><card number="1" name="Tishana, Voice of Thunder"/><card number="1" name="Fallowsage"/><card number="1" name="Prime Speaker Zegana"/><card number="1" name="Harvest Season"/><card number="1" name="Wave Goodbye"/><card number="1" name="Herald's Horn"/><card number="1" name="Vanquisher's Banner"/><card number="1" name="Quest for Renewal"/><card number="1" name="Mist-Cloaked Herald"/><card number="1" name="Emperor Mihail II"/><card number="1" name="Kopala, Warden of Waves"/><card number="1" name="Mind Stone"/><card number="1" name="Deep Analysis"/><card number="1" name="Harmonize"/><card number="1" name="Crystal Grotto"/><card number="1" name="The Reality Chip"/><card number="1" name="Hakbal of the Surging Soul"/><card number="1" name="Breeding Pool"/><card number="1" name="The Grey Havens"/><card number="1" name="Wake Thrasher"/><card number="1" name="Elven Chorus"/><card number="1" name="Inga and Esika"/><card number="1" name="Deepfathom Echo"/><card number="1" name="Craterhoof Behemoth"/><card number="1" name="Temple of Mystery"/></zone><zone name="side"/></cockatrice_deck>
+<cockatrice_deck version="1">
+    <deckname>Folk Around &amp; Find Out</deckname>
+    <zone name="main">
+        <card number="1" name="Svyelun of Sea and Sky"/>
+        <card number="1" name="Stonybrook Banneret"/>
+        <card number="1" name="Merrow Reejerey"/>
+        <card number="1" name="Master of the Pearl Trident"/>
+        <card number="1" name="Merfolk Sovereign"/>
+        <card number="1" name="Herald of Secret Streams"/>
+        <card number="1" name="Hardened Scales"/>
+        <card number="1" name="Kindred Discovery"/>
+        <card number="1" name="Tatyova, Benthic Druid"/>
+        <card number="1" name="Thieving Skydiver"/>
+        <card number="1" name="Vodalian Hexcatcher"/>
+        <card number="1" name="Tishana's Tidebinder"/>
+        <card number="1" name="Growth Spiral"/>
+        <card number="1" name="Pongify"/>
+        <card number="1" name="An Offer You Can't Refuse"/>
+        <card number="1" name="Filter Out"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Deeproot Pilgrimage"/>
+        <card number="1" name="Reflections of Littjara"/>
+        <card number="1" name="Simic Ascendancy"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Hinterland Harbor"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Secluded Courtyard"/>
+        <card number="1" name="Vineglimmer Snarl"/>
+        <card number="1" name="Rejuvenating Springs"/>
+        <card number="1" name="Dreamroot Cascade"/>
+        <card number="1" name="Yavimaya Coast"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Merrow Harbinger"/>
+        <card number="1" name="True-Name Nemesis"/>
+        <card number="1" name="Harbinger of the Tides"/>
+        <card number="1" name="Triton Shorestalker"/>
+        <card number="16" name="Island"/>
+        <card number="6" name="Forest"/>
+        <card number="1" name="Slip Out the Back"/>
+        <card number="1" name="Arachnogenesis"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Reconnaissance Mission"/>
+        <card number="1" name="Access Tunnel"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Silvergill Adept"/>
+        <card number="1" name="Kumena, Tyrant of Orazca"/>
+        <card number="1" name="Deeproot Waters"/>
+        <card number="1" name="Merfolk Mistbinder"/>
+        <card number="1" name="Seafloor Oracle"/>
+        <card number="1" name="Cold-Eyed Selkie"/>
+        <card number="1" name="Murkfiend Liege"/>
+        <card number="1" name="Lord of Atlantis"/>
+        <card number="1" name="Tishana, Voice of Thunder"/>
+        <card number="1" name="Fallowsage"/>
+        <card number="1" name="Prime Speaker Zegana"/>
+        <card number="1" name="Harvest Season"/>
+        <card number="1" name="Wave Goodbye"/>
+        <card number="1" name="Herald's Horn"/>
+        <card number="1" name="Vanquisher's Banner"/>
+        <card number="1" name="Quest for Renewal"/>
+        <card number="1" name="Mist-Cloaked Herald"/>
+        <card number="1" name="Emperor Mihail II"/>
+        <card number="1" name="Kopala, Warden of Waves"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Deep Analysis"/>
+        <card number="1" name="Harmonize"/>
+        <card number="1" name="Crystal Grotto"/>
+        <card number="1" name="The Reality Chip"/>
+        <card number="1" name="Hakbal of the Surging Soul"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="1" name="The Grey Havens"/>
+        <card number="1" name="Wake Thrasher"/>
+        <card number="1" name="Elven Chorus"/>
+        <card number="1" name="Inga and Esika"/>
+        <card number="1" name="Deepfathom Echo"/>
+        <card number="1" name="Craterhoof Behemoth"/>
+        <card number="1" name="Temple of Mystery"/>
+    </zone>
+    <zone name="side"/>
+</cockatrice_deck>

@@ -43,7 +43,6 @@
 1 Safewright Quest
 1 Epic Experiment
 1 Rip Apart
-1 Three Visits
 1 Angelfire Ignition
 1 Cultivate
 1 Kodama's Reach
@@ -57,6 +56,7 @@
 1 Relic of Legends
 1 Tome of the Guildpact
 1 Crystallization
+1 Intangible Virtue
 1 Brokers Ascendancy
 1 Cabaretti Ascendancy
 1 Shield of the Oversoul
@@ -65,18 +65,15 @@
 1 Clifftop Retreat
 1 Command Tower
 1 Dreamroot Cascade
-2 Forest
-1 Hinterland Harbor
-2 Island
+3 Forest
+3 Island
 1 Jetmir's Garden
-1 Ketria Triome
 1 Mines of Moria
 1 Misty Rainforest
 6 Mountain
 1 Myriad Landscape
 1 Overgrown Farmland
-6 Plains
-1 Rejuvenating Springs
+7 Plains
 1 Rivendell
 1 Rogue's Passage
 1 Sea of Clouds
