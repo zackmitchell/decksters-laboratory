@@ -58,7 +58,7 @@
 1 Fae Offering
 1 Promise of Bunrei
 1 Tribute to the World Tree
-1 Wedding Announcement // Wedding Festivity
+1 Wedding Announcement
 1 Felidar Retreat
 1 Cathars' Crusade
 1 Bountiful Promenade

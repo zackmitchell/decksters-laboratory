@@ -19,7 +19,7 @@
 1 Zevlor, Elturel Exile
 1 Willbreaker
 1 Lightning Bolt
-1 Malakir Rebirth // Malakir Mire
+1 Malakir Rebirth
 1 Thought Scour
 1 Abrade
 1 Defabricate
@@ -51,7 +51,7 @@
 1 Traitorous Greed
 1 Invoke the Winds
 1 Sol Ring
-1 The Enigma Jewel // Locus of Enlightenment
+1 The Enigma Jewel
 1 Arcane Signet
 1 Fellwar Stone
 1 Mind Stone

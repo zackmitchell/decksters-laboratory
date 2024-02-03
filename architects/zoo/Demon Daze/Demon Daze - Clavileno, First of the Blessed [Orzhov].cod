@@ -66,7 +66,7 @@
         <card number="1" name="Unclaimed Territory"/>
         <card number="1" name="Vault of the Archangel"/>
         <card number="1" name="Captivating Vampire"/>
-        <card number="1" name="Edgar, Charmed Groom // Edgar Markov's Coffin"/>
+        <card number="1" name="Edgar, Charmed Groom"/>
         <card number="1" name="Sanguine Bond"/>
         <card number="1" name="Malakir Bloodwitch"/>
         <card number="1" name="Bastion of Remembrance"/>
@@ -79,7 +79,7 @@
         <card number="1" name="Sign in Blood"/>
         <card number="1" name="Teysa Karlov"/>
         <card number="1" name="Not Dead After All"/>
-        <card number="1" name="Malakir Rebirth // Malakir Mire"/>
+        <card number="1" name="Malakir Rebirth"/>
         <card number="1" name="Vito, Thorn of the Dusk Rose"/>
     </zone>
     <zone name="side"/>

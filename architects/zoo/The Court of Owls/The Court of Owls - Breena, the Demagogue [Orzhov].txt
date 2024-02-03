@@ -3,7 +3,7 @@
 1 Dusk Legion Duelist
 1 Lotho, Corrupt Shirriff
 1 Orcish Bowmasters
-1 Shaile, Dean of Radiance // Embrose, Dean of Shadow
+1 Shaile, Dean of Radiance
 1 Breena, the Demagogue
 1 Fain, the Broker
 1 Guardian of Faith
@@ -60,7 +60,7 @@
 1 Phyrexian Arena
 1 Vow of Torment
 1 Black Market
-1 Brightclimb Pathway // Grimclimb Pathway
+1 Brightclimb Pathway
 1 Caves of Koilos
 1 Command Tower
 1 Godless Shrine
