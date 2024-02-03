@@ -1,11 +1,12 @@
-<cockatrice_deck version="1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
     <deckname>REO Speed Dragon</deckname>
-    <comments>Ognis, the Dragon's Lash</comments>
+    <comments></comments>
     <zone name="main">
         <card number="1" name="Ognis, the Dragon's Lash"/>
-        <card number="14" name="Mountain"/>
-        <card number="2" name="Swamp"/>
-        <card number="5" name="Forest"/>
+        <card number="15" name="Mountain"/>
+        <card number="4" name="Swamp"/>
+        <card number="6" name="Forest"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Arcane Signet"/>
@@ -41,48 +42,45 @@
         <card number="1" name="Assassin's Trophy"/>
         <card number="1" name="Big Score"/>
         <card number="1" name="Riveteers Charm"/>
-        <card number="1" name="Costly Plunder"/>
         <card number="1" name="Unexpected Windfall"/>
         <card number="1" name="Second Harvest"/>
-        <card number="1" name="Reckoner's Bargain"/>
         <card number="1" name="Kodama's Reach"/>
         <card number="1" name="Nature's Lore"/>
-        <card number="1" name="Sylvan Library"/>
         <card number="1" name="Read the Bones"/>
         <card number="1" name="Idol of Oblivion"/>
         <card number="1" name="Parallel Lives"/>
         <card number="1" name="Sticky Fingers"/>
-        <card number="1" name="Fable of the Mirror-Breaker // Reflection of Kiki-Jiki"/>
-        <card number="1" name="Talisman of Resilience"/>
-        <card number="1" name="Riveteers Overlook"/>
         <card number="1" name="Elemental Mastery"/>
         <card number="1" name="Obscuring Haze"/>
         <card number="1" name="Skyshroud Claim"/>
-        <card number="1" name="Bloom Tender"/>
         <card number="1" name="Overgrown Tomb"/>
-        <card number="1" name="Verdant Catacombs"/>
         <card number="1" name="Guttural Response"/>
-        <card number="1" name="Ziatora's Envoy"/>
         <card number="1" name="Elvish Mystic"/>
         <card number="1" name="Undergrowth Stadium"/>
-        <card number="1" name="Necroblossom Snarl"/>
-        <card number="1" name="Woodland Cemetery"/>
         <card number="1" name="Graven Cairns"/>
         <card number="1" name="Sek'Kuar, Deathkeeper"/>
         <card number="1" name="There and Back Again"/>
-        <card number="1" name="Putrefy"/>
         <card number="1" name="Myriad Landscape"/>
-        <card number="1" name="Golgari Rot Farm"/>
-        <card number="1" name="Gruul Turf"/>
         <card number="1" name="Mind Stone"/>
         <card number="1" name="Thought Vessel"/>
         <card number="1" name="Spire Garden"/>
-        <card number="1" name="Luxury Suite"/>
         <card number="1" name="Exotic Orchard"/>
         <card number="1" name="Reflecting Pool"/>
-        <card number="1" name="Hull Breach"/>
-        <card number="1" name="Jaya's Immolating Inferno"/>
-        <card number="1" name="Stomping Ground"/>
-        <card number="1" name="Blood Crypt"/>
+        <card number="1" name="Stolen Strategy"/>
+        <card number="1" name="Tempt with Vengeance"/>
+        <card number="1" name="Reckless Fireweaver"/>
+        <card number="1" name="Sign in Blood"/>
+        <card number="1" name="Seize the Spotlight"/>
+        <card number="1" name="Terminate"/>
+        <card number="1" name="Monastery Swiftspear"/>
+        <card number="1" name="Disrupt Decorum"/>
+        <card number="1" name="Feign Death"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Llanowar Wastes"/>
+        <card number="1" name="Rockfall Vale"/>
+        <card number="1" name="Dragonskull Summit"/>
+        <card number="1" name="Night's Whisper"/>
+        <card number="1" name="Fable of the Mirror-Breaker"/>
     </zone>
+    <zone name="side"/>
 </cockatrice_deck>
