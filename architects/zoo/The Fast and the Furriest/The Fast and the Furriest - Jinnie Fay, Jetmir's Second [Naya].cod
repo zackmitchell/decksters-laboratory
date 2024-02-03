@@ -34,11 +34,9 @@
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Command Tower"/>
-        <card number="1" name="Cabaretti Courtyard"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Temple of Triumph"/>
         <card number="1" name="Overgrown Farmland"/>
-        <card number="1" name="Clifftop Retreat"/>
         <card number="10" name="Forest"/>
         <card number="2" name="Mountain"/>
         <card number="1" name="Bountiful Promenade"/>
@@ -54,7 +52,6 @@
         <card number="1" name="Exotic Orchard"/>
         <card number="1" name="Emeria Angel"/>
         <card number="1" name="Call the Coppercoats"/>
-        <card number="1" name="Furycalm Snarl"/>
         <card number="1" name="Flawless Maneuver"/>
         <card number="1" name="Hordeling Outburst"/>
         <card number="1" name="Join the Dance"/>
@@ -81,6 +78,9 @@
         <card number="1" name="Promise of Bunrei"/>
         <card number="1" name="Idol of Oblivion"/>
         <card number="1" name="Temple Garden"/>
+        <card number="1" name="Spectator Seating"/>
+        <card number="1" name="Spire Garden"/>
+        <card number="1" name="Sunpetal Grove"/>
     </zone>
     <zone name="side"/>
 </cockatrice_deck>

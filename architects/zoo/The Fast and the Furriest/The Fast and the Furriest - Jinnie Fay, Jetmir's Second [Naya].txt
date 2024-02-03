@@ -63,18 +63,18 @@
 1 Cathars' Crusade
 1 Bountiful Promenade
 1 Brushland
-1 Cabaretti Courtyard
-1 Clifftop Retreat
 1 Command Tower
 1 Exotic Orchard
 10 Forest
-1 Furycalm Snarl
 1 Karplusan Forest
 1 Minas Tirith
 2 Mountain
 1 Myriad Landscape
 1 Overgrown Farmland
 11 Plains
+1 Spectator Seating
+1 Spire Garden
+1 Sunpetal Grove
 1 Temple Garden
 1 Temple of Triumph
 1 The Shire
