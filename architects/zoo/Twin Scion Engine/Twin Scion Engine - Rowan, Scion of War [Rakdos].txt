@@ -60,14 +60,16 @@
 1 Exquisite Blood
 1 Polluted Bonds
 1 Virtue of Persistence // Locthwain Scorn
+1 Blood Crypt
 1 Command Tower
 1 Crystal Grotto
 1 Dragonskull Summit
+1 Foreboding Ruins
 1 Haunted Ridge
 1 Luxury Suite
 1 Mount Doom
-11 Mountain
+10 Mountain
 1 Myriad Landscape
 1 Radiant Fountain
 1 Sulfurous Springs
-18 Swamp
+17 Swamp

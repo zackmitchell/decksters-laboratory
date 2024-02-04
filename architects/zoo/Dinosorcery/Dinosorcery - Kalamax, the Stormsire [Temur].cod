@@ -45,7 +45,6 @@
         <card number="1" name="Command Tower"/>
         <card number="1" name="Exotic Orchard"/>
         <card number="1" name="Ketria Triome"/>
-        <card number="1" name="Yavimaya Coast"/>
         <card number="1" name="Survivors' Encampment"/>
         <card number="1" name="Holdout Settlement"/>
         <card number="1" name="Steam Vents"/>
@@ -55,9 +54,9 @@
         <card number="1" name="Rejuvenating Springs"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Spire Garden"/>
-        <card number="12" name="Island"/>
+        <card number="10" name="Island"/>
         <card number="5" name="Forest"/>
-        <card number="7" name="Mountain"/>
+        <card number="8" name="Mountain"/>
         <card number="1" name="Johann, Apprentice Sorcerer"/>
         <card number="1" name="Electrostatic Field"/>
         <card number="1" name="Slip Out the Back"/>
@@ -80,6 +79,8 @@
         <card number="1" name="Glademuse"/>
         <card number="1" name="Naiad of Hidden Coves"/>
         <card number="1" name="Sapphire Charm"/>
+        <card number="1" name="Sulfur Falls"/>
+        <card number="1" name="Dreamroot Cascade"/>
     </zone>
     <zone name="side"/>
 </cockatrice_deck>

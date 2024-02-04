@@ -2,8 +2,8 @@
     <deckname>Twin Scion Engine</deckname>
     <zone name="main">
         <card number="1" name="Rowan, Scion of War"/>
-        <card number="11" name="Mountain"/>
-        <card number="18" name="Swamp"/>
+        <card number="10" name="Mountain"/>
+        <card number="17" name="Swamp"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Luxury Suite"/>
         <card number="1" name="Sign in Blood"/>
@@ -74,6 +74,8 @@
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Keen Duelist"/>
         <card number="1" name="Torment of Hailfire"/>
+        <card number="1" name="Blood Crypt"/>
+        <card number="1" name="Foreboding Ruins"/>
     </zone>
     <zone name="side"/>
 </cockatrice_deck>

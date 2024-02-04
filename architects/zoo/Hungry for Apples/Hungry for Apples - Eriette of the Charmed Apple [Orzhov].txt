@@ -61,13 +61,15 @@
 1 Unholy Indenture
 1 One Thousand Lashes
 1 Sigil of the Empty Throne
+1 Caves of Koilos
 1 Command Tower
-1 Evolving Wilds
 1 Exotic Orchard
+1 Godless Shrine
 1 Hall of Heliod's Generosity
 1 Isolated Chapel
+1 Marsh Flats
 17 Plains
 1 Shattered Sanctum
 1 Shineshadow Snarl
-12 Swamp
-1 Temple of Silence
+10 Swamp
+1 Vault of Champions

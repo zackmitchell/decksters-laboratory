@@ -8,9 +8,9 @@
         <card number="1" name="Mind Stone"/>
         <card number="1" name="Thought Vessel"/>
         <card number="1" name="Fellwar Stone"/>
-        <card number="7" name="Mountain"/>
-        <card number="11" name="Plains"/>
-        <card number="8" name="Swamp"/>
+        <card number="6" name="Mountain"/>
+        <card number="9" name="Plains"/>
+        <card number="6" name="Swamp"/>
         <card number="1" name="Isshin, Two Heavens as One"/>
         <card number="1" name="The Master, Multiplied"/>
         <card number="1" name="Anim Pakal, Thousandth Moon"/>
@@ -78,6 +78,11 @@
         <card number="1" name="Luxury Suite"/>
         <card number="1" name="Talisman of Conviction"/>
         <card number="1" name="Talisman of Indulgence"/>
+        <card number="1" name="Sundown Pass"/>
+        <card number="1" name="Shattered Sanctum"/>
+        <card number="1" name="Vault of Champions"/>
+        <card number="1" name="Isolated Chapel"/>
+        <card number="1" name="Blood Crypt"/>
     </zone>
     <zone name="side"/>
 </cockatrice_deck>

@@ -63,9 +63,11 @@
 1 Rhystic Study
 1 Buried Ruin
 1 Command Tower
-18 Island
+1 Frostboil Snarl
+16 Island
 1 Izzet Boilerworks
 12 Mountain
+1 Shivan Reef
 1 Steam Vents
 1 Stormcarved Coast
 1 Sulfur Falls

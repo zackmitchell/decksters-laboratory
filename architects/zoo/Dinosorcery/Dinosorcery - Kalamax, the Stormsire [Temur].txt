@@ -62,18 +62,19 @@
 1 Leyline Immersion
 1 Wilderness Reclamation
 1 Command Tower
+1 Dreamroot Cascade
 1 Exotic Orchard
 5 Forest
 1 Holdout Settlement
-12 Island
+10 Island
 1 Ketria Triome
-7 Mountain
+8 Mountain
 1 Myriad Landscape
 1 Rejuvenating Springs
 1 Shivan Reef
 1 Spire Garden
 1 Steam Vents
 1 Stomping Ground
+1 Sulfur Falls
 1 Survivors' Encampment
 1 Training Center
-1 Yavimaya Coast

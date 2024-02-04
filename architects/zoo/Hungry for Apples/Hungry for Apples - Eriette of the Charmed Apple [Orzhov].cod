@@ -2,10 +2,9 @@
     <deckname>Hungry For Apples?</deckname>
     <zone name="main">
         <card number="1" name="Eriette of the Charmed Apple"/>
-        <card number="12" name="Swamp"/>
+        <card number="10" name="Swamp"/>
         <card number="17" name="Plains"/>
         <card number="1" name="Command Tower"/>
-        <card number="1" name="Evolving Wilds"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Mind Stone"/>
@@ -13,7 +12,6 @@
         <card number="1" name="Pearl Medallion"/>
         <card number="1" name="Shineshadow Snarl"/>
         <card number="1" name="Shattered Sanctum"/>
-        <card number="1" name="Temple of Silence"/>
         <card number="1" name="Exotic Orchard"/>
         <card number="1" name="Hall of Heliod's Generosity"/>
         <card number="1" name="Well of Lost Dreams"/>
@@ -74,6 +72,10 @@
         <card number="1" name="Feebleness"/>
         <card number="1" name="One Thousand Lashes"/>
         <card number="1" name="Transcendent Envoy"/>
+        <card number="1" name="Caves of Koilos"/>
+        <card number="1" name="Godless Shrine"/>
+        <card number="1" name="Marsh Flats"/>
+        <card number="1" name="Vault of Champions"/>
     </zone>
     <zone name="side"/>
 </cockatrice_deck>

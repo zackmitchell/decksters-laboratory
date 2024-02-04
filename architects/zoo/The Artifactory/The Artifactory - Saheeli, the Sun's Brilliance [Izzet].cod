@@ -43,7 +43,7 @@
         <card number="1" name="Stormcarved Coast"/>
         <card number="1" name="Izzet Boilerworks"/>
         <card number="12" name="Mountain"/>
-        <card number="18" name="Island"/>
+        <card number="16" name="Island"/>
         <card number="1" name="Mercurial Spelldancer"/>
         <card number="1" name="Third Path Iconoclast"/>
         <card number="1" name="Burnished Hart"/>
@@ -73,6 +73,8 @@
         <card number="1" name="Panharmonicon"/>
         <card number="1" name="Combustible Gearhulk"/>
         <card number="1" name="Master Transmuter"/>
+        <card number="1" name="Frostboil Snarl"/>
+        <card number="1" name="Shivan Reef"/>
     </zone>
     <zone name="side"/>
 </cockatrice_deck>
